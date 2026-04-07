@@ -1,0 +1,3582 @@
+{
+  "doc-0d3a1215c59e5da49b2f93925ba501a5": {
+    "relation_pairs": [
+      [
+        "Hyperthyroidism",
+        "Radioisotope Therapy"
+      ],
+      [
+        "MAs",
+        "Sec"
+      ],
+      [
+        "Curie 부인",
+        "라듐"
+      ],
+      [
+        "Anatomical Change",
+        "핵의학진단법"
+      ],
+      [
+        "Berson",
+        "방사면역측정법"
+      ],
+      [
+        "Radioimmuno Therapy",
+        "방사성핵종표지단일클론항체"
+      ],
+      [
+        "Beta Ray",
+        "Radioisotope Therapy"
+      ],
+      [
+        "정적영상",
+        "핵의학영상분야"
+      ],
+      [
+        "Blood Diseases",
+        "Radioisotope Therapy"
+      ],
+      [
+        "Count",
+        "Time"
+      ],
+      [
+        "131I을사용",
+        "갑상선암"
+      ],
+      [
+        "Dosage",
+        "Time"
+      ],
+      [
+        "Nuclear Medicine",
+        "Therapy"
+      ],
+      [
+        "SPECT",
+        "게이트심근촬영에의한심근운동분석연구"
+      ],
+      [
+        "체내검사",
+        "핵의학영상분야"
+      ],
+      [
+        "John Keys",
+        "SPECT"
+      ],
+      [
+        "125I",
+        "In Vitro Study"
+      ],
+      [
+        "PET",
+        "조장희 박사"
+      ],
+      [
+        "Lawrence",
+        "사이클로트론"
+      ],
+      [
+        "동적영상",
+        "핵의학영상분야"
+      ],
+      [
+        "β선",
+        "신체"
+      ],
+      [
+        "방사선종양학과",
+        "핵의학과"
+      ],
+      [
+        "Department Of Nuclear Medicine",
+        "PET"
+      ],
+      [
+        "18F",
+        "In Vivo Study"
+      ],
+      [
+        "Radioimmuno Therapy",
+        "종양특이항원"
+      ],
+      [
+        "γ선",
+        "신체"
+      ],
+      [
+        "Fermi",
+        "원자로"
+      ],
+      [
+        "Biochemical Changes",
+        "핵의학진단법"
+      ],
+      [
+        "Yalow",
+        "방사면역측정법"
+      ],
+      [
+        "131I을사용",
+        "갑상선기능항진증"
+      ],
+      [
+        "Gamma Ray",
+        "Radioisotope Therapy"
+      ],
+      [
+        "Department Of Nuclear Medicine",
+        "Department Of Radiation"
+      ],
+      [
+        "신체",
+        "핵의학진단법"
+      ],
+      [
+        "Spect",
+        "뇌& 심장의혈류평가"
+      ],
+      [
+        "Hormone Analysis",
+        "Radioimmuno Assay"
+      ],
+      [
+        "Kvp",
+        "MAs"
+      ],
+      [
+        "99mTc",
+        "In Vivo Study"
+      ],
+      [
+        "진단검사의학과",
+        "핵의학과"
+      ],
+      [
+        "Count",
+        "Nuclear Medicine"
+      ],
+      [
+        "Roentgen",
+        "X-선"
+      ],
+      [
+        "SPECT",
+        "영상의진단율향상을위한실제적인영상의최적화"
+      ],
+      [
+        "Diagnosis",
+        "Nuclear Medicine"
+      ],
+      [
+        "Cassen",
+        "직선이동형스캐너"
+      ],
+      [
+        "Anger",
+        "감마카메라"
+      ],
+      [
+        "131I",
+        "Radio Therapy"
+      ],
+      [
+        "18F",
+        "Department Of Nuclear Medicine"
+      ],
+      [
+        "방사면역측정법",
+        "체외검사"
+      ],
+      [
+        "Curie 부인",
+        "폴로니움"
+      ],
+      [
+        "Radioisotope Therapy",
+        "Thyroid Cancer"
+      ],
+      [
+        "Ri",
+        "핵의학영상"
+      ],
+      [
+        "Becguerel",
+        "Radioactivity"
+      ],
+      [
+        "방사성동위원소치료",
+        "신체"
+      ],
+      [
+        "PET",
+        "뇌& 심장"
+      ],
+      [
+        "Radioisotope Therapy",
+        "악성삼출액"
+      ],
+      [
+        "32P",
+        "혈액질환"
+      ],
+      [
+        "Anatomical Change",
+        "Functional Change"
+      ],
+      [
+        "Contrast",
+        "X-Ray"
+      ],
+      [
+        "PET",
+        "조직및장기에서산소소모율평가"
+      ],
+      [
+        "Functional Change",
+        "핵의학진단법"
+      ]
+    ],
+    "count": 59,
+    "create_time": 1775522918,
+    "update_time": 1775522918,
+    "_id": "doc-0d3a1215c59e5da49b2f93925ba501a5"
+  },
+  "doc-47cbf99b6049ac27a32f0b758569482d": {
+    "relation_pairs": [
+      [
+        "원자핵",
+        "제동방사"
+      ],
+      [
+        "양성자",
+        "직접전리방사선"
+      ],
+      [
+        "α선",
+        "직접전리방사선"
+      ],
+      [
+        "α 붕괴",
+        "질량수(A)"
+      ],
+      [
+        "원자핵",
+        "흡수"
+      ],
+      [
+        "방사선",
+        "원자핵"
+      ],
+      [
+        "β 붕괴",
+        "질량수(A)"
+      ],
+      [
+        "궤도전자",
+        "양성자"
+      ],
+      [
+        "Pet Scanner",
+        "방사성의약품"
+      ],
+      [
+        "산란",
+        "원자핵"
+      ],
+      [
+        "원자핵",
+        "핵변환"
+      ],
+      [
+        "X선",
+        "간접전리방사선"
+      ],
+      [
+        "공간",
+        "방사선"
+      ],
+      [
+        "양성자",
+        "전자포획"
+      ],
+      [
+        "Internal Conversion Probability",
+        "Z3"
+      ],
+      [
+        "β- 붕괴",
+        "음전자"
+      ],
+      [
+        "Internal Conversion Probability",
+        "K-Shell Electron"
+      ],
+      [
+        "β+ 붕괴",
+        "양전자"
+      ],
+      [
+        "방사능(Radioactivity)",
+        "방사성"
+      ],
+      [
+        "강도",
+        "방사성물질"
+      ],
+      [
+        "Pet Scanner",
+        "양전자"
+      ],
+      [
+        "방사선+원자",
+        "전리"
+      ],
+      [
+        "방사선+원자",
+        "여기"
+      ],
+      [
+        "국제방사선단위측정위원회(Icru)",
+        "방사선"
+      ],
+      [
+        "반감기",
+        "유효반감기"
+      ],
+      [
+        "하나로원자로내부",
+        "핵의학검사용핵종"
+      ],
+      [
+        "Cyclotron",
+        "Pet/Ct 용방사성동위원소"
+      ],
+      [
+        "물리적반감기",
+        "반감기"
+      ],
+      [
+        "양성자",
+        "중성미자"
+      ],
+      [
+        "Gamma-Ray Emission",
+        "Internal Conversion Probability"
+      ],
+      [
+        "원자핵",
+        "핵반응"
+      ],
+      [
+        "내부전환전자",
+        "핵"
+      ],
+      [
+        "반감기",
+        "생물학적반감기"
+      ],
+      [
+        "방사능(Radioactivity)",
+        "붕괴율"
+      ],
+      [
+        "β 붕괴",
+        "β 입자"
+      ],
+      [
+        "α 붕괴",
+        "원자번호(Z)"
+      ],
+      [
+        "국제단위(Si)",
+        "국제방사선단위측정위원회(Icru)"
+      ],
+      [
+        "간접전리방사선",
+        "중성자"
+      ],
+      [
+        "β 붕괴",
+        "원자번호(Z)"
+      ],
+      [
+        "γ선",
+        "간접전리방사선"
+      ],
+      [
+        "γ-선",
+        "핵이성체"
+      ],
+      [
+        "Cyclotron",
+        "핵종생산"
+      ],
+      [
+        "운동 에너지",
+        "입자선"
+      ],
+      [
+        "β선",
+        "직접전리방사선"
+      ],
+      [
+        "국제방사선방호위원회(Icrp)",
+        "방사선"
+      ],
+      [
+        "Coherent Scattering",
+        "Thomson Scattering"
+      ],
+      [
+        "He 핵",
+        "α 붕괴"
+      ],
+      [
+        "γ-Decay",
+        "핵"
+      ],
+      [
+        "원자핵",
+        "충돌"
+      ],
+      [
+        "물질",
+        "방사선"
+      ],
+      [
+        "방사선",
+        "운동에너지"
+      ],
+      [
+        "방사선",
+        "전리"
+      ],
+      [
+        "방사성동위원소",
+        "붕괴율"
+      ]
+    ],
+    "count": 53,
+    "create_time": 1775522952,
+    "update_time": 1775522952,
+    "_id": "doc-47cbf99b6049ac27a32f0b758569482d"
+  },
+  "doc-80d8144e216d22525a067fc4d9e7d5e3": {
+    "relation_pairs": [
+      [
+        "자유전자",
+        "컴프턴산란"
+      ],
+      [
+        "양자론",
+        "플랑크"
+      ],
+      [
+        "131I-606 Kev",
+        "Hyperthyroidism"
+      ],
+      [
+        "99mTc-MAG",
+        "Renogram Test"
+      ],
+      [
+        "Distance Attenuation",
+        "Inverse Square Law"
+      ],
+      [
+        "15O",
+        "Cyclotron"
+      ],
+      [
+        "γ-선",
+        "감쇠"
+      ],
+      [
+        "고관전압기법",
+        "컴프턴산란"
+      ],
+      [
+        "131I-OIH",
+        "Renogram Test"
+      ],
+      [
+        "광전효과",
+        "조영제"
+      ],
+      [
+        "99mTc-GH",
+        "Renogram Test"
+      ],
+      [
+        "Alpha Particle",
+        "Tissue Penetration"
+      ],
+      [
+        "Compton효과",
+        "전자쌍생성"
+      ],
+      [
+        "125I",
+        "Radioimmunoassay"
+      ],
+      [
+        "컴프턴감약계수",
+        "흡수체"
+      ],
+      [
+        "Absorption",
+        "Photoelectric Effect"
+      ],
+      [
+        "X-선",
+        "감쇠"
+      ],
+      [
+        "Absorption",
+        "Attenuation"
+      ],
+      [
+        "131I-606 Kev",
+        "Thyroid Cancer"
+      ],
+      [
+        "0.511 MeV",
+        "전자쌍생성"
+      ],
+      [
+        "콤프턴산란",
+        "콤프턴전자"
+      ],
+      [
+        "최외각전자",
+        "컴프턴산란"
+      ],
+      [
+        "Absorption",
+        "Electron Pair Production"
+      ],
+      [
+        "18F",
+        "Cyclotron"
+      ],
+      [
+        "광전효과",
+        "피사체대조도"
+      ],
+      [
+        "콤프턴산란",
+        "톰슨산란"
+      ],
+      [
+        "99mTc-Gh",
+        "Renogram Test"
+      ],
+      [
+        "99mTcO4",
+        "In-Vivo"
+      ],
+      [
+        "keV",
+        "영상검사"
+      ],
+      [
+        "Disease Diagnosis",
+        "Radiopharmaceuticals"
+      ],
+      [
+        "Well Counter",
+        "γ선"
+      ],
+      [
+        "Inverse Square Law",
+        "진공상태"
+      ],
+      [
+        "Beta Particle",
+        "Extracorporeal measurement"
+      ],
+      [
+        "125I",
+        "γ선"
+      ],
+      [
+        "81Rb–81mKr Generator",
+        "81mKr"
+      ],
+      [
+        "11C",
+        "Cyclotron"
+      ],
+      [
+        "Disease Treatment",
+        "Radiopharmaceuticals"
+      ],
+      [
+        "Well Counter",
+        "X선"
+      ],
+      [
+        "뼈",
+        "연부조직"
+      ],
+      [
+        "E = mc2",
+        "상대성이론"
+      ],
+      [
+        "99Mo–99mTc Generator",
+        "99mTcO4‾"
+      ],
+      [
+        "영상검사",
+        "체외계측"
+      ],
+      [
+        "99mTc-DTPA",
+        "Renogram Test"
+      ],
+      [
+        "Attenuation",
+        "Distance Attenuation"
+      ],
+      [
+        "123I",
+        "In-Vivo"
+      ],
+      [
+        "125I",
+        "시료계측"
+      ],
+      [
+        "시료계측",
+        "체외계측"
+      ],
+      [
+        "Attenuation",
+        "Photon Intensity Reduction"
+      ],
+      [
+        "광전효과",
+        "아인슈타인"
+      ],
+      [
+        "125I",
+        "Well Counter"
+      ],
+      [
+        "광전효과",
+        "방사선영상"
+      ],
+      [
+        "99mTc-Gh",
+        "Allergic Reaction"
+      ],
+      [
+        "K각결합에너지",
+        "광자"
+      ],
+      [
+        "광자",
+        "원자핵"
+      ],
+      [
+        "전자",
+        "전자밀도"
+      ],
+      [
+        "13N",
+        "Cyclotron"
+      ],
+      [
+        "125I",
+        "In-Vitro"
+      ],
+      [
+        "Compton Scattering",
+        "Scattering"
+      ],
+      [
+        "1.022 MeV",
+        "전자쌍생성"
+      ],
+      [
+        "물질",
+        "에너지전이계수"
+      ],
+      [
+        "Bad Products",
+        "Product Quality"
+      ],
+      [
+        "Compton효과",
+        "광전효과"
+      ],
+      [
+        "피폭선량",
+        "환자"
+      ],
+      [
+        "99mTc-Gh",
+        "Vasovagal Response"
+      ],
+      [
+        "Attenuation",
+        "Scattering"
+      ]
+    ],
+    "count": 65,
+    "create_time": 1775522985,
+    "update_time": 1775522985,
+    "_id": "doc-80d8144e216d22525a067fc4d9e7d5e3"
+  },
+  "doc-77ab67b1accce7a57ce5edc88c0796d9": {
+    "relation_pairs": [
+      [
+        "98Mo",
+        "99Mo"
+      ],
+      [
+        "123I",
+        "123I-HIPDM"
+      ],
+      [
+        "125I",
+        "방사면역측정법"
+      ],
+      [
+        "125I",
+        "Well Type Scintillation Counter"
+      ],
+      [
+        "131I",
+        "131I- OIH"
+      ],
+      [
+        "131I",
+        "131I-oleic Acid"
+      ],
+      [
+        "123I",
+        "방사성옥소표지방사성의약품"
+      ],
+      [
+        "In-Vitro用radiopharmaceuticals",
+        "혈장단백"
+      ],
+      [
+        "123I",
+        "123I-MIBG"
+      ],
+      [
+        "131I",
+        "방사성옥소표지방사성의약품"
+      ],
+      [
+        "131I",
+        "131I-MIBG"
+      ],
+      [
+        "99Mo–99mTc Generator",
+        "Alumina Column"
+      ],
+      [
+        "125I",
+        "액체형광검출기"
+      ],
+      [
+        "198Au-Colloid",
+        "악성종양"
+      ],
+      [
+        "Radioimmuno Therapy",
+        "단세포군항체"
+      ],
+      [
+        "124Xe",
+        "125I"
+      ],
+      [
+        "99mTc",
+        "Na99mTcO4"
+      ],
+      [
+        "131I",
+        "131I-RB"
+      ],
+      [
+        "Antigen-Antibody Reaction",
+        "In-Vitro用radiopharmaceuticals"
+      ],
+      [
+        "Ra",
+        "치료용방사성의약품"
+      ],
+      [
+        "Tracer",
+        "면역방사계수측정(IRMA)"
+      ],
+      [
+        "131I",
+        "131I-idocholesterol"
+      ],
+      [
+        "51CrO4",
+        "순환"
+      ],
+      [
+        "In-Vivo用radiopharmaceuticals",
+        "체액"
+      ],
+      [
+        "3H",
+        "Steroid Hormone"
+      ],
+      [
+        "18F-FDG",
+        "종양영상"
+      ],
+      [
+        "125I",
+        "방사성옥소표지방사성의약품"
+      ],
+      [
+        "123I",
+        "Na123I"
+      ],
+      [
+        "방사수용체측정법(RRA)",
+        "세포수용체"
+      ],
+      [
+        "51Cr",
+        "순환"
+      ],
+      [
+        "123I",
+        "123I-IMP"
+      ],
+      [
+        "125I",
+        "In Vitro"
+      ],
+      [
+        "Well Type Scintillation Counter",
+        "γ선"
+      ],
+      [
+        "125I",
+        "Tyrosin"
+      ],
+      [
+        "51CrO4",
+        "적혈구수명"
+      ],
+      [
+        "123I",
+        "123I-BMIPP"
+      ],
+      [
+        "125I",
+        "전자포획"
+      ],
+      [
+        "99Mo–99mTc Generator",
+        "99mTc"
+      ],
+      [
+        "99Mo",
+        "99Mo–99mTc Generator"
+      ],
+      [
+        "Tracer",
+        "방사면역측정법(RIA)"
+      ],
+      [
+        "51CrO4",
+        "혈소판수명"
+      ],
+      [
+        "51Cr",
+        "적혈구수명"
+      ],
+      [
+        "RIA",
+        "호르몬"
+      ],
+      [
+        "단세포군항체",
+        "악성종양"
+      ],
+      [
+        "235U",
+        "99Mo"
+      ],
+      [
+        "RIA",
+        "혈액"
+      ],
+      [
+        "RIA",
+        "소변"
+      ],
+      [
+        "방사면역측정법(RIA)",
+        "항원-항체반응"
+      ],
+      [
+        "125I",
+        "Well Type Scintillation"
+      ],
+      [
+        "In-Vitro用radiopharmaceuticals",
+        "표준곡선"
+      ],
+      [
+        "131I",
+        "131I-MAA"
+      ],
+      [
+        "131I",
+        "갑상선종"
+      ],
+      [
+        "51Cr",
+        "혈소판수명"
+      ],
+      [
+        "131I",
+        "Na131I"
+      ],
+      [
+        "14C",
+        "Steroid Hormone"
+      ],
+      [
+        "In-Vitro用radiopharmaceuticals",
+        "혈액"
+      ],
+      [
+        "15O",
+        "뇌산소소비량"
+      ],
+      [
+        "15O",
+        "뇌혈류량"
+      ],
+      [
+        "18F-FDG",
+        "심근․ 뇌당대사"
+      ],
+      [
+        "131I",
+        "131I- HAS"
+      ],
+      [
+        "32P",
+        "치료용방사성의약품"
+      ]
+    ],
+    "count": 61,
+    "create_time": 1775523023,
+    "update_time": 1775523023,
+    "_id": "doc-77ab67b1accce7a57ce5edc88c0796d9"
+  },
+  "doc-396fd6f3e774f288a4396327ba46aba7": {
+    "relation_pairs": [
+      [
+        "131I-HSA",
+        "순환혈장량, 혈액량"
+      ],
+      [
+        "99mTc",
+        "99mTc-phosphate"
+      ],
+      [
+        "99mTc",
+        "99mTc-MAG3"
+      ],
+      [
+        "59Fe",
+        "철대사, 빈혈등혈액질환검사"
+      ],
+      [
+        "99mTc-HM-PAO",
+        "뇌혈류영상, 뇌국소혈류량"
+      ],
+      [
+        "201Tl",
+        "종양영상"
+      ],
+      [
+        "11C",
+        "혈액pool 영상"
+      ],
+      [
+        "99mTc-ECD",
+        "뇌혈류영상, 뇌국소혈류량"
+      ],
+      [
+        "131I-HSA",
+        "혈액량"
+      ],
+      [
+        "111In-oxine",
+        "염증영상, 혈구, 혈소판표지, 백혈구수명, 혈전영상"
+      ],
+      [
+        "99mTc",
+        "99mTc-PMT"
+      ],
+      [
+        "123I-IMP",
+        "뇌혈류영상, 뇌국소혈류량"
+      ],
+      [
+        "123I",
+        "123I-MIBG"
+      ],
+      [
+        "131I",
+        "갑상선기능항진증"
+      ],
+      [
+        "99mTc-HSA-D",
+        "심기능지표, 출혈영상"
+      ],
+      [
+        "131I",
+        "갑상선기능, 영상, 갑상선기능항진증, 암전이치료"
+      ],
+      [
+        "11C",
+        "뇌기능검사"
+      ],
+      [
+        "11C",
+        "종양영상"
+      ],
+      [
+        "11C",
+        "아미노산대사"
+      ],
+      [
+        "13N",
+        "심근혈류량"
+      ],
+      [
+        "99mTc-PMT",
+        "담도영상"
+      ],
+      [
+        "99mTc",
+        "γ선"
+      ],
+      [
+        "131I",
+        "131I-OIH"
+      ],
+      [
+        "125I",
+        "γ선"
+      ],
+      [
+        "QC",
+        "사이클로트론"
+      ],
+      [
+        "방사성의약품",
+        "유효반감기"
+      ],
+      [
+        "111In",
+        "111In-DTPA"
+      ],
+      [
+        "131I-OIH",
+        "레노그램"
+      ],
+      [
+        "99mTc",
+        "99mTcO4"
+      ],
+      [
+        "99mTc",
+        "99mTc-DTPA"
+      ],
+      [
+        "머리카락",
+        "방사성의약품"
+      ],
+      [
+        "99mTc",
+        "99mTc-ECD"
+      ],
+      [
+        "131I",
+        "Na131I"
+      ],
+      [
+        "임상이용",
+        "초소형사이크로트론"
+      ],
+      [
+        "99mTc-DTPA",
+        "신장, 신장동태, 신혈관영상, 레노그램"
+      ],
+      [
+        "11C",
+        "CO"
+      ],
+      [
+        "11C",
+        "심근지방산대사"
+      ],
+      [
+        "67Ga",
+        "γ선"
+      ],
+      [
+        "99Mo",
+        "β선"
+      ],
+      [
+        "13N",
+        "NH"
+      ],
+      [
+        "11C",
+        "C-glucose"
+      ],
+      [
+        "방사성의약품",
+        "방사성의약품의이상적인조건"
+      ],
+      [
+        "81Rb",
+        "β선"
+      ],
+      [
+        "59Fe",
+        "β선"
+      ],
+      [
+        "99mTc",
+        "99mTc-HM-PAO"
+      ],
+      [
+        "13N",
+        "N Gas"
+      ],
+      [
+        "123I",
+        "Na123I"
+      ],
+      [
+        "11C",
+        "C-hemoglibin"
+      ],
+      [
+        "99Mo",
+        "γ선"
+      ],
+      [
+        "15O",
+        "CO"
+      ],
+      [
+        "In-Vivo",
+        "방사성의약품주입방법의종류"
+      ],
+      [
+        "방사성의약품",
+        "신장"
+      ],
+      [
+        "방사성의약품",
+        "생물학적조건"
+      ],
+      [
+        "11C",
+        "C-acetate"
+      ],
+      [
+        "59Fe",
+        "γ선"
+      ],
+      [
+        "123I",
+        "123I-BMIPP"
+      ],
+      [
+        "67Ga",
+        "β선"
+      ],
+      [
+        "Cyclotron",
+        "PET"
+      ],
+      [
+        "111In",
+        "γ선"
+      ],
+      [
+        "대변",
+        "방사성의약품"
+      ],
+      [
+        "99Mo-99mTc generator",
+        "99mTc"
+      ],
+      [
+        "Nuclear Reactor",
+        "Thermal Neutron"
+      ],
+      [
+        "125I",
+        "각종표지화합물(invitro)"
+      ],
+      [
+        "99mTc-MAG3",
+        "레노그램, 신장동태영상, 신혈류량"
+      ],
+      [
+        "99mTcO4",
+        "SPECT"
+      ],
+      [
+        "NH",
+        "심근혈류량"
+      ],
+      [
+        "15O",
+        "뇌산소소비량"
+      ],
+      [
+        "131I-MIBG",
+        "부신수질영상등"
+      ],
+      [
+        "99mTc",
+        "99mTc-Sn colloid"
+      ],
+      [
+        "물리적반감기",
+        "방사성의약품"
+      ],
+      [
+        "67Ga",
+        "67Ga-citrate"
+      ],
+      [
+        "O",
+        "뇌산소소비량"
+      ],
+      [
+        "15O",
+        "O"
+      ],
+      [
+        "11C",
+        "C-methyl Spiperon"
+      ],
+      [
+        "99mTc-phosphate",
+        "골, 심근경색영상"
+      ],
+      [
+        "99mTcO4",
+        "감마카메라"
+      ],
+      [
+        "땀",
+        "방사성의약품"
+      ],
+      [
+        "방사선gas",
+        "흡입"
+      ],
+      [
+        "99mTc",
+        "뇌, 갑상선, 타액선, Meckel, 위영상, RI혈관조영"
+      ],
+      [
+        "방사성의약품",
+        "환자"
+      ],
+      [
+        "99mTc-Sn colloid",
+        "간, 비장, 골수영상"
+      ],
+      [
+        "131I",
+        "131I-MIBG"
+      ],
+      [
+        "67Ga",
+        "종양영상, 염증영상"
+      ],
+      [
+        "133Xe Gas",
+        "뇌혈류영상"
+      ],
+      [
+        "111In-DTPA",
+        "뇌조영상"
+      ],
+      [
+        "99mTc",
+        "99mTc-tetrofosmin"
+      ],
+      [
+        "β-선",
+        "갑상선기능항진증"
+      ],
+      [
+        "131I",
+        "γ선"
+      ],
+      [
+        "111InCl3",
+        "골수영상"
+      ],
+      [
+        "13N",
+        "폐기능"
+      ],
+      [
+        "133Xe Gas",
+        "뇌국소혈류량"
+      ],
+      [
+        "131I",
+        "131I-HSA"
+      ],
+      [
+        "133Xe",
+        "뇌국소혈류량"
+      ],
+      [
+        "81Rb-81mKr generator",
+        "81mKr"
+      ],
+      [
+        "123I",
+        "123I-IMP"
+      ],
+      [
+        "99mTc-GSA",
+        "간기능"
+      ],
+      [
+        "99mTc",
+        "99mTc-HSA-D"
+      ],
+      [
+        "방사성의약품",
+        "타액"
+      ],
+      [
+        "눈물",
+        "방사성의약품"
+      ],
+      [
+        "99mTc-tetrofosmin",
+        "심근혈류영상"
+      ],
+      [
+        "세뇨관세포",
+        "혈관들로부터세뇨관세포로분비되는정도"
+      ],
+      [
+        "BBB",
+        "방사성의약품"
+      ],
+      [
+        "131I-iodocholesterol",
+        "부신피질영상"
+      ],
+      [
+        "99mTc",
+        "99mTc-DMSA"
+      ],
+      [
+        "133Xe Gas",
+        "폐환기영상"
+      ],
+      [
+        "11C",
+        "dopamine D2 수용체"
+      ],
+      [
+        "111In",
+        "111InCl3"
+      ],
+      [
+        "11C",
+        "뇌당대사"
+      ],
+      [
+        "59Fe",
+        "59Fe-citrate"
+      ],
+      [
+        "133Xe",
+        "폐환기영상"
+      ],
+      [
+        "99mTc-MIBI",
+        "심근혈류, 종양영상"
+      ],
+      [
+        "99mTc-HSA",
+        "심내강, 대혈관영상, 순회혈액량"
+      ],
+      [
+        "99mTc-MAA",
+        "폐혈류영상"
+      ],
+      [
+        "N Gas",
+        "폐기능"
+      ],
+      [
+        "131I",
+        "β선"
+      ],
+      [
+        "경구투여",
+        "방사성의약품"
+      ],
+      [
+        "11C",
+        "장기혈액량"
+      ],
+      [
+        "123I-MIBG",
+        "심근교감신경기능영상. 부신수질영상"
+      ],
+      [
+        "방사성의약품",
+        "화학적조건"
+      ],
+      [
+        "131I-",
+        "부신피질영상"
+      ],
+      [
+        "81Rb",
+        "81Rb-81mKr generator"
+      ],
+      [
+        "11C",
+        "폐기능"
+      ],
+      [
+        "99mTc",
+        "99mTc-GSA"
+      ],
+      [
+        "99mTc",
+        "99mTc-HSA"
+      ],
+      [
+        "201Tl",
+        "심근"
+      ],
+      [
+        "99Mo",
+        "99Mo-99mTc generator"
+      ],
+      [
+        "99mTc",
+        "99mTc-MIBI"
+      ],
+      [
+        "11C",
+        "국소뇌혈액량"
+      ],
+      [
+        "123I",
+        "γ선"
+      ],
+      [
+        "123I-BMIPP",
+        "심근지방산대사영상"
+      ],
+      [
+        "11C",
+        "C-palmitic Acid"
+      ],
+      [
+        "131I-HSA",
+        "순환혈장량"
+      ],
+      [
+        "CO",
+        "폐기능"
+      ],
+      [
+        "59Fe",
+        "59FeCl3"
+      ],
+      [
+        "99mTc",
+        "99mTc-MAA"
+      ],
+      [
+        "123I",
+        "갑상선기능, 갑상선영상등"
+      ],
+      [
+        "11C",
+        "심근에너지대사"
+      ],
+      [
+        "15O",
+        "폐기능"
+      ],
+      [
+        "99mTc-DMSA",
+        "신장영상"
+      ],
+      [
+        "경정맥주사",
+        "방사성의약품"
+      ],
+      [
+        "131I",
+        "131I-iodocholesterol"
+      ],
+      [
+        "Chromatography",
+        "화학적순도"
+      ],
+      [
+        "고정상",
+        "이동상"
+      ],
+      [
+        "림프영상",
+        "피하주사"
+      ],
+      [
+        "물리적조건",
+        "방사성의약품"
+      ],
+      [
+        "111In",
+        "111In-oxine"
+      ],
+      [
+        "PET",
+        "γ선"
+      ],
+      [
+        "방사성의약품",
+        "피부"
+      ],
+      [
+        "11C",
+        "C-methionine"
+      ],
+      [
+        "세뇨관세포",
+        "혈관"
+      ],
+      [
+        "PET",
+        "양전자(β+)"
+      ],
+      [
+        "γ선",
+        "감마카메라"
+      ],
+      [
+        "81mKr",
+        "폐환기능, 폐환기영상"
+      ]
+    ],
+    "count": 153,
+    "create_time": 1775523112,
+    "update_time": 1775523112,
+    "_id": "doc-396fd6f3e774f288a4396327ba46aba7"
+  },
+  "doc-6278258ec5e93ebca76e71f39612821d": {
+    "relation_pairs": [
+      [
+        "99mTcO4- 용액",
+        "Alumina"
+      ],
+      [
+        "Alumina",
+        "방사성의약품"
+      ],
+      [
+        "99-Molybdenum",
+        "99m-Technetium"
+      ],
+      [
+        "식균작용",
+        "포식세포"
+      ],
+      [
+        "99-Molybdenum",
+        "99Mo - 99mTc Generator"
+      ],
+      [
+        "Saline",
+        "습식 Column 용출방법"
+      ],
+      [
+        "Microbiologic Testing",
+        "멸균상태"
+      ],
+      [
+        "방사화학적순도",
+        "총방사능량"
+      ],
+      [
+        "방사화학적순도",
+        "영상의질저하"
+      ],
+      [
+        "방사화학적순도",
+        "환자의체내흡수선량"
+      ],
+      [
+        "Spectroscopy Colorimetry",
+        "화학적순도"
+      ],
+      [
+        "Generator",
+        "Milking"
+      ],
+      [
+        "Microscopy",
+        "입자의크기"
+      ],
+      [
+        "Generator",
+        "Strang"
+      ],
+      [
+        "Generator",
+        "Milking System"
+      ],
+      [
+        "발열물질",
+        "오한, 동통, 발한"
+      ],
+      [
+        "Dose Calibrator",
+        "방사성의약품"
+      ],
+      [
+        "99mTc",
+        "Camera"
+      ],
+      [
+        "113Sn",
+        "113mIn"
+      ],
+      [
+        "99Mo",
+        "99mTcO4"
+      ],
+      [
+        "Biologic Testing",
+        "발열물질의유무"
+      ],
+      [
+        "Saline",
+        "건식 Column 용출방법"
+      ],
+      [
+        "거대응집알부민입자",
+        "모세혈관차단"
+      ],
+      [
+        "Generator",
+        "방사평형"
+      ],
+      [
+        "Chromatography",
+        "방사화학적순도"
+      ],
+      [
+        "99mTc",
+        "생리식염수"
+      ],
+      [
+        "121℃에서15분간증기소독",
+        "멸균상태"
+      ],
+      [
+        "99Mo - 99mTc Generator",
+        "99m-Technetium"
+      ],
+      [
+        "Gamma Ray Spectroscopy",
+        "방사성핵종의순도"
+      ],
+      [
+        "99mTc",
+        "99mTcO4- 용액"
+      ],
+      [
+        "Differential Photon Absorption",
+        "방사능에너지순도"
+      ],
+      [
+        "99Mo",
+        "알루미나"
+      ],
+      [
+        "세포격리",
+        "손상된적혈구"
+      ],
+      [
+        "99mTcO4",
+        "Alumina"
+      ],
+      [
+        "99Mo",
+        "99mTc"
+      ]
+    ],
+    "count": 35,
+    "create_time": 1775523135,
+    "update_time": 1775523135,
+    "_id": "doc-6278258ec5e93ebca76e71f39612821d"
+  },
+  "doc-abb2ab304886de5a7bcb175d74a87165": {
+    "relation_pairs": [
+      [
+        "대사포획",
+        "포도당 대사"
+      ],
+      [
+        "Ge(Li)",
+        "저E γ선"
+      ],
+      [
+        "BGO(Bismuth Germinate)",
+        "γ선의"
+      ],
+      [
+        "선량평가",
+        "철선량계"
+      ],
+      [
+        "CsI(Tl)",
+        "NaI(Tl)"
+      ],
+      [
+        "구획구분",
+        "방사성 가스"
+      ],
+      [
+        "Autoradiography",
+        "필름"
+      ],
+      [
+        "고체비적",
+        "중성자"
+      ],
+      [
+        "Al 케이스",
+        "무기섬광체"
+      ],
+      [
+        "NaI(Tl)",
+        "감마"
+      ],
+      [
+        "고체전리",
+        "전리작용"
+      ],
+      [
+        "NaI(Tl) 섬광체",
+        "γ선"
+      ],
+      [
+        "HPGe",
+        "감마"
+      ],
+      [
+        "LiI(Eu)",
+        "Thermal Neutron"
+      ],
+      [
+        "누적선량",
+        "열형광"
+      ],
+      [
+        "방사성의약품",
+        "체내검사계수기"
+      ],
+      [
+        "HgI2",
+        "감마"
+      ],
+      [
+        "Alpha-Ray",
+        "ZnS(Ag)"
+      ],
+      [
+        "섬광",
+        "신틸레이션검출기"
+      ],
+      [
+        "CsI(Tl)",
+        "감마"
+      ],
+      [
+        "CdTe",
+        "감마"
+      ],
+      [
+        "방사능",
+        "방사성의약품"
+      ],
+      [
+        "영상기록장치",
+        "직선이동형스캐너"
+      ],
+      [
+        "대선량",
+        "철선량계"
+      ],
+      [
+        "GM관",
+        "베타/감마"
+      ],
+      [
+        "고체비적",
+        "환경문제 핵종"
+      ],
+      [
+        "광전자증배관",
+        "신틸레이션검출기"
+      ],
+      [
+        "X선",
+        "무기섬광체"
+      ],
+      [
+        "선량평가",
+        "세륨선량계"
+      ],
+      [
+        "기체전리함",
+        "방사능"
+      ],
+      [
+        "기체",
+        "전리함"
+      ],
+      [
+        "14C",
+        "액체섬광"
+      ],
+      [
+        "기체전리함",
+        "아르곤"
+      ],
+      [
+        "교환확산",
+        "이온교환"
+      ],
+      [
+        "인산염 결합",
+        "화학적흡착또는물리화학적흡착"
+      ],
+      [
+        "베타선",
+        "용매(Toluene, Xylene, Dioxane)"
+      ],
+      [
+        "섬광검출기",
+        "신틸레이션검출기"
+      ],
+      [
+        "I",
+        "NaI(Tl)"
+      ],
+      [
+        "γ선",
+        "무기섬광체"
+      ],
+      [
+        "고체비적",
+        "알파"
+      ],
+      [
+        "섬광검출기",
+        "형광"
+      ],
+      [
+        "ZnS(Ag)",
+        "아크릴수지"
+      ],
+      [
+        "GaAs",
+        "감마"
+      ],
+      [
+        "기체전리",
+        "전리작용"
+      ],
+      [
+        "NaI(Tl)",
+        "γ선"
+      ],
+      [
+        "β선방사체",
+        "액체섬광계수기"
+      ],
+      [
+        "광전자증배관",
+        "섬광체"
+      ],
+      [
+        "고체비적",
+        "속중성자"
+      ],
+      [
+        "Autoradiography",
+        "화학"
+      ],
+      [
+        "NaI(Tl)",
+        "흡습성"
+      ],
+      [
+        "Si(Li)",
+        "저E γ선"
+      ],
+      [
+        "액체섬광",
+        "저에너지 베타"
+      ],
+      [
+        "NaI(Tl)",
+        "Sodium Iodide"
+      ],
+      [
+        "방사성의약품",
+        "우물형계수기"
+      ],
+      [
+        "대선량",
+        "세륨선량계"
+      ],
+      [
+        "알파",
+        "표면장벽형"
+      ],
+      [
+        "β선",
+        "무기섬광체"
+      ],
+      [
+        "높은 친화성",
+        "수용체결합"
+      ],
+      [
+        "ZnS(Ag)",
+        "알파"
+      ],
+      [
+        "무기섬광체",
+        "유기섬광체"
+      ],
+      [
+        "시료",
+        "액체섬광계수기"
+      ],
+      [
+        "3H",
+        "액체섬광"
+      ],
+      [
+        "종양의 진단",
+        "항원/항체반응"
+      ],
+      [
+        "고체전리",
+        "반도체검출기"
+      ],
+      [
+        "비례계수함",
+        "알파/베타 계수"
+      ],
+      [
+        "선량평가",
+        "열형광"
+      ],
+      [
+        "방사선",
+        "섬광체"
+      ],
+      [
+        "LiI(Eu)",
+        "열중성자"
+      ],
+      [
+        "열중성자",
+        "열중성자용BF3계수관"
+      ],
+      [
+        "베타",
+        "플라스틱"
+      ],
+      [
+        "NaI(TI) 신틸레이터",
+        "광전자증배관"
+      ],
+      [
+        "종양의 치료",
+        "항원/항체반응"
+      ],
+      [
+        "방사성의약품",
+        "테크네슘"
+      ],
+      [
+        "Gamma Counter",
+        "우물형섬광계수기"
+      ],
+      [
+        "감마카메라",
+        "영상기록장치"
+      ],
+      [
+        "베타/감마 선량률",
+        "전리함"
+      ],
+      [
+        "구획구분",
+        "표지적혈구"
+      ]
+    ],
+    "count": 77,
+    "create_time": 1775523184,
+    "update_time": 1775523184,
+    "_id": "doc-abb2ab304886de5a7bcb175d74a87165"
+  },
+  "doc-fa0f17812e5408a9d901101b9398379a": {
+    "relation_pairs": [
+      [
+        "Collimator",
+        "γ선"
+      ],
+      [
+        "Collimator",
+        "Low Energy"
+      ],
+      [
+        "Collimator",
+        "감마카메라"
+      ],
+      [
+        "NaI (Tl) Crystal",
+        "감마카메라"
+      ],
+      [
+        "Detector",
+        "감마카메라"
+      ],
+      [
+        "Contraster",
+        "Scintigram"
+      ],
+      [
+        "Collimator",
+        "에너지"
+      ],
+      [
+        "Collimator",
+        "High Energy"
+      ],
+      [
+        "PM Tube",
+        "감마카메라"
+      ],
+      [
+        "Michel Ter-Pogossian",
+        "PET"
+      ],
+      [
+        "Rectilinear Scanner",
+        "파고분석기"
+      ],
+      [
+        "Cassen",
+        "Rectilinear Scanner"
+      ],
+      [
+        "Preamplifier",
+        "감마카메라"
+      ],
+      [
+        "기계적구동부",
+        "장기"
+      ],
+      [
+        "PHA",
+        "영상기록장치"
+      ],
+      [
+        "Gamma Camera",
+        "Scintillation Camera"
+      ],
+      [
+        "Sensitivity",
+        "γ선"
+      ],
+      [
+        "Scintillation Camera",
+        "감마카메라"
+      ],
+      [
+        "RI",
+        "Resolution"
+      ],
+      [
+        "Rectilinear Scanner",
+        "영상기록장치"
+      ],
+      [
+        "Resolution",
+        "Sensitivity"
+      ],
+      [
+        "Collimator",
+        "Pb"
+      ],
+      [
+        "NaI(Tl) 신틸레이터",
+        "섭취율측정시스템"
+      ],
+      [
+        "Anger",
+        "감마카메라"
+      ],
+      [
+        "Collimator",
+        "Ultra High Energy"
+      ],
+      [
+        "PHA",
+        "Scintigram"
+      ],
+      [
+        "Image Display",
+        "감마카메라"
+      ],
+      [
+        "PHA",
+        "감마카메라"
+      ],
+      [
+        "검출기",
+        "기계적구동부"
+      ],
+      [
+        "Gamma Camera",
+        "감마카메라"
+      ],
+      [
+        "Collimator",
+        "격벽"
+      ],
+      [
+        "Amplifier",
+        "감마카메라"
+      ],
+      [
+        "Collimator",
+        "Medium Energy"
+      ],
+      [
+        "Anger",
+        "Donner Laboratory"
+      ],
+      [
+        "Hal Anger",
+        "Scintillation Camera"
+      ],
+      [
+        "Benedict",
+        "Rectilinear Scanner"
+      ]
+    ],
+    "count": 36,
+    "create_time": 1775523211,
+    "update_time": 1775523211,
+    "_id": "doc-fa0f17812e5408a9d901101b9398379a"
+  },
+  "doc-95a52be2d176a455db41b51dbd17da3e": {
+    "relation_pairs": [
+      [
+        "Nal(Tl) Crystal",
+        "Pmt"
+      ],
+      [
+        "Photo Multiplier Tube",
+        "Photocathode"
+      ],
+      [
+        "Crystal Thickness",
+        "Resolution"
+      ],
+      [
+        "Gamma Ray",
+        "Scintillator"
+      ],
+      [
+        "Collimator",
+        "홀(Hole)"
+      ],
+      [
+        "99mTc",
+        "Low Energy Collimator"
+      ],
+      [
+        "산란성분(Scatter)",
+        "섬광체(Crystal)"
+      ],
+      [
+        "검출효율증가",
+        "격벽"
+      ],
+      [
+        "Liver",
+        "Parallel Multihole Collimator"
+      ],
+      [
+        "Collimator",
+        "NaI(Tl) Crystal"
+      ],
+      [
+        "Scinti-Camera",
+        "바늘구멍조준기"
+      ],
+      [
+        "125I",
+        "Low Energy Collimator"
+      ],
+      [
+        "Dynode",
+        "Photo Multiplier Tube"
+      ],
+      [
+        "123I",
+        "Medium Energy Collimator"
+      ],
+      [
+        "Light Collection Efficiency",
+        "Light Guide"
+      ],
+      [
+        "133Xe",
+        "Low Energy Collimator"
+      ],
+      [
+        "Aluminum Film",
+        "Nal(Tl) Crystal"
+      ],
+      [
+        "집속형조준기",
+        "평행다공형"
+      ],
+      [
+        "Kidney",
+        "Parallel Multihole Collimator"
+      ],
+      [
+        "Camera",
+        "확산형조준기"
+      ],
+      [
+        "기하학적성분(Geometric)",
+        "섬광체(Crystal)"
+      ],
+      [
+        "Pinhole Collimator",
+        "Thyroid Gland"
+      ],
+      [
+        "Gamma Ray Absorption Rate",
+        "Scintillation Decay Time"
+      ],
+      [
+        "격벽",
+        "분해능저하"
+      ],
+      [
+        "Brain",
+        "Parallel Multihole Collimator"
+      ],
+      [
+        "Light Guide",
+        "Photo Multiplier Tube"
+      ],
+      [
+        "Photocathode",
+        "Quantum Efficiency"
+      ],
+      [
+        "Scintillator",
+        "X-Ray"
+      ],
+      [
+        "201Tl",
+        "Low Energy Collimator"
+      ],
+      [
+        "111In",
+        "Medium Energy Collimator"
+      ],
+      [
+        "골반",
+        "확산형조준기"
+      ],
+      [
+        "복부",
+        "확산형조준기"
+      ],
+      [
+        "Lung",
+        "확산형조준기"
+      ],
+      [
+        "131I",
+        "High Energy Collimator"
+      ],
+      [
+        "Nal(Tl) Crystal",
+        "Scintillator"
+      ],
+      [
+        "Crystal Thickness",
+        "Light Conversion Efficiency"
+      ],
+      [
+        "섬광체(Crystal)",
+        "투과성분(Penetrate)"
+      ],
+      [
+        "Dead Space",
+        "Light Guide"
+      ],
+      [
+        "Liver",
+        "확산형조준기"
+      ],
+      [
+        "67Ga",
+        "Medium Energy Collimator"
+      ]
+    ],
+    "count": 40,
+    "create_time": 1775523235,
+    "update_time": 1775523235,
+    "_id": "doc-95a52be2d176a455db41b51dbd17da3e"
+  },
+  "doc-b73aed1eb0cb3ed1eceefa8d59b49e2b": {
+    "relation_pairs": [
+      [
+        "LLD",
+        "파고분석기"
+      ],
+      [
+        "NaI(Tl)",
+        "Photomultiplier Tube"
+      ],
+      [
+        "Gamma Spectrum",
+        "물질"
+      ],
+      [
+        "Compton Edge",
+        "Gamma Spectrum"
+      ],
+      [
+        "SPECT",
+        "Signal Processor"
+      ],
+      [
+        "CsI",
+        "Photomultiplier Tube"
+      ],
+      [
+        "Micro Processor",
+        "직선의왜곡"
+      ],
+      [
+        "CsI",
+        "Photodiode"
+      ],
+      [
+        "SPECT",
+        "조준기"
+      ],
+      [
+        "γ선",
+        "영상재구성"
+      ],
+      [
+        "Gamma Spectrum",
+        "Photo Peak"
+      ],
+      [
+        "M",
+        "다이노드"
+      ],
+      [
+        "SPECT",
+        "방사성의약품"
+      ],
+      [
+        "ULD",
+        "파고분석기"
+      ],
+      [
+        "Artifact",
+        "감도의불균일성"
+      ],
+      [
+        "SPECT Image",
+        "통계적인잡음"
+      ],
+      [
+        "PMT 수",
+        "균일성 저하"
+      ],
+      [
+        "NaI(Tl)",
+        "SPECT"
+      ],
+      [
+        "Cadmium Telluride",
+        "electrical signal"
+      ],
+      [
+        "Gamma Spectrum",
+        "Iodine Escape Peak"
+      ],
+      [
+        "SPECT",
+        "영상재구성알고리즘"
+      ],
+      [
+        "Scintillator",
+        "γ선"
+      ],
+      [
+        "Cadmium Zinc Telluride",
+        "Signal Processor"
+      ],
+      [
+        "Micro Processor",
+        "감도의불균일성"
+      ],
+      [
+        "X-Ray CT",
+        "화상재구성법"
+      ],
+      [
+        "SPECT",
+        "투사영상"
+      ],
+      [
+        "γ선",
+        "콤프톤산란"
+      ],
+      [
+        "SPECT Image",
+        "투영data"
+      ],
+      [
+        "섬광체",
+        "해상도 저하"
+      ],
+      [
+        "광전자증배관",
+        "신호처리기"
+      ],
+      [
+        "양극",
+        "증폭된전자를수집"
+      ],
+      [
+        "전치증폭기",
+        "증폭기"
+      ],
+      [
+        "분해능",
+        "자료의수집방법"
+      ],
+      [
+        "Cadmium Telluride",
+        "Signal Processor"
+      ],
+      [
+        "Gamma Rays",
+        "섬광카메라"
+      ],
+      [
+        "Amorphous Selenium",
+        "electrical signal"
+      ],
+      [
+        "Gamma Spectrum",
+        "Lead X-Ray Peak"
+      ],
+      [
+        "감도증가",
+        "광도관"
+      ],
+      [
+        "ECT",
+        "PET"
+      ],
+      [
+        "Energy",
+        "primary photon"
+      ],
+      [
+        "광전자증배관",
+        "섬광체"
+      ],
+      [
+        "Computer",
+        "ECT"
+      ],
+      [
+        "γ선",
+        "광전효과"
+      ],
+      [
+        "Gamma Rays",
+        "섬광체"
+      ],
+      [
+        "감도증가",
+        "섬광체"
+      ],
+      [
+        "PET",
+        "방사성의약품"
+      ],
+      [
+        "Amorphous Selenium",
+        "Signal Processor"
+      ],
+      [
+        "M",
+        "증폭된 총 전자수"
+      ],
+      [
+        "Auto Peaking",
+        "Peak Energy"
+      ],
+      [
+        "Collimator",
+        "해상력"
+      ],
+      [
+        "광도관",
+        "해상도 저하"
+      ],
+      [
+        "Cyclotron",
+        "PET"
+      ],
+      [
+        "Gamma Rays",
+        "조준기"
+      ],
+      [
+        "Artifact",
+        "회전축의불일치"
+      ],
+      [
+        "PET",
+        "양전자"
+      ],
+      [
+        "기기의기종",
+        "분해능"
+      ],
+      [
+        "PMT 수",
+        "해상도증가"
+      ],
+      [
+        "ECT",
+        "SPECT"
+      ],
+      [
+        "감도",
+        "해상력"
+      ],
+      [
+        "Gamma Spectrum",
+        "γ선"
+      ],
+      [
+        "Collimator",
+        "감도"
+      ],
+      [
+        "Cadmium Zinc Telluride",
+        "electrical signal"
+      ],
+      [
+        "γ선",
+        "전자쌍생성"
+      ],
+      [
+        "신호처리기",
+        "컴퓨터모니터"
+      ],
+      [
+        "분해능",
+        "영상의재구성방법"
+      ],
+      [
+        "Artifact",
+        "위치신호Level의불일치"
+      ],
+      [
+        "Window",
+        "파고분석기"
+      ],
+      [
+        "SPECT",
+        "X-Ray CT"
+      ],
+      [
+        "Backscatter Peak",
+        "Gamma Spectrum"
+      ],
+      [
+        "Brain SPECT",
+        "화소의크기"
+      ],
+      [
+        "기기의반치폭",
+        "화소의크기"
+      ],
+      [
+        "Cyclotron",
+        "SPECT"
+      ]
+    ],
+    "count": 72,
+    "create_time": 1775523266,
+    "update_time": 1775523266,
+    "_id": "doc-b73aed1eb0cb3ed1eceefa8d59b49e2b"
+  },
+  "doc-f38522287bf4d46f65b80b9c8f9470c1": {
+    "relation_pairs": [
+      [
+        "Filtered Back Projection",
+        "Star Artifact"
+      ],
+      [
+        "Ct",
+        "Spect"
+      ],
+      [
+        "Planar Image",
+        "Spect"
+      ],
+      [
+        "Reconstruction",
+        "Spect"
+      ],
+      [
+        "PET 스캐너검출시스템",
+        "광전자증배관"
+      ],
+      [
+        "Cor",
+        "Spect"
+      ],
+      [
+        "Artifact",
+        "균일성검사"
+      ],
+      [
+        "방사성의약품",
+        "장기조직"
+      ],
+      [
+        "PET 스캐너검출시스템",
+        "γ선"
+      ],
+      [
+        "Location Linearity",
+        "Spect"
+      ],
+      [
+        "360°",
+        "SPECT"
+      ],
+      [
+        "Mri",
+        "Spect"
+      ],
+      [
+        "LPO",
+        "심근SPECT"
+      ],
+      [
+        "양전자",
+        "전자"
+      ],
+      [
+        "PET 스캐너검출시스템",
+        "동시계수회로"
+      ],
+      [
+        "Ring Artifact",
+        "균일성검사"
+      ],
+      [
+        "PET 스캐너검출시스템",
+        "섬광결정"
+      ],
+      [
+        "Carbon(C)",
+        "Pet"
+      ],
+      [
+        "γ선검출기",
+        "광자"
+      ],
+      [
+        "Camera Detector",
+        "Spect"
+      ],
+      [
+        "SPECT",
+        "γ선검출기"
+      ],
+      [
+        "RAO",
+        "심근SPECT"
+      ],
+      [
+        "Hoffman Phantom",
+        "Spect System Performance Test"
+      ],
+      [
+        "Collimator",
+        "Pet"
+      ],
+      [
+        "고분해능Collimator",
+        "저E 콜리메이터"
+      ],
+      [
+        "Pet",
+        "Ter-Pogossian"
+      ],
+      [
+        "166Ho-Chitosan",
+        "Spect"
+      ],
+      [
+        "Disease",
+        "Pet"
+      ],
+      [
+        "Ring Artifact",
+        "Spect"
+      ],
+      [
+        "Annihilation Radiation",
+        "Pet"
+      ],
+      [
+        "Iaea",
+        "Spect System Performance Test"
+      ],
+      [
+        "Gain",
+        "Pixel Size Measurement"
+      ],
+      [
+        "N",
+        "방사성의약품"
+      ],
+      [
+        "Image Performance Phantom",
+        "Spect System Performance Test"
+      ],
+      [
+        "(A)",
+        "166Ho-Chitosan"
+      ],
+      [
+        "18F",
+        "N"
+      ],
+      [
+        "Planar Image",
+        "Radiopharmaceutical"
+      ],
+      [
+        "Planar Image",
+        "Spect Image"
+      ],
+      [
+        "Pixel Size Measurement",
+        "Spect"
+      ],
+      [
+        "방사성의약품",
+        "양전자"
+      ],
+      [
+        "Spect Phantom",
+        "Spect System Performance Test"
+      ],
+      [
+        "0.511MeV의에너지",
+        "전자"
+      ],
+      [
+        "Attenuation",
+        "Pet"
+      ]
+    ],
+    "count": 43,
+    "create_time": 1775523292,
+    "update_time": 1775523292,
+    "_id": "doc-f38522287bf4d46f65b80b9c8f9470c1"
+  },
+  "doc-f95cbcfe1391f2709e283e3000b332d7": {
+    "relation_pairs": [
+      [
+        "CZT (Cadmium Zinc Telluride)",
+        "γ선검출용섬광체"
+      ],
+      [
+        "PET",
+        "퇴행성질환"
+      ],
+      [
+        "11C-Carfentanil",
+        "아편수용체"
+      ],
+      [
+        "H215O",
+        "혈류"
+      ],
+      [
+        "Emission Data",
+        "방사능감약보정"
+      ],
+      [
+        "Pet/Ct",
+        "Transmission Data"
+      ],
+      [
+        "Iterative Reconstruction",
+        "Osem"
+      ],
+      [
+        "BGO(Bismuth Germanate Oxide)",
+        "PET용검출소자"
+      ],
+      [
+        "Brain",
+        "Regional Cerebral Blood Flow"
+      ],
+      [
+        "PET",
+        "Time-Of Flight"
+      ],
+      [
+        "15O2",
+        "산소대사"
+      ],
+      [
+        "GSO(Gadolinium Silicate Oxide)",
+        "PET용검출소자"
+      ],
+      [
+        "Heart",
+        "관상동맥질환"
+      ],
+      [
+        "Pet Scan 기기",
+        "Ring Type Detector"
+      ],
+      [
+        "Transmission Data",
+        "흡수보정"
+      ],
+      [
+        "LSO (Cerium-Doped Lutetium Oxyorthosilicate)",
+        "γ선검출용섬광체"
+      ],
+      [
+        "Blank Data",
+        "감도보정"
+      ],
+      [
+        "Brain",
+        "탈수질질환"
+      ],
+      [
+        "11C-Methionine",
+        "아미노산대사"
+      ],
+      [
+        "11C-Spiroperidol",
+        "도파민수용체"
+      ],
+      [
+        "BGO",
+        "NaI(Tl)"
+      ],
+      [
+        "Attenuation Correction",
+        "Ctac"
+      ],
+      [
+        "CdTe (Cadmium Telluride)",
+        "γ선검출용섬광체"
+      ],
+      [
+        "PET",
+        "소멸방사선"
+      ],
+      [
+        "PET",
+        "역투영법"
+      ],
+      [
+        "BaF",
+        "형광물질"
+      ],
+      [
+        "Brain",
+        "Heart"
+      ],
+      [
+        "C15O",
+        "혈액체적"
+      ],
+      [
+        "Ct 영상",
+        "Transmission Data"
+      ],
+      [
+        "BGO",
+        "Biograph Turepoint 40 (SIEMENS)"
+      ],
+      [
+        "13NH3",
+        "혈류"
+      ],
+      [
+        "Brain",
+        "치매"
+      ],
+      [
+        "BGO",
+        "형광물질"
+      ],
+      [
+        "Heart",
+        "심근증"
+      ],
+      [
+        "GEMINI TF (PHILIPS)",
+        "GSO"
+      ],
+      [
+        "Brain",
+        "간질"
+      ],
+      [
+        "2D Scan Mode",
+        "납판 (Slice Septa)"
+      ],
+      [
+        "BGO",
+        "Discovery STE (GE Healthcare)"
+      ],
+      [
+        "교정용 Ring 선원",
+        "피사체"
+      ],
+      [
+        "18F-FDG",
+        "당대사"
+      ],
+      [
+        "동시계수회로",
+        "시간신호"
+      ],
+      [
+        "YSO",
+        "형광물질"
+      ],
+      [
+        "Fbp",
+        "Iterative Reconstruction"
+      ],
+      [
+        "LSO",
+        "NaI(Tl)"
+      ],
+      [
+        "C15O2",
+        "혈액체적"
+      ],
+      [
+        "BGO",
+        "소멸방사선"
+      ],
+      [
+        "NaI(Tl)",
+        "YSO"
+      ],
+      [
+        "PET",
+        "간질환자"
+      ],
+      [
+        "Biograph Turepoint 40 (SIEMENS)",
+        "LSO"
+      ],
+      [
+        "LSO",
+        "YSO"
+      ],
+      [
+        "Brain Scan",
+        "PET Scanner"
+      ],
+      [
+        "Brain",
+        "정신과적질환"
+      ],
+      [
+        "BaF(Barium Fluoride)",
+        "PET용검출소자"
+      ],
+      [
+        "Brain",
+        "Head Injury"
+      ],
+      [
+        "LSO",
+        "형광물질"
+      ],
+      [
+        "Scatter Coincidence",
+        "양전자소멸"
+      ],
+      [
+        "PET",
+        "반복재구성법"
+      ],
+      [
+        "Brain",
+        "허혈성뇌혈관질환"
+      ],
+      [
+        "NaI(Tl)",
+        "형광물질"
+      ],
+      [
+        "Brain",
+        "Brain Tumor"
+      ],
+      [
+        "Medical Cyclotron",
+        "방사성핵종"
+      ],
+      [
+        "감마선",
+        "섬광검출기"
+      ],
+      [
+        "방사성의약품",
+        "피사체"
+      ],
+      [
+        "GSO",
+        "형광물질"
+      ],
+      [
+        "Brain",
+        "Regional Cerebral Metabolic Rate For Oxygen"
+      ],
+      [
+        "2D Scan Mode",
+        "3D Scan Mode"
+      ],
+      [
+        "Brain",
+        "Regional Cerebral Metabolic Rate For Glucose"
+      ],
+      [
+        "PM Tube",
+        "Scintillator"
+      ],
+      [
+        "Random Coincidence",
+        "Scatter Coincidence"
+      ],
+      [
+        "YSO (Yttrium Oxyorthosilicate)",
+        "γ선검출용섬광체"
+      ],
+      [
+        "11C-Palmitic Acid",
+        "지방산대사"
+      ],
+      [
+        "Detector",
+        "PET Scanner"
+      ]
+    ],
+    "count": 72,
+    "create_time": 1775523327,
+    "update_time": 1775523327,
+    "_id": "doc-f95cbcfe1391f2709e283e3000b332d7"
+  },
+  "doc-f263232e15787da6d57f7dc264d3b178": {
+    "relation_pairs": [
+      [
+        "WHO (World Health Organization)",
+        "핵의학진단 (Nuclear Medicine Diagnosis)"
+      ],
+      [
+        "PET/CT",
+        "감마카메라 (Gamma Camera)"
+      ],
+      [
+        "Scintillation Camera QC",
+        "전력의공급형태"
+      ],
+      [
+        "PET",
+        "암 (Cancer)"
+      ],
+      [
+        "Intrinsic Resolution",
+        "Scinti-Camera"
+      ],
+      [
+        "PET/CT",
+        "암 (Cancer)"
+      ],
+      [
+        "Scintillation Camera QC",
+        "습도"
+      ],
+      [
+        "Spatial Resolution",
+        "응답함수"
+      ],
+      [
+        "Collimator",
+        "Extrinsic Flood Uniformity"
+      ],
+      [
+        "Gamma Camera",
+        "정도관리항목"
+      ],
+      [
+        "57Co Sheet Phantom",
+        "Extrinsic Flood Uniformity"
+      ],
+      [
+        "Intrinsic Flood Uniformity",
+        "방사능량"
+      ],
+      [
+        "Phantom",
+        "왜곡도"
+      ],
+      [
+        "NEMA",
+        "성능시험의지침서"
+      ],
+      [
+        "PET/CT",
+        "대장암 (Colon Cancer)"
+      ],
+      [
+        "AAPM (American Association of Physicists in Medicine)",
+        "핵의학진단 (Nuclear Medicine Diagnosis)"
+      ],
+      [
+        "Integral Uniformity",
+        "UFOV"
+      ],
+      [
+        "PET/CT",
+        "두경부암 (Head and Neck Cancer)"
+      ],
+      [
+        "PET/CT",
+        "림프종 (Lymphoma)"
+      ],
+      [
+        "WHO",
+        "성능시험의지침서"
+      ],
+      [
+        "Flood Phantom",
+        "Uniformity"
+      ],
+      [
+        "CFOV",
+        "Integral Uniformity"
+      ],
+      [
+        "AAPM",
+        "성능시험의지침서"
+      ],
+      [
+        "Scintillation Camera QC",
+        "공기의오염정도와BKG radiation"
+      ],
+      [
+        "PET/CT",
+        "난소암 (Ovarian Cancer)"
+      ],
+      [
+        "Energy Resolution",
+        "광절정"
+      ],
+      [
+        "Collimator",
+        "Intrinsic Flood Uniformity"
+      ],
+      [
+        "Collimator Resolution (Rc)",
+        "System Spatial Resolution (Rs)"
+      ],
+      [
+        "PET/CT",
+        "근골격계암 (Musculoskeletal Cancer)"
+      ],
+      [
+        "PET/CT",
+        "요관 (Ureter)"
+      ],
+      [
+        "Hole Phantom",
+        "Spatial Resolution"
+      ],
+      [
+        "PET/CT",
+        "초음파 (Ultrasound)"
+      ],
+      [
+        "Phantom",
+        "균일도"
+      ],
+      [
+        "PET/CT",
+        "흑색종 (Melanoma)"
+      ],
+      [
+        "PET/CT",
+        "자궁경부암 (Cervical Cancer)"
+      ],
+      [
+        "CT",
+        "암 (Cancer)"
+      ],
+      [
+        "Scintillation Camera QC",
+        "온도"
+      ],
+      [
+        "FWHM",
+        "Spatial Resolution"
+      ],
+      [
+        "PET/CT",
+        "간암 (Liver Cancer)"
+      ],
+      [
+        "NEMA (National Electrical Manufacturers Association)",
+        "핵의학진단 (Nuclear Medicine Diagnosis)"
+      ],
+      [
+        "CT",
+        "방사성의약품 (Radiopharmaceutical)"
+      ],
+      [
+        "PET/CT",
+        "전립선 (Prostate)"
+      ],
+      [
+        "Scinti-Camera",
+        "Spatial Resolution"
+      ],
+      [
+        "Device Resolution (Ri)",
+        "System Spatial Resolution (Rs)"
+      ],
+      [
+        "PET/CT",
+        "위암 (Stomach Cancer)"
+      ],
+      [
+        "Bar Phantom",
+        "Spatial Resolution"
+      ],
+      [
+        "IAEA",
+        "성능시험의지침서"
+      ],
+      [
+        "CT",
+        "Fusion PET (PET/CT Imaging)"
+      ],
+      [
+        "Phantom",
+        "직선성"
+      ],
+      [
+        "99mTc Sheet Phantom",
+        "Extrinsic Flood Uniformity"
+      ],
+      [
+        "PET/CT",
+        "폐암 (Lung Cancer)"
+      ],
+      [
+        "PET/CT",
+        "신장 (Kidney)"
+      ],
+      [
+        "정도관리",
+        "핵의학진단"
+      ],
+      [
+        "PET/CT",
+        "유방암 (Breast Cancer)"
+      ],
+      [
+        "PET/CT",
+        "방광 (Bladder)"
+      ],
+      [
+        "IAEA (International Atomic Energy Agency)",
+        "핵의학진단 (Nuclear Medicine Diagnosis)"
+      ]
+    ],
+    "count": 56,
+    "create_time": 1775523362,
+    "update_time": 1775523362,
+    "_id": "doc-f263232e15787da6d57f7dc264d3b178"
+  },
+  "doc-b2cd791b36a86f5cd02abadce51a1cf7": {
+    "relation_pairs": [
+      [
+        "고유영상왜곡",
+        "납격자상 Phantom"
+      ],
+      [
+        "Four Quadrant Bar Phantom",
+        "장기 Phantom"
+      ],
+      [
+        "Scinticamera",
+        "Spatial Resolution"
+      ],
+      [
+        "Flood Phantom",
+        "균일도"
+      ],
+      [
+        "Collimator",
+        "Scinticamera"
+      ],
+      [
+        "99mTc Point Source",
+        "COR Phantom"
+      ],
+      [
+        "Co-57",
+        "Four Quadrant Bar Phantom"
+      ],
+      [
+        "Distortion의 종류",
+        "Pin Cushion Distortion"
+      ],
+      [
+        "Intrinsic Resolution",
+        "Spatial Resolution"
+      ],
+      [
+        "Four Quadrant Bar Phantom",
+        "System Resolution"
+      ],
+      [
+        "Flood Phantom",
+        "감도(예민도 Sensitivity)"
+      ],
+      [
+        "99mTc 점선원",
+        "Energy Resolution"
+      ],
+      [
+        "검출기",
+        "점선원"
+      ],
+      [
+        "Lead Bar",
+        "선성검사"
+      ],
+      [
+        "Extrinsic Resolution",
+        "Spatial Resolution"
+      ],
+      [
+        "COR Calibration",
+        "COR Phantom"
+      ],
+      [
+        "Four Quadrant Bar Phantom",
+        "Tc-99m"
+      ],
+      [
+        "Flood Phantom",
+        "직선성"
+      ],
+      [
+        "Digital Imaging Method",
+        "LSF"
+      ],
+      [
+        "57Co 점선원",
+        "Energy Resolution"
+      ],
+      [
+        "Phantom",
+        "Spatial Resolution"
+      ],
+      [
+        "Phantom",
+        "단면 Slice Phantom 영상"
+      ],
+      [
+        "Smith Orthogonal Hole Phantom",
+        "장기 Phantom"
+      ],
+      [
+        "Scinticamera",
+        "Scintillator"
+      ],
+      [
+        "Digital Imaging Method",
+        "MTF"
+      ],
+      [
+        "Phantom",
+        "갑상선"
+      ],
+      [
+        "Cold Lesion",
+        "장기 Phantom"
+      ],
+      [
+        "γ-Camera",
+        "감도(예민도 Sensitivity)"
+      ],
+      [
+        "Phantom",
+        "간"
+      ],
+      [
+        "Lead Bar",
+        "Linearity & Distortion"
+      ],
+      [
+        "PLES(Parallel -Line Equal Space) Phantom",
+        "장기 Phantom"
+      ],
+      [
+        "Smith Orthogonal Hole Phantom",
+        "직선성"
+      ],
+      [
+        "Hot Spot",
+        "장기 Phantom"
+      ],
+      [
+        "Flood Phantom",
+        "Scinticamera"
+      ],
+      [
+        "PLES(Parallel -Line Equal Space) Phantom",
+        "공간분해능"
+      ],
+      [
+        "Energy Resolution",
+        "Gamma Ray Spectrum"
+      ],
+      [
+        "Hine-Duley Phantom",
+        "장기 Phantom"
+      ],
+      [
+        "Barrel Cushion Distortion",
+        "Distortion의 종류"
+      ],
+      [
+        "Detector 1",
+        "Detector 2"
+      ],
+      [
+        "Four Quadrant Bar Phantom",
+        "균일도"
+      ],
+      [
+        "Hine-Duley Phantom",
+        "공간분해능"
+      ],
+      [
+        "Hine-Duley Phantom",
+        "직선성"
+      ],
+      [
+        "Lead Grid Phantom",
+        "Linearity & Distortion"
+      ],
+      [
+        "Collimator",
+        "종합영상왜곡"
+      ],
+      [
+        "Phantom",
+        "직선성"
+      ]
+    ],
+    "count": 45,
+    "create_time": 1775523392,
+    "update_time": 1775523392,
+    "_id": "doc-b2cd791b36a86f5cd02abadce51a1cf7"
+  }
+}

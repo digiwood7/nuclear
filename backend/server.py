@@ -18,9 +18,9 @@ from pydantic import BaseModel
 
 # 환경변수
 API_KEY = os.environ.get("GEMINI_API_KEY", "")
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-RAG_STORAGE_DIR = os.path.join(BASE_DIR, "rag_storage")
-CHUNKS_PATH = os.path.join(BASE_DIR, "output/extracted/chunks.json")
+BACKEND_DIR = os.path.dirname(os.path.abspath(__file__))
+RAG_STORAGE_DIR = os.path.join(BACKEND_DIR, "rag_storage")
+CHUNKS_PATH = os.path.join(BACKEND_DIR, "data", "chunks.json")
 
 EMBEDDING_DIM = 768
 

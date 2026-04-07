@@ -10,11 +10,11 @@ node_modules/
 .next/
 out/
 
-# RAG 저장소 (대용량 벡터 DB)
-rag_storage/
+# RAG 저장소 (루트 레벨만 무시, backend/rag_storage는 포함)
+/rag_storage/
 
 # 추출 결과 (대용량 이미지/청크)
-output/
+/output/
 
 # 원본 PDF 교재 (저작권)
 reference/

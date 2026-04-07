@@ -1,0 +1,7714 @@
+{
+  "Spect<SEP>뇌& 심장의혈류평가": {
+    "chunk_ids": [
+      "chunk-1f7b7855d5cca22ae703580be0fcfc7f"
+    ],
+    "count": 1,
+    "create_time": 1775522911,
+    "update_time": 1775522911,
+    "_id": "Spect<SEP>뇌& 심장의혈류평가"
+  },
+  "PET<SEP>뇌& 심장": {
+    "chunk_ids": [
+      "chunk-1f7b7855d5cca22ae703580be0fcfc7f"
+    ],
+    "count": 1,
+    "create_time": 1775522911,
+    "update_time": 1775522911,
+    "_id": "PET<SEP>뇌& 심장"
+  },
+  "Hormone Analysis<SEP>Radioimmuno Assay": {
+    "chunk_ids": [
+      "chunk-1f7b7855d5cca22ae703580be0fcfc7f"
+    ],
+    "count": 1,
+    "create_time": 1775522911,
+    "update_time": 1775522911,
+    "_id": "Hormone Analysis<SEP>Radioimmuno Assay"
+  },
+  "Radioisotope Therapy<SEP>Thyroid Cancer": {
+    "chunk_ids": [
+      "chunk-1f7b7855d5cca22ae703580be0fcfc7f"
+    ],
+    "count": 1,
+    "create_time": 1775522911,
+    "update_time": 1775522911,
+    "_id": "Radioisotope Therapy<SEP>Thyroid Cancer"
+  },
+  "Ri<SEP>핵의학영상": {
+    "chunk_ids": [
+      "chunk-1f7b7855d5cca22ae703580be0fcfc7f"
+    ],
+    "count": 1,
+    "create_time": 1775522911,
+    "update_time": 1775522911,
+    "_id": "Ri<SEP>핵의학영상"
+  },
+  "SPECT<SEP>영상의진단율향상을위한실제적인영상의최적화": {
+    "chunk_ids": [
+      "chunk-1f7b7855d5cca22ae703580be0fcfc7f"
+    ],
+    "count": 1,
+    "create_time": 1775522911,
+    "update_time": 1775522911,
+    "_id": "SPECT<SEP>영상의진단율향상을위한실제적인영상의최적화"
+  },
+  "Hyperthyroidism<SEP>Radioisotope Therapy": {
+    "chunk_ids": [
+      "chunk-1f7b7855d5cca22ae703580be0fcfc7f"
+    ],
+    "count": 1,
+    "create_time": 1775522911,
+    "update_time": 1775522911,
+    "_id": "Hyperthyroidism<SEP>Radioisotope Therapy"
+  },
+  "131I을사용<SEP>갑상선기능항진증": {
+    "chunk_ids": [
+      "chunk-1f7b7855d5cca22ae703580be0fcfc7f"
+    ],
+    "count": 1,
+    "create_time": 1775522911,
+    "update_time": 1775522911,
+    "_id": "131I을사용<SEP>갑상선기능항진증"
+  },
+  "PET<SEP>조직및장기에서산소소모율평가": {
+    "chunk_ids": [
+      "chunk-1f7b7855d5cca22ae703580be0fcfc7f"
+    ],
+    "count": 1,
+    "create_time": 1775522912,
+    "update_time": 1775522912,
+    "_id": "PET<SEP>조직및장기에서산소소모율평가"
+  },
+  "SPECT<SEP>게이트심근촬영에의한심근운동분석연구": {
+    "chunk_ids": [
+      "chunk-1f7b7855d5cca22ae703580be0fcfc7f"
+    ],
+    "count": 1,
+    "create_time": 1775522912,
+    "update_time": 1775522912,
+    "_id": "SPECT<SEP>게이트심근촬영에의한심근운동분석연구"
+  },
+  "32P<SEP>혈액질환": {
+    "chunk_ids": [
+      "chunk-1f7b7855d5cca22ae703580be0fcfc7f"
+    ],
+    "count": 1,
+    "create_time": 1775522912,
+    "update_time": 1775522912,
+    "_id": "32P<SEP>혈액질환"
+  },
+  "Blood Diseases<SEP>Radioisotope Therapy": {
+    "chunk_ids": [
+      "chunk-1f7b7855d5cca22ae703580be0fcfc7f"
+    ],
+    "count": 1,
+    "create_time": 1775522912,
+    "update_time": 1775522912,
+    "_id": "Blood Diseases<SEP>Radioisotope Therapy"
+  },
+  "Diagnosis<SEP>Nuclear Medicine": {
+    "chunk_ids": [
+      "chunk-f4f41fc508019dd2e3e10e21d1a50fac"
+    ],
+    "count": 1,
+    "create_time": 1775522912,
+    "update_time": 1775522912,
+    "_id": "Diagnosis<SEP>Nuclear Medicine"
+  },
+  "Department Of Nuclear Medicine<SEP>Department Of Radiation": {
+    "chunk_ids": [
+      "chunk-f4f41fc508019dd2e3e10e21d1a50fac"
+    ],
+    "count": 1,
+    "create_time": 1775522912,
+    "update_time": 1775522912,
+    "_id": "Department Of Nuclear Medicine<SEP>Department Of Radiation"
+  },
+  "Nuclear Medicine<SEP>Therapy": {
+    "chunk_ids": [
+      "chunk-f4f41fc508019dd2e3e10e21d1a50fac"
+    ],
+    "count": 1,
+    "create_time": 1775522912,
+    "update_time": 1775522912,
+    "_id": "Nuclear Medicine<SEP>Therapy"
+  },
+  "Radioisotope Therapy<SEP>악성삼출액": {
+    "chunk_ids": [
+      "chunk-1f7b7855d5cca22ae703580be0fcfc7f"
+    ],
+    "count": 1,
+    "create_time": 1775522912,
+    "update_time": 1775522912,
+    "_id": "Radioisotope Therapy<SEP>악성삼출액"
+  },
+  "99mTc<SEP>In Vivo Study": {
+    "chunk_ids": [
+      "chunk-f4f41fc508019dd2e3e10e21d1a50fac"
+    ],
+    "count": 1,
+    "create_time": 1775522912,
+    "update_time": 1775522912,
+    "_id": "99mTc<SEP>In Vivo Study"
+  },
+  "125I<SEP>In Vitro Study": {
+    "chunk_ids": [
+      "chunk-f4f41fc508019dd2e3e10e21d1a50fac"
+    ],
+    "count": 1,
+    "create_time": 1775522913,
+    "update_time": 1775522913,
+    "_id": "125I<SEP>In Vitro Study"
+  },
+  "131I<SEP>Radio Therapy": {
+    "chunk_ids": [
+      "chunk-f4f41fc508019dd2e3e10e21d1a50fac"
+    ],
+    "count": 1,
+    "create_time": 1775522913,
+    "update_time": 1775522913,
+    "_id": "131I<SEP>Radio Therapy"
+  },
+  "131I을사용<SEP>갑상선암": {
+    "chunk_ids": [
+      "chunk-1f7b7855d5cca22ae703580be0fcfc7f"
+    ],
+    "count": 1,
+    "create_time": 1775522913,
+    "update_time": 1775522913,
+    "_id": "131I을사용<SEP>갑상선암"
+  },
+  "18F<SEP>In Vivo Study": {
+    "chunk_ids": [
+      "chunk-f4f41fc508019dd2e3e10e21d1a50fac"
+    ],
+    "count": 1,
+    "create_time": 1775522913,
+    "update_time": 1775522913,
+    "_id": "18F<SEP>In Vivo Study"
+  },
+  "Anatomical Change<SEP>Functional Change": {
+    "chunk_ids": [
+      "chunk-f4f41fc508019dd2e3e10e21d1a50fac"
+    ],
+    "count": 1,
+    "create_time": 1775522913,
+    "update_time": 1775522913,
+    "_id": "Anatomical Change<SEP>Functional Change"
+  },
+  "Department Of Nuclear Medicine<SEP>PET": {
+    "chunk_ids": [
+      "chunk-f4f41fc508019dd2e3e10e21d1a50fac"
+    ],
+    "count": 1,
+    "create_time": 1775522913,
+    "update_time": 1775522913,
+    "_id": "Department Of Nuclear Medicine<SEP>PET"
+  },
+  "Gamma Ray<SEP>Radioisotope Therapy": {
+    "chunk_ids": [
+      "chunk-f4f41fc508019dd2e3e10e21d1a50fac"
+    ],
+    "count": 1,
+    "create_time": 1775522913,
+    "update_time": 1775522913,
+    "_id": "Gamma Ray<SEP>Radioisotope Therapy"
+  },
+  "Kvp<SEP>MAs": {
+    "chunk_ids": [
+      "chunk-f4f41fc508019dd2e3e10e21d1a50fac"
+    ],
+    "count": 1,
+    "create_time": 1775522913,
+    "update_time": 1775522913,
+    "_id": "Kvp<SEP>MAs"
+  },
+  "Count<SEP>Time": {
+    "chunk_ids": [
+      "chunk-f4f41fc508019dd2e3e10e21d1a50fac"
+    ],
+    "count": 1,
+    "create_time": 1775522914,
+    "update_time": 1775522914,
+    "_id": "Count<SEP>Time"
+  },
+  "18F<SEP>Department Of Nuclear Medicine": {
+    "chunk_ids": [
+      "chunk-f4f41fc508019dd2e3e10e21d1a50fac"
+    ],
+    "count": 1,
+    "create_time": 1775522914,
+    "update_time": 1775522914,
+    "_id": "18F<SEP>Department Of Nuclear Medicine"
+  },
+  "Contrast<SEP>X-Ray": {
+    "chunk_ids": [
+      "chunk-f4f41fc508019dd2e3e10e21d1a50fac"
+    ],
+    "count": 1,
+    "create_time": 1775522914,
+    "update_time": 1775522914,
+    "_id": "Contrast<SEP>X-Ray"
+  },
+  "MAs<SEP>Sec": {
+    "chunk_ids": [
+      "chunk-f4f41fc508019dd2e3e10e21d1a50fac"
+    ],
+    "count": 1,
+    "create_time": 1775522914,
+    "update_time": 1775522914,
+    "_id": "MAs<SEP>Sec"
+  },
+  "Dosage<SEP>Time": {
+    "chunk_ids": [
+      "chunk-f4f41fc508019dd2e3e10e21d1a50fac"
+    ],
+    "count": 1,
+    "create_time": 1775522914,
+    "update_time": 1775522914,
+    "_id": "Dosage<SEP>Time"
+  },
+  "Count<SEP>Nuclear Medicine": {
+    "chunk_ids": [
+      "chunk-f4f41fc508019dd2e3e10e21d1a50fac"
+    ],
+    "count": 1,
+    "create_time": 1775522914,
+    "update_time": 1775522914,
+    "_id": "Count<SEP>Nuclear Medicine"
+  },
+  "γ선<SEP>신체": {
+    "chunk_ids": [
+      "chunk-b06ed9f5e0dd9cd85ffaf0fc38757627"
+    ],
+    "count": 1,
+    "create_time": 1775522914,
+    "update_time": 1775522914,
+    "_id": "γ선<SEP>신체"
+  },
+  "Beta Ray<SEP>Radioisotope Therapy": {
+    "chunk_ids": [
+      "chunk-f4f41fc508019dd2e3e10e21d1a50fac"
+    ],
+    "count": 1,
+    "create_time": 1775522914,
+    "update_time": 1775522914,
+    "_id": "Beta Ray<SEP>Radioisotope Therapy"
+  },
+  "체내검사<SEP>핵의학영상분야": {
+    "chunk_ids": [
+      "chunk-b06ed9f5e0dd9cd85ffaf0fc38757627"
+    ],
+    "count": 1,
+    "create_time": 1775522914,
+    "update_time": 1775522914,
+    "_id": "체내검사<SEP>핵의학영상분야"
+  },
+  "β선<SEP>신체": {
+    "chunk_ids": [
+      "chunk-b06ed9f5e0dd9cd85ffaf0fc38757627"
+    ],
+    "count": 1,
+    "create_time": 1775522915,
+    "update_time": 1775522915,
+    "_id": "β선<SEP>신체"
+  },
+  "방사면역측정법<SEP>체외검사": {
+    "chunk_ids": [
+      "chunk-b06ed9f5e0dd9cd85ffaf0fc38757627"
+    ],
+    "count": 1,
+    "create_time": 1775522915,
+    "update_time": 1775522915,
+    "_id": "방사면역측정법<SEP>체외검사"
+  },
+  "Biochemical Changes<SEP>핵의학진단법": {
+    "chunk_ids": [
+      "chunk-b06ed9f5e0dd9cd85ffaf0fc38757627"
+    ],
+    "count": 1,
+    "create_time": 1775522915,
+    "update_time": 1775522915,
+    "_id": "Biochemical Changes<SEP>핵의학진단법"
+  },
+  "정적영상<SEP>핵의학영상분야": {
+    "chunk_ids": [
+      "chunk-b06ed9f5e0dd9cd85ffaf0fc38757627"
+    ],
+    "count": 1,
+    "create_time": 1775522915,
+    "update_time": 1775522915,
+    "_id": "정적영상<SEP>핵의학영상분야"
+  },
+  "방사선종양학과<SEP>핵의학과": {
+    "chunk_ids": [
+      "chunk-b06ed9f5e0dd9cd85ffaf0fc38757627"
+    ],
+    "count": 1,
+    "create_time": 1775522915,
+    "update_time": 1775522915,
+    "_id": "방사선종양학과<SEP>핵의학과"
+  },
+  "Functional Change<SEP>핵의학진단법": {
+    "chunk_ids": [
+      "chunk-b06ed9f5e0dd9cd85ffaf0fc38757627"
+    ],
+    "count": 1,
+    "create_time": 1775522915,
+    "update_time": 1775522915,
+    "_id": "Functional Change<SEP>핵의학진단법"
+  },
+  "동적영상<SEP>핵의학영상분야": {
+    "chunk_ids": [
+      "chunk-b06ed9f5e0dd9cd85ffaf0fc38757627"
+    ],
+    "count": 1,
+    "create_time": 1775522915,
+    "update_time": 1775522915,
+    "_id": "동적영상<SEP>핵의학영상분야"
+  },
+  "Roentgen<SEP>X-선": {
+    "chunk_ids": [
+      "chunk-72590c67e60a69d417d259ef71baaf90"
+    ],
+    "count": 1,
+    "create_time": 1775522915,
+    "update_time": 1775522915,
+    "_id": "Roentgen<SEP>X-선"
+  },
+  "진단검사의학과<SEP>핵의학과": {
+    "chunk_ids": [
+      "chunk-b06ed9f5e0dd9cd85ffaf0fc38757627"
+    ],
+    "count": 1,
+    "create_time": 1775522916,
+    "update_time": 1775522916,
+    "_id": "진단검사의학과<SEP>핵의학과"
+  },
+  "Becguerel<SEP>Radioactivity": {
+    "chunk_ids": [
+      "chunk-72590c67e60a69d417d259ef71baaf90"
+    ],
+    "count": 1,
+    "create_time": 1775522916,
+    "update_time": 1775522916,
+    "_id": "Becguerel<SEP>Radioactivity"
+  },
+  "Curie 부인<SEP>폴로니움": {
+    "chunk_ids": [
+      "chunk-72590c67e60a69d417d259ef71baaf90"
+    ],
+    "count": 1,
+    "create_time": 1775522916,
+    "update_time": 1775522916,
+    "_id": "Curie 부인<SEP>폴로니움"
+  },
+  "Anatomical Change<SEP>핵의학진단법": {
+    "chunk_ids": [
+      "chunk-b06ed9f5e0dd9cd85ffaf0fc38757627"
+    ],
+    "count": 1,
+    "create_time": 1775522916,
+    "update_time": 1775522916,
+    "_id": "Anatomical Change<SEP>핵의학진단법"
+  },
+  "Lawrence<SEP>사이클로트론": {
+    "chunk_ids": [
+      "chunk-72590c67e60a69d417d259ef71baaf90"
+    ],
+    "count": 1,
+    "create_time": 1775522916,
+    "update_time": 1775522916,
+    "_id": "Lawrence<SEP>사이클로트론"
+  },
+  "Fermi<SEP>원자로": {
+    "chunk_ids": [
+      "chunk-72590c67e60a69d417d259ef71baaf90"
+    ],
+    "count": 1,
+    "create_time": 1775522916,
+    "update_time": 1775522916,
+    "_id": "Fermi<SEP>원자로"
+  },
+  "Cassen<SEP>직선이동형스캐너": {
+    "chunk_ids": [
+      "chunk-72590c67e60a69d417d259ef71baaf90"
+    ],
+    "count": 1,
+    "create_time": 1775522916,
+    "update_time": 1775522916,
+    "_id": "Cassen<SEP>직선이동형스캐너"
+  },
+  "Curie 부인<SEP>라듐": {
+    "chunk_ids": [
+      "chunk-72590c67e60a69d417d259ef71baaf90"
+    ],
+    "count": 1,
+    "create_time": 1775522916,
+    "update_time": 1775522916,
+    "_id": "Curie 부인<SEP>라듐"
+  },
+  "Anger<SEP>감마카메라": {
+    "chunk_ids": [
+      "chunk-72590c67e60a69d417d259ef71baaf90",
+      "chunk-73fd9633bf193d21c88e0cf35c08d9fa"
+    ],
+    "count": 2,
+    "update_time": 1775523210,
+    "_id": "Anger<SEP>감마카메라"
+  },
+  "신체<SEP>핵의학진단법": {
+    "chunk_ids": [
+      "chunk-b06ed9f5e0dd9cd85ffaf0fc38757627"
+    ],
+    "count": 1,
+    "create_time": 1775522917,
+    "update_time": 1775522917,
+    "_id": "신체<SEP>핵의학진단법"
+  },
+  "Berson<SEP>방사면역측정법": {
+    "chunk_ids": [
+      "chunk-72590c67e60a69d417d259ef71baaf90"
+    ],
+    "count": 1,
+    "create_time": 1775522917,
+    "update_time": 1775522917,
+    "_id": "Berson<SEP>방사면역측정법"
+  },
+  "PET<SEP>조장희 박사": {
+    "chunk_ids": [
+      "chunk-72590c67e60a69d417d259ef71baaf90"
+    ],
+    "count": 1,
+    "create_time": 1775522917,
+    "update_time": 1775522917,
+    "_id": "PET<SEP>조장희 박사"
+  },
+  "John Keys<SEP>SPECT": {
+    "chunk_ids": [
+      "chunk-72590c67e60a69d417d259ef71baaf90"
+    ],
+    "count": 1,
+    "create_time": 1775522917,
+    "update_time": 1775522917,
+    "_id": "John Keys<SEP>SPECT"
+  },
+  "Radioimmuno Therapy<SEP>종양특이항원": {
+    "chunk_ids": [
+      "chunk-72590c67e60a69d417d259ef71baaf90"
+    ],
+    "count": 1,
+    "create_time": 1775522917,
+    "update_time": 1775522917,
+    "_id": "Radioimmuno Therapy<SEP>종양특이항원"
+  },
+  "Yalow<SEP>방사면역측정법": {
+    "chunk_ids": [
+      "chunk-72590c67e60a69d417d259ef71baaf90"
+    ],
+    "count": 1,
+    "create_time": 1775522917,
+    "update_time": 1775522917,
+    "_id": "Yalow<SEP>방사면역측정법"
+  },
+  "방사성동위원소치료<SEP>신체": {
+    "chunk_ids": [
+      "chunk-b06ed9f5e0dd9cd85ffaf0fc38757627"
+    ],
+    "count": 1,
+    "create_time": 1775522917,
+    "update_time": 1775522917,
+    "_id": "방사성동위원소치료<SEP>신체"
+  },
+  "Radioimmuno Therapy<SEP>방사성핵종표지단일클론항체": {
+    "chunk_ids": [
+      "chunk-72590c67e60a69d417d259ef71baaf90"
+    ],
+    "count": 1,
+    "create_time": 1775522918,
+    "update_time": 1775522918,
+    "_id": "Radioimmuno Therapy<SEP>방사성핵종표지단일클론항체"
+  },
+  "강도<SEP>방사성물질": {
+    "chunk_ids": [
+      "chunk-ad2bbaf70d414921fce8a89c3f0030d8"
+    ],
+    "count": 1,
+    "create_time": 1775522944,
+    "update_time": 1775522944,
+    "_id": "강도<SEP>방사성물질"
+  },
+  "방사성동위원소<SEP>붕괴율": {
+    "chunk_ids": [
+      "chunk-ad2bbaf70d414921fce8a89c3f0030d8"
+    ],
+    "count": 1,
+    "create_time": 1775522944,
+    "update_time": 1775522944,
+    "_id": "방사성동위원소<SEP>붕괴율"
+  },
+  "물리적반감기<SEP>반감기": {
+    "chunk_ids": [
+      "chunk-ad2bbaf70d414921fce8a89c3f0030d8"
+    ],
+    "count": 1,
+    "create_time": 1775522944,
+    "update_time": 1775522944,
+    "_id": "물리적반감기<SEP>반감기"
+  },
+  "He 핵<SEP>α 붕괴": {
+    "chunk_ids": [
+      "chunk-ad2bbaf70d414921fce8a89c3f0030d8"
+    ],
+    "count": 1,
+    "create_time": 1775522944,
+    "update_time": 1775522944,
+    "_id": "He 핵<SEP>α 붕괴"
+  },
+  "β 붕괴<SEP>β 입자": {
+    "chunk_ids": [
+      "chunk-ad2bbaf70d414921fce8a89c3f0030d8"
+    ],
+    "count": 1,
+    "create_time": 1775522944,
+    "update_time": 1775522944,
+    "_id": "β 붕괴<SEP>β 입자"
+  },
+  "β- 붕괴<SEP>음전자": {
+    "chunk_ids": [
+      "chunk-ad2bbaf70d414921fce8a89c3f0030d8"
+    ],
+    "count": 1,
+    "create_time": 1775522944,
+    "update_time": 1775522944,
+    "_id": "β- 붕괴<SEP>음전자"
+  },
+  "반감기<SEP>생물학적반감기": {
+    "chunk_ids": [
+      "chunk-ad2bbaf70d414921fce8a89c3f0030d8"
+    ],
+    "count": 1,
+    "create_time": 1775522945,
+    "update_time": 1775522945,
+    "_id": "반감기<SEP>생물학적반감기"
+  },
+  "β+ 붕괴<SEP>양전자": {
+    "chunk_ids": [
+      "chunk-ad2bbaf70d414921fce8a89c3f0030d8"
+    ],
+    "count": 1,
+    "create_time": 1775522945,
+    "update_time": 1775522945,
+    "_id": "β+ 붕괴<SEP>양전자"
+  },
+  "양성자<SEP>전자포획": {
+    "chunk_ids": [
+      "chunk-ad2bbaf70d414921fce8a89c3f0030d8"
+    ],
+    "count": 1,
+    "create_time": 1775522945,
+    "update_time": 1775522945,
+    "_id": "양성자<SEP>전자포획"
+  },
+  "α 붕괴<SEP>원자번호(Z)": {
+    "chunk_ids": [
+      "chunk-ad2bbaf70d414921fce8a89c3f0030d8"
+    ],
+    "count": 1,
+    "create_time": 1775522945,
+    "update_time": 1775522945,
+    "_id": "α 붕괴<SEP>원자번호(Z)"
+  },
+  "반감기<SEP>유효반감기": {
+    "chunk_ids": [
+      "chunk-ad2bbaf70d414921fce8a89c3f0030d8"
+    ],
+    "count": 1,
+    "create_time": 1775522945,
+    "update_time": 1775522945,
+    "_id": "반감기<SEP>유효반감기"
+  },
+  "Coherent Scattering<SEP>Thomson Scattering": {
+    "chunk_ids": [
+      "chunk-16be9377fc737f76ca60084b1220e8de"
+    ],
+    "count": 1,
+    "create_time": 1775522945,
+    "update_time": 1775522945,
+    "_id": "Coherent Scattering<SEP>Thomson Scattering"
+  },
+  "Gamma-Ray Emission<SEP>Internal Conversion Probability": {
+    "chunk_ids": [
+      "chunk-16be9377fc737f76ca60084b1220e8de"
+    ],
+    "count": 1,
+    "create_time": 1775522945,
+    "update_time": 1775522945,
+    "_id": "Gamma-Ray Emission<SEP>Internal Conversion Probability"
+  },
+  "β 붕괴<SEP>원자번호(Z)": {
+    "chunk_ids": [
+      "chunk-ad2bbaf70d414921fce8a89c3f0030d8"
+    ],
+    "count": 1,
+    "create_time": 1775522945,
+    "update_time": 1775522945,
+    "_id": "β 붕괴<SEP>원자번호(Z)"
+  },
+  "α 붕괴<SEP>질량수(A)": {
+    "chunk_ids": [
+      "chunk-ad2bbaf70d414921fce8a89c3f0030d8"
+    ],
+    "count": 1,
+    "create_time": 1775522945,
+    "update_time": 1775522945,
+    "_id": "α 붕괴<SEP>질량수(A)"
+  },
+  "하나로원자로내부<SEP>핵의학검사용핵종": {
+    "chunk_ids": [
+      "chunk-428583e70d87d887ad563511e218180d"
+    ],
+    "count": 1,
+    "create_time": 1775522946,
+    "update_time": 1775522946,
+    "_id": "하나로원자로내부<SEP>핵의학검사용핵종"
+  },
+  "Internal Conversion Probability<SEP>Z3": {
+    "chunk_ids": [
+      "chunk-16be9377fc737f76ca60084b1220e8de"
+    ],
+    "count": 1,
+    "create_time": 1775522946,
+    "update_time": 1775522946,
+    "_id": "Internal Conversion Probability<SEP>Z3"
+  },
+  "Cyclotron<SEP>Pet/Ct 용방사성동위원소": {
+    "chunk_ids": [
+      "chunk-428583e70d87d887ad563511e218180d"
+    ],
+    "count": 1,
+    "create_time": 1775522946,
+    "update_time": 1775522946,
+    "_id": "Cyclotron<SEP>Pet/Ct 용방사성동위원소"
+  },
+  "국제방사선단위측정위원회(Icru)<SEP>방사선": {
+    "chunk_ids": [
+      "chunk-428583e70d87d887ad563511e218180d"
+    ],
+    "count": 1,
+    "create_time": 1775522946,
+    "update_time": 1775522946,
+    "_id": "국제방사선단위측정위원회(Icru)<SEP>방사선"
+  },
+  "β 붕괴<SEP>질량수(A)": {
+    "chunk_ids": [
+      "chunk-ad2bbaf70d414921fce8a89c3f0030d8"
+    ],
+    "count": 1,
+    "create_time": 1775522946,
+    "update_time": 1775522946,
+    "_id": "β 붕괴<SEP>질량수(A)"
+  },
+  "Pet Scanner<SEP>방사성의약품": {
+    "chunk_ids": [
+      "chunk-428583e70d87d887ad563511e218180d"
+    ],
+    "count": 1,
+    "create_time": 1775522946,
+    "update_time": 1775522946,
+    "_id": "Pet Scanner<SEP>방사성의약품"
+  },
+  "Internal Conversion Probability<SEP>K-Shell Electron": {
+    "chunk_ids": [
+      "chunk-16be9377fc737f76ca60084b1220e8de"
+    ],
+    "count": 1,
+    "create_time": 1775522946,
+    "update_time": 1775522946,
+    "_id": "Internal Conversion Probability<SEP>K-Shell Electron"
+  },
+  "Pet Scanner<SEP>양전자": {
+    "chunk_ids": [
+      "chunk-428583e70d87d887ad563511e218180d"
+    ],
+    "count": 1,
+    "create_time": 1775522947,
+    "update_time": 1775522947,
+    "_id": "Pet Scanner<SEP>양전자"
+  },
+  "국제방사선방호위원회(Icrp)<SEP>방사선": {
+    "chunk_ids": [
+      "chunk-428583e70d87d887ad563511e218180d"
+    ],
+    "count": 1,
+    "create_time": 1775522947,
+    "update_time": 1775522947,
+    "_id": "국제방사선방호위원회(Icrp)<SEP>방사선"
+  },
+  "국제단위(Si)<SEP>국제방사선단위측정위원회(Icru)": {
+    "chunk_ids": [
+      "chunk-428583e70d87d887ad563511e218180d"
+    ],
+    "count": 1,
+    "create_time": 1775522947,
+    "update_time": 1775522947,
+    "_id": "국제단위(Si)<SEP>국제방사선단위측정위원회(Icru)"
+  },
+  "Cyclotron<SEP>핵종생산": {
+    "chunk_ids": [
+      "chunk-428583e70d87d887ad563511e218180d"
+    ],
+    "count": 1,
+    "create_time": 1775522947,
+    "update_time": 1775522947,
+    "_id": "Cyclotron<SEP>핵종생산"
+  },
+  "운동 에너지<SEP>입자선": {
+    "chunk_ids": [
+      "chunk-aba8bf30078b2233792d56a3c43c08ac"
+    ],
+    "count": 1,
+    "create_time": 1775522947,
+    "update_time": 1775522947,
+    "_id": "운동 에너지<SEP>입자선"
+  },
+  "α선<SEP>직접전리방사선": {
+    "chunk_ids": [
+      "chunk-aba8bf30078b2233792d56a3c43c08ac"
+    ],
+    "count": 1,
+    "create_time": 1775522947,
+    "update_time": 1775522947,
+    "_id": "α선<SEP>직접전리방사선"
+  },
+  "공간<SEP>방사선": {
+    "chunk_ids": [
+      "chunk-428583e70d87d887ad563511e218180d"
+    ],
+    "count": 1,
+    "create_time": 1775522947,
+    "update_time": 1775522947,
+    "_id": "공간<SEP>방사선"
+  },
+  "X선<SEP>간접전리방사선": {
+    "chunk_ids": [
+      "chunk-aba8bf30078b2233792d56a3c43c08ac"
+    ],
+    "count": 1,
+    "create_time": 1775522948,
+    "update_time": 1775522948,
+    "_id": "X선<SEP>간접전리방사선"
+  },
+  "물질<SEP>방사선": {
+    "chunk_ids": [
+      "chunk-428583e70d87d887ad563511e218180d"
+    ],
+    "count": 1,
+    "create_time": 1775522948,
+    "update_time": 1775522948,
+    "_id": "물질<SEP>방사선"
+  },
+  "β선<SEP>직접전리방사선": {
+    "chunk_ids": [
+      "chunk-aba8bf30078b2233792d56a3c43c08ac"
+    ],
+    "count": 1,
+    "create_time": 1775522948,
+    "update_time": 1775522948,
+    "_id": "β선<SEP>직접전리방사선"
+  },
+  "γ선<SEP>간접전리방사선": {
+    "chunk_ids": [
+      "chunk-aba8bf30078b2233792d56a3c43c08ac"
+    ],
+    "count": 1,
+    "create_time": 1775522948,
+    "update_time": 1775522948,
+    "_id": "γ선<SEP>간접전리방사선"
+  },
+  "방사선+원자<SEP>전리": {
+    "chunk_ids": [
+      "chunk-aba8bf30078b2233792d56a3c43c08ac"
+    ],
+    "count": 1,
+    "create_time": 1775522948,
+    "update_time": 1775522948,
+    "_id": "방사선+원자<SEP>전리"
+  },
+  "양성자<SEP>직접전리방사선": {
+    "chunk_ids": [
+      "chunk-aba8bf30078b2233792d56a3c43c08ac"
+    ],
+    "count": 1,
+    "create_time": 1775522948,
+    "update_time": 1775522948,
+    "_id": "양성자<SEP>직접전리방사선"
+  },
+  "간접전리방사선<SEP>중성자": {
+    "chunk_ids": [
+      "chunk-aba8bf30078b2233792d56a3c43c08ac"
+    ],
+    "count": 1,
+    "create_time": 1775522949,
+    "update_time": 1775522949,
+    "_id": "간접전리방사선<SEP>중성자"
+  },
+  "방사선<SEP>전리": {
+    "chunk_ids": [
+      "chunk-428583e70d87d887ad563511e218180d"
+    ],
+    "count": 1,
+    "create_time": 1775522949,
+    "update_time": 1775522949,
+    "_id": "방사선<SEP>전리"
+  },
+  "방사선+원자<SEP>여기": {
+    "chunk_ids": [
+      "chunk-aba8bf30078b2233792d56a3c43c08ac"
+    ],
+    "count": 1,
+    "create_time": 1775522949,
+    "update_time": 1775522949,
+    "_id": "방사선+원자<SEP>여기"
+  },
+  "원자핵<SEP>충돌": {
+    "chunk_ids": [
+      "chunk-aba8bf30078b2233792d56a3c43c08ac"
+    ],
+    "count": 1,
+    "create_time": 1775522949,
+    "update_time": 1775522949,
+    "_id": "원자핵<SEP>충돌"
+  },
+  "방사선<SEP>운동에너지": {
+    "chunk_ids": [
+      "chunk-428583e70d87d887ad563511e218180d"
+    ],
+    "count": 1,
+    "create_time": 1775522949,
+    "update_time": 1775522949,
+    "_id": "방사선<SEP>운동에너지"
+  },
+  "산란<SEP>원자핵": {
+    "chunk_ids": [
+      "chunk-aba8bf30078b2233792d56a3c43c08ac"
+    ],
+    "count": 1,
+    "create_time": 1775522949,
+    "update_time": 1775522949,
+    "_id": "산란<SEP>원자핵"
+  },
+  "방사능(Radioactivity)<SEP>방사성": {
+    "chunk_ids": [
+      "chunk-aba8bf30078b2233792d56a3c43c08ac"
+    ],
+    "count": 1,
+    "create_time": 1775522949,
+    "update_time": 1775522949,
+    "_id": "방사능(Radioactivity)<SEP>방사성"
+  },
+  "원자핵<SEP>흡수": {
+    "chunk_ids": [
+      "chunk-aba8bf30078b2233792d56a3c43c08ac"
+    ],
+    "count": 1,
+    "create_time": 1775522950,
+    "update_time": 1775522950,
+    "_id": "원자핵<SEP>흡수"
+  },
+  "궤도전자<SEP>양성자": {
+    "chunk_ids": [
+      "chunk-734454390e5e52b722069b53101aa55e"
+    ],
+    "count": 1,
+    "create_time": 1775522950,
+    "update_time": 1775522950,
+    "_id": "궤도전자<SEP>양성자"
+  },
+  "방사능(Radioactivity)<SEP>붕괴율": {
+    "chunk_ids": [
+      "chunk-aba8bf30078b2233792d56a3c43c08ac"
+    ],
+    "count": 1,
+    "create_time": 1775522950,
+    "update_time": 1775522950,
+    "_id": "방사능(Radioactivity)<SEP>붕괴율"
+  },
+  "γ-Decay<SEP>핵": {
+    "chunk_ids": [
+      "chunk-734454390e5e52b722069b53101aa55e"
+    ],
+    "count": 1,
+    "create_time": 1775522950,
+    "update_time": 1775522950,
+    "_id": "γ-Decay<SEP>핵"
+  },
+  "원자핵<SEP>핵반응": {
+    "chunk_ids": [
+      "chunk-aba8bf30078b2233792d56a3c43c08ac"
+    ],
+    "count": 1,
+    "create_time": 1775522950,
+    "update_time": 1775522950,
+    "_id": "원자핵<SEP>핵반응"
+  },
+  "γ-선<SEP>핵이성체": {
+    "chunk_ids": [
+      "chunk-734454390e5e52b722069b53101aa55e"
+    ],
+    "count": 1,
+    "create_time": 1775522950,
+    "update_time": 1775522950,
+    "_id": "γ-선<SEP>핵이성체"
+  },
+  "내부전환전자<SEP>핵": {
+    "chunk_ids": [
+      "chunk-734454390e5e52b722069b53101aa55e"
+    ],
+    "count": 1,
+    "create_time": 1775522950,
+    "update_time": 1775522950,
+    "_id": "내부전환전자<SEP>핵"
+  },
+  "양성자<SEP>중성미자": {
+    "chunk_ids": [
+      "chunk-734454390e5e52b722069b53101aa55e"
+    ],
+    "count": 1,
+    "create_time": 1775522950,
+    "update_time": 1775522950,
+    "_id": "양성자<SEP>중성미자"
+  },
+  "원자핵<SEP>핵변환": {
+    "chunk_ids": [
+      "chunk-aba8bf30078b2233792d56a3c43c08ac"
+    ],
+    "count": 1,
+    "create_time": 1775522951,
+    "update_time": 1775522951,
+    "_id": "원자핵<SEP>핵변환"
+  },
+  "원자핵<SEP>제동방사": {
+    "chunk_ids": [
+      "chunk-aba8bf30078b2233792d56a3c43c08ac"
+    ],
+    "count": 1,
+    "create_time": 1775522951,
+    "update_time": 1775522951,
+    "_id": "원자핵<SEP>제동방사"
+  },
+  "방사선<SEP>원자핵": {
+    "chunk_ids": [
+      "chunk-aba8bf30078b2233792d56a3c43c08ac"
+    ],
+    "count": 1,
+    "create_time": 1775522952,
+    "update_time": 1775522952,
+    "_id": "방사선<SEP>원자핵"
+  },
+  "99mTc-Gh<SEP>Vasovagal Response": {
+    "chunk_ids": [
+      "chunk-9d83407b553bdad56b98cf8fd5be64bc"
+    ],
+    "count": 1,
+    "create_time": 1775522976,
+    "update_time": 1775522976,
+    "_id": "99mTc-Gh<SEP>Vasovagal Response"
+  },
+  "99Mo–99mTc Generator<SEP>99mTcO4‾": {
+    "chunk_ids": [
+      "chunk-9d83407b553bdad56b98cf8fd5be64bc"
+    ],
+    "count": 1,
+    "create_time": 1775522976,
+    "update_time": 1775522976,
+    "_id": "99Mo–99mTc Generator<SEP>99mTcO4‾"
+  },
+  "81Rb–81mKr Generator<SEP>81mKr": {
+    "chunk_ids": [
+      "chunk-9d83407b553bdad56b98cf8fd5be64bc"
+    ],
+    "count": 1,
+    "create_time": 1775522976,
+    "update_time": 1775522976,
+    "_id": "81Rb–81mKr Generator<SEP>81mKr"
+  },
+  "11C<SEP>Cyclotron": {
+    "chunk_ids": [
+      "chunk-9d83407b553bdad56b98cf8fd5be64bc"
+    ],
+    "count": 1,
+    "create_time": 1775522976,
+    "update_time": 1775522976,
+    "_id": "11C<SEP>Cyclotron"
+  },
+  "125I<SEP>Radioimmunoassay": {
+    "chunk_ids": [
+      "chunk-9d83407b553bdad56b98cf8fd5be64bc"
+    ],
+    "count": 1,
+    "create_time": 1775522976,
+    "update_time": 1775522976,
+    "_id": "125I<SEP>Radioimmunoassay"
+  },
+  "13N<SEP>Cyclotron": {
+    "chunk_ids": [
+      "chunk-9d83407b553bdad56b98cf8fd5be64bc"
+    ],
+    "count": 1,
+    "create_time": 1775522977,
+    "update_time": 1775522977,
+    "_id": "13N<SEP>Cyclotron"
+  },
+  "Bad Products<SEP>Product Quality": {
+    "chunk_ids": [
+      "chunk-9d83407b553bdad56b98cf8fd5be64bc"
+    ],
+    "count": 1,
+    "create_time": 1775522977,
+    "update_time": 1775522977,
+    "_id": "Bad Products<SEP>Product Quality"
+  },
+  "99mTc-Gh<SEP>Allergic Reaction": {
+    "chunk_ids": [
+      "chunk-9d83407b553bdad56b98cf8fd5be64bc"
+    ],
+    "count": 1,
+    "create_time": 1775522977,
+    "update_time": 1775522977,
+    "_id": "99mTc-Gh<SEP>Allergic Reaction"
+  },
+  "Alpha Particle<SEP>Tissue Penetration": {
+    "chunk_ids": [
+      "chunk-9d83407b553bdad56b98cf8fd5be64bc"
+    ],
+    "count": 1,
+    "create_time": 1775522977,
+    "update_time": 1775522977,
+    "_id": "Alpha Particle<SEP>Tissue Penetration"
+  },
+  "Beta Particle<SEP>Extracorporeal measurement": {
+    "chunk_ids": [
+      "chunk-9d83407b553bdad56b98cf8fd5be64bc"
+    ],
+    "count": 1,
+    "create_time": 1775522977,
+    "update_time": 1775522977,
+    "_id": "Beta Particle<SEP>Extracorporeal measurement"
+  },
+  "15O<SEP>Cyclotron": {
+    "chunk_ids": [
+      "chunk-9d83407b553bdad56b98cf8fd5be64bc"
+    ],
+    "count": 1,
+    "create_time": 1775522977,
+    "update_time": 1775522977,
+    "_id": "15O<SEP>Cyclotron"
+  },
+  "131I-606 Kev<SEP>Hyperthyroidism": {
+    "chunk_ids": [
+      "chunk-9d83407b553bdad56b98cf8fd5be64bc"
+    ],
+    "count": 1,
+    "create_time": 1775522977,
+    "update_time": 1775522977,
+    "_id": "131I-606 Kev<SEP>Hyperthyroidism"
+  },
+  "99mTc-Gh<SEP>Renogram Test": {
+    "chunk_ids": [
+      "chunk-9d83407b553bdad56b98cf8fd5be64bc"
+    ],
+    "count": 1,
+    "create_time": 1775522978,
+    "update_time": 1775522978,
+    "_id": "99mTc-Gh<SEP>Renogram Test"
+  },
+  "영상검사<SEP>체외계측": {
+    "chunk_ids": [
+      "chunk-5cc4f3cae46ab52d7568311ee83cce87"
+    ],
+    "count": 1,
+    "create_time": 1775522978,
+    "update_time": 1775522978,
+    "_id": "영상검사<SEP>체외계측"
+  },
+  "18F<SEP>Cyclotron": {
+    "chunk_ids": [
+      "chunk-9d83407b553bdad56b98cf8fd5be64bc"
+    ],
+    "count": 1,
+    "create_time": 1775522978,
+    "update_time": 1775522978,
+    "_id": "18F<SEP>Cyclotron"
+  },
+  "131I-606 Kev<SEP>Thyroid Cancer": {
+    "chunk_ids": [
+      "chunk-9d83407b553bdad56b98cf8fd5be64bc"
+    ],
+    "count": 1,
+    "create_time": 1775522978,
+    "update_time": 1775522978,
+    "_id": "131I-606 Kev<SEP>Thyroid Cancer"
+  },
+  "시료계측<SEP>체외계측": {
+    "chunk_ids": [
+      "chunk-5cc4f3cae46ab52d7568311ee83cce87"
+    ],
+    "count": 1,
+    "create_time": 1775522978,
+    "update_time": 1775522978,
+    "_id": "시료계측<SEP>체외계측"
+  },
+  "keV<SEP>영상검사": {
+    "chunk_ids": [
+      "chunk-5cc4f3cae46ab52d7568311ee83cce87"
+    ],
+    "count": 1,
+    "create_time": 1775522978,
+    "update_time": 1775522978,
+    "_id": "keV<SEP>영상검사"
+  },
+  "Well Counter<SEP>X선": {
+    "chunk_ids": [
+      "chunk-5cc4f3cae46ab52d7568311ee83cce87"
+    ],
+    "count": 1,
+    "create_time": 1775522978,
+    "update_time": 1775522978,
+    "_id": "Well Counter<SEP>X선"
+  },
+  "125I<SEP>시료계측": {
+    "chunk_ids": [
+      "chunk-5cc4f3cae46ab52d7568311ee83cce87"
+    ],
+    "count": 1,
+    "create_time": 1775522979,
+    "update_time": 1775522979,
+    "_id": "125I<SEP>시료계측"
+  },
+  "광전효과<SEP>아인슈타인": {
+    "chunk_ids": [
+      "chunk-753835320b6c915866df2a673bba93bb"
+    ],
+    "count": 1,
+    "create_time": 1775522979,
+    "update_time": 1775522979,
+    "_id": "광전효과<SEP>아인슈타인"
+  },
+  "Well Counter<SEP>γ선": {
+    "chunk_ids": [
+      "chunk-5cc4f3cae46ab52d7568311ee83cce87"
+    ],
+    "count": 1,
+    "create_time": 1775522979,
+    "update_time": 1775522979,
+    "_id": "Well Counter<SEP>γ선"
+  },
+  "양자론<SEP>플랑크": {
+    "chunk_ids": [
+      "chunk-753835320b6c915866df2a673bba93bb"
+    ],
+    "count": 1,
+    "create_time": 1775522979,
+    "update_time": 1775522979,
+    "_id": "양자론<SEP>플랑크"
+  },
+  "고관전압기법<SEP>컴프턴산란": {
+    "chunk_ids": [
+      "chunk-753835320b6c915866df2a673bba93bb"
+    ],
+    "count": 1,
+    "create_time": 1775522980,
+    "update_time": 1775522980,
+    "_id": "고관전압기법<SEP>컴프턴산란"
+  },
+  "광전효과<SEP>조영제": {
+    "chunk_ids": [
+      "chunk-753835320b6c915866df2a673bba93bb"
+    ],
+    "count": 1,
+    "create_time": 1775522980,
+    "update_time": 1775522980,
+    "_id": "광전효과<SEP>조영제"
+  },
+  "콤프턴산란<SEP>톰슨산란": {
+    "chunk_ids": [
+      "chunk-753835320b6c915866df2a673bba93bb"
+    ],
+    "count": 1,
+    "create_time": 1775522980,
+    "update_time": 1775522980,
+    "_id": "콤프턴산란<SEP>톰슨산란"
+  },
+  "125I<SEP>Well Counter": {
+    "chunk_ids": [
+      "chunk-5cc4f3cae46ab52d7568311ee83cce87"
+    ],
+    "count": 1,
+    "create_time": 1775522980,
+    "update_time": 1775522980,
+    "_id": "125I<SEP>Well Counter"
+  },
+  "물질<SEP>에너지전이계수": {
+    "chunk_ids": [
+      "chunk-753835320b6c915866df2a673bba93bb"
+    ],
+    "count": 1,
+    "create_time": 1775522980,
+    "update_time": 1775522980,
+    "_id": "물질<SEP>에너지전이계수"
+  },
+  "광전효과<SEP>방사선영상": {
+    "chunk_ids": [
+      "chunk-753835320b6c915866df2a673bba93bb"
+    ],
+    "count": 1,
+    "create_time": 1775522980,
+    "update_time": 1775522980,
+    "_id": "광전효과<SEP>방사선영상"
+  },
+  "뼈<SEP>연부조직": {
+    "chunk_ids": [
+      "chunk-753835320b6c915866df2a673bba93bb"
+    ],
+    "count": 1,
+    "create_time": 1775522980,
+    "update_time": 1775522980,
+    "_id": "뼈<SEP>연부조직"
+  },
+  "125I<SEP>γ선": {
+    "chunk_ids": [
+      "chunk-5cc4f3cae46ab52d7568311ee83cce87",
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 2,
+    "update_time": 1775523105,
+    "_id": "125I<SEP>γ선"
+  },
+  "피폭선량<SEP>환자": {
+    "chunk_ids": [
+      "chunk-753835320b6c915866df2a673bba93bb"
+    ],
+    "count": 1,
+    "create_time": 1775522980,
+    "update_time": 1775522980,
+    "_id": "피폭선량<SEP>환자"
+  },
+  "최외각전자<SEP>컴프턴산란": {
+    "chunk_ids": [
+      "chunk-753835320b6c915866df2a673bba93bb"
+    ],
+    "count": 1,
+    "create_time": 1775522980,
+    "update_time": 1775522980,
+    "_id": "최외각전자<SEP>컴프턴산란"
+  },
+  "광전효과<SEP>피사체대조도": {
+    "chunk_ids": [
+      "chunk-753835320b6c915866df2a673bba93bb"
+    ],
+    "count": 1,
+    "create_time": 1775522981,
+    "update_time": 1775522981,
+    "_id": "광전효과<SEP>피사체대조도"
+  },
+  "Attenuation<SEP>Photon Intensity Reduction": {
+    "chunk_ids": [
+      "chunk-1361a0035ac4f0205b268905baaa03f2"
+    ],
+    "count": 1,
+    "create_time": 1775522981,
+    "update_time": 1775522981,
+    "_id": "Attenuation<SEP>Photon Intensity Reduction"
+  },
+  "Distance Attenuation<SEP>Inverse Square Law": {
+    "chunk_ids": [
+      "chunk-1361a0035ac4f0205b268905baaa03f2"
+    ],
+    "count": 1,
+    "create_time": 1775522981,
+    "update_time": 1775522981,
+    "_id": "Distance Attenuation<SEP>Inverse Square Law"
+  },
+  "콤프턴산란<SEP>콤프턴전자": {
+    "chunk_ids": [
+      "chunk-753835320b6c915866df2a673bba93bb"
+    ],
+    "count": 1,
+    "create_time": 1775522981,
+    "update_time": 1775522981,
+    "_id": "콤프턴산란<SEP>콤프턴전자"
+  },
+  "자유전자<SEP>컴프턴산란": {
+    "chunk_ids": [
+      "chunk-753835320b6c915866df2a673bba93bb"
+    ],
+    "count": 1,
+    "create_time": 1775522981,
+    "update_time": 1775522981,
+    "_id": "자유전자<SEP>컴프턴산란"
+  },
+  "Compton Scattering<SEP>Scattering": {
+    "chunk_ids": [
+      "chunk-1361a0035ac4f0205b268905baaa03f2"
+    ],
+    "count": 1,
+    "create_time": 1775522981,
+    "update_time": 1775522981,
+    "_id": "Compton Scattering<SEP>Scattering"
+  },
+  "Attenuation<SEP>Distance Attenuation": {
+    "chunk_ids": [
+      "chunk-1361a0035ac4f0205b268905baaa03f2"
+    ],
+    "count": 1,
+    "create_time": 1775522981,
+    "update_time": 1775522981,
+    "_id": "Attenuation<SEP>Distance Attenuation"
+  },
+  "Disease Diagnosis<SEP>Radiopharmaceuticals": {
+    "chunk_ids": [
+      "chunk-1361a0035ac4f0205b268905baaa03f2"
+    ],
+    "count": 1,
+    "create_time": 1775522981,
+    "update_time": 1775522981,
+    "_id": "Disease Diagnosis<SEP>Radiopharmaceuticals"
+  },
+  "Absorption<SEP>Attenuation": {
+    "chunk_ids": [
+      "chunk-1361a0035ac4f0205b268905baaa03f2"
+    ],
+    "count": 1,
+    "create_time": 1775522982,
+    "update_time": 1775522982,
+    "_id": "Absorption<SEP>Attenuation"
+  },
+  "123I<SEP>In-Vivo": {
+    "chunk_ids": [
+      "chunk-1361a0035ac4f0205b268905baaa03f2"
+    ],
+    "count": 1,
+    "create_time": 1775522982,
+    "update_time": 1775522982,
+    "_id": "123I<SEP>In-Vivo"
+  },
+  "Disease Treatment<SEP>Radiopharmaceuticals": {
+    "chunk_ids": [
+      "chunk-1361a0035ac4f0205b268905baaa03f2"
+    ],
+    "count": 1,
+    "create_time": 1775522982,
+    "update_time": 1775522982,
+    "_id": "Disease Treatment<SEP>Radiopharmaceuticals"
+  },
+  "125I<SEP>In-Vitro": {
+    "chunk_ids": [
+      "chunk-1361a0035ac4f0205b268905baaa03f2"
+    ],
+    "count": 1,
+    "create_time": 1775522982,
+    "update_time": 1775522982,
+    "_id": "125I<SEP>In-Vitro"
+  },
+  "Attenuation<SEP>Scattering": {
+    "chunk_ids": [
+      "chunk-1361a0035ac4f0205b268905baaa03f2"
+    ],
+    "count": 1,
+    "create_time": 1775522982,
+    "update_time": 1775522982,
+    "_id": "Attenuation<SEP>Scattering"
+  },
+  "Absorption<SEP>Photoelectric Effect": {
+    "chunk_ids": [
+      "chunk-1361a0035ac4f0205b268905baaa03f2"
+    ],
+    "count": 1,
+    "create_time": 1775522982,
+    "update_time": 1775522982,
+    "_id": "Absorption<SEP>Photoelectric Effect"
+  },
+  "99mTc-DTPA<SEP>Renogram Test": {
+    "chunk_ids": [
+      "chunk-1361a0035ac4f0205b268905baaa03f2"
+    ],
+    "count": 1,
+    "create_time": 1775522982,
+    "update_time": 1775522982,
+    "_id": "99mTc-DTPA<SEP>Renogram Test"
+  },
+  "99mTcO4<SEP>In-Vivo": {
+    "chunk_ids": [
+      "chunk-1361a0035ac4f0205b268905baaa03f2"
+    ],
+    "count": 1,
+    "create_time": 1775522983,
+    "update_time": 1775522983,
+    "_id": "99mTcO4<SEP>In-Vivo"
+  },
+  "Absorption<SEP>Electron Pair Production": {
+    "chunk_ids": [
+      "chunk-1361a0035ac4f0205b268905baaa03f2"
+    ],
+    "count": 1,
+    "create_time": 1775522983,
+    "update_time": 1775522983,
+    "_id": "Absorption<SEP>Electron Pair Production"
+  },
+  "131I-OIH<SEP>Renogram Test": {
+    "chunk_ids": [
+      "chunk-1361a0035ac4f0205b268905baaa03f2"
+    ],
+    "count": 1,
+    "create_time": 1775522983,
+    "update_time": 1775522983,
+    "_id": "131I-OIH<SEP>Renogram Test"
+  },
+  "Inverse Square Law<SEP>진공상태": {
+    "chunk_ids": [
+      "chunk-1361a0035ac4f0205b268905baaa03f2"
+    ],
+    "count": 1,
+    "create_time": 1775522983,
+    "update_time": 1775522983,
+    "_id": "Inverse Square Law<SEP>진공상태"
+  },
+  "전자<SEP>전자밀도": {
+    "chunk_ids": [
+      "chunk-c6c70af745f8587837b4afa84c640794"
+    ],
+    "count": 1,
+    "create_time": 1775522983,
+    "update_time": 1775522983,
+    "_id": "전자<SEP>전자밀도"
+  },
+  "컴프턴감약계수<SEP>흡수체": {
+    "chunk_ids": [
+      "chunk-c6c70af745f8587837b4afa84c640794"
+    ],
+    "count": 1,
+    "create_time": 1775522983,
+    "update_time": 1775522983,
+    "_id": "컴프턴감약계수<SEP>흡수체"
+  },
+  "K각결합에너지<SEP>광자": {
+    "chunk_ids": [
+      "chunk-c6c70af745f8587837b4afa84c640794"
+    ],
+    "count": 1,
+    "create_time": 1775522983,
+    "update_time": 1775522983,
+    "_id": "K각결합에너지<SEP>광자"
+  },
+  "99mTc-MAG<SEP>Renogram Test": {
+    "chunk_ids": [
+      "chunk-1361a0035ac4f0205b268905baaa03f2"
+    ],
+    "count": 1,
+    "create_time": 1775522983,
+    "update_time": 1775522983,
+    "_id": "99mTc-MAG<SEP>Renogram Test"
+  },
+  "Compton효과<SEP>광전효과": {
+    "chunk_ids": [
+      "chunk-c6c70af745f8587837b4afa84c640794"
+    ],
+    "count": 1,
+    "create_time": 1775522983,
+    "update_time": 1775522983,
+    "_id": "Compton효과<SEP>광전효과"
+  },
+  "E = mc2<SEP>상대성이론": {
+    "chunk_ids": [
+      "chunk-c6c70af745f8587837b4afa84c640794"
+    ],
+    "count": 1,
+    "create_time": 1775522984,
+    "update_time": 1775522984,
+    "_id": "E = mc2<SEP>상대성이론"
+  },
+  "광자<SEP>원자핵": {
+    "chunk_ids": [
+      "chunk-c6c70af745f8587837b4afa84c640794"
+    ],
+    "count": 1,
+    "create_time": 1775522984,
+    "update_time": 1775522984,
+    "_id": "광자<SEP>원자핵"
+  },
+  "0.511 MeV<SEP>전자쌍생성": {
+    "chunk_ids": [
+      "chunk-c6c70af745f8587837b4afa84c640794"
+    ],
+    "count": 1,
+    "create_time": 1775522984,
+    "update_time": 1775522984,
+    "_id": "0.511 MeV<SEP>전자쌍생성"
+  },
+  "X-선<SEP>감쇠": {
+    "chunk_ids": [
+      "chunk-c6c70af745f8587837b4afa84c640794"
+    ],
+    "count": 1,
+    "create_time": 1775522984,
+    "update_time": 1775522984,
+    "_id": "X-선<SEP>감쇠"
+  },
+  "99mTc-GH<SEP>Renogram Test": {
+    "chunk_ids": [
+      "chunk-1361a0035ac4f0205b268905baaa03f2"
+    ],
+    "count": 1,
+    "create_time": 1775522984,
+    "update_time": 1775522984,
+    "_id": "99mTc-GH<SEP>Renogram Test"
+  },
+  "Compton효과<SEP>전자쌍생성": {
+    "chunk_ids": [
+      "chunk-c6c70af745f8587837b4afa84c640794"
+    ],
+    "count": 1,
+    "create_time": 1775522984,
+    "update_time": 1775522984,
+    "_id": "Compton효과<SEP>전자쌍생성"
+  },
+  "γ-선<SEP>감쇠": {
+    "chunk_ids": [
+      "chunk-c6c70af745f8587837b4afa84c640794"
+    ],
+    "count": 1,
+    "create_time": 1775522984,
+    "update_time": 1775522984,
+    "_id": "γ-선<SEP>감쇠"
+  },
+  "1.022 MeV<SEP>전자쌍생성": {
+    "chunk_ids": [
+      "chunk-c6c70af745f8587837b4afa84c640794"
+    ],
+    "count": 1,
+    "create_time": 1775522985,
+    "update_time": 1775522985,
+    "_id": "1.022 MeV<SEP>전자쌍생성"
+  },
+  "15O<SEP>뇌산소소비량": {
+    "chunk_ids": [
+      "chunk-d2560261ba3aefb8f27a0ce13326a00d",
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 2,
+    "update_time": 1775523082,
+    "_id": "15O<SEP>뇌산소소비량"
+  },
+  "18F-FDG<SEP>종양영상": {
+    "chunk_ids": [
+      "chunk-d2560261ba3aefb8f27a0ce13326a00d"
+    ],
+    "count": 1,
+    "create_time": 1775523013,
+    "update_time": 1775523013,
+    "_id": "18F-FDG<SEP>종양영상"
+  },
+  "51CrO4<SEP>적혈구수명": {
+    "chunk_ids": [
+      "chunk-d2560261ba3aefb8f27a0ce13326a00d"
+    ],
+    "count": 1,
+    "create_time": 1775523013,
+    "update_time": 1775523013,
+    "_id": "51CrO4<SEP>적혈구수명"
+  },
+  "18F-FDG<SEP>심근․ 뇌당대사": {
+    "chunk_ids": [
+      "chunk-d2560261ba3aefb8f27a0ce13326a00d"
+    ],
+    "count": 1,
+    "create_time": 1775523013,
+    "update_time": 1775523013,
+    "_id": "18F-FDG<SEP>심근․ 뇌당대사"
+  },
+  "51Cr<SEP>적혈구수명": {
+    "chunk_ids": [
+      "chunk-d2560261ba3aefb8f27a0ce13326a00d"
+    ],
+    "count": 1,
+    "create_time": 1775523013,
+    "update_time": 1775523013,
+    "_id": "51Cr<SEP>적혈구수명"
+  },
+  "51CrO4<SEP>혈소판수명": {
+    "chunk_ids": [
+      "chunk-d2560261ba3aefb8f27a0ce13326a00d"
+    ],
+    "count": 1,
+    "create_time": 1775523013,
+    "update_time": 1775523013,
+    "_id": "51CrO4<SEP>혈소판수명"
+  },
+  "15O<SEP>뇌혈류량": {
+    "chunk_ids": [
+      "chunk-d2560261ba3aefb8f27a0ce13326a00d"
+    ],
+    "count": 1,
+    "create_time": 1775523013,
+    "update_time": 1775523013,
+    "_id": "15O<SEP>뇌혈류량"
+  },
+  "방사면역측정법(RIA)<SEP>항원-항체반응": {
+    "chunk_ids": [
+      "chunk-06409f405ed68573d707ceaadba57801"
+    ],
+    "count": 1,
+    "create_time": 1775523013,
+    "update_time": 1775523013,
+    "_id": "방사면역측정법(RIA)<SEP>항원-항체반응"
+  },
+  "방사수용체측정법(RRA)<SEP>세포수용체": {
+    "chunk_ids": [
+      "chunk-06409f405ed68573d707ceaadba57801"
+    ],
+    "count": 1,
+    "create_time": 1775523014,
+    "update_time": 1775523014,
+    "_id": "방사수용체측정법(RRA)<SEP>세포수용체"
+  },
+  "Tracer<SEP>방사면역측정법(RIA)": {
+    "chunk_ids": [
+      "chunk-06409f405ed68573d707ceaadba57801"
+    ],
+    "count": 1,
+    "create_time": 1775523014,
+    "update_time": 1775523014,
+    "_id": "Tracer<SEP>방사면역측정법(RIA)"
+  },
+  "51CrO4<SEP>순환": {
+    "chunk_ids": [
+      "chunk-d2560261ba3aefb8f27a0ce13326a00d"
+    ],
+    "count": 1,
+    "create_time": 1775523014,
+    "update_time": 1775523014,
+    "_id": "51CrO4<SEP>순환"
+  },
+  "125I<SEP>Well Type Scintillation": {
+    "chunk_ids": [
+      "chunk-06409f405ed68573d707ceaadba57801"
+    ],
+    "count": 1,
+    "create_time": 1775523014,
+    "update_time": 1775523014,
+    "_id": "125I<SEP>Well Type Scintillation"
+  },
+  "51Cr<SEP>혈소판수명": {
+    "chunk_ids": [
+      "chunk-d2560261ba3aefb8f27a0ce13326a00d"
+    ],
+    "count": 1,
+    "create_time": 1775523014,
+    "update_time": 1775523014,
+    "_id": "51Cr<SEP>혈소판수명"
+  },
+  "99Mo–99mTc Generator<SEP>Alumina Column": {
+    "chunk_ids": [
+      "chunk-924d4e084e2a6643308b6bc76af06895"
+    ],
+    "count": 1,
+    "create_time": 1775523014,
+    "update_time": 1775523014,
+    "_id": "99Mo–99mTc Generator<SEP>Alumina Column"
+  },
+  "Tracer<SEP>면역방사계수측정(IRMA)": {
+    "chunk_ids": [
+      "chunk-06409f405ed68573d707ceaadba57801"
+    ],
+    "count": 1,
+    "create_time": 1775523014,
+    "update_time": 1775523014,
+    "_id": "Tracer<SEP>면역방사계수측정(IRMA)"
+  },
+  "99mTc<SEP>Na99mTcO4": {
+    "chunk_ids": [
+      "chunk-924d4e084e2a6643308b6bc76af06895"
+    ],
+    "count": 1,
+    "create_time": 1775523014,
+    "update_time": 1775523014,
+    "_id": "99mTc<SEP>Na99mTcO4"
+  },
+  "51Cr<SEP>순환": {
+    "chunk_ids": [
+      "chunk-d2560261ba3aefb8f27a0ce13326a00d"
+    ],
+    "count": 1,
+    "create_time": 1775523014,
+    "update_time": 1775523014,
+    "_id": "51Cr<SEP>순환"
+  },
+  "125I<SEP>전자포획": {
+    "chunk_ids": [
+      "chunk-924d4e084e2a6643308b6bc76af06895"
+    ],
+    "count": 1,
+    "create_time": 1775523015,
+    "update_time": 1775523015,
+    "_id": "125I<SEP>전자포획"
+  },
+  "99Mo–99mTc Generator<SEP>99mTc": {
+    "chunk_ids": [
+      "chunk-924d4e084e2a6643308b6bc76af06895"
+    ],
+    "count": 1,
+    "create_time": 1775523015,
+    "update_time": 1775523015,
+    "_id": "99Mo–99mTc Generator<SEP>99mTc"
+  },
+  "125I<SEP>In Vitro": {
+    "chunk_ids": [
+      "chunk-924d4e084e2a6643308b6bc76af06895"
+    ],
+    "count": 1,
+    "create_time": 1775523015,
+    "update_time": 1775523015,
+    "_id": "125I<SEP>In Vitro"
+  },
+  "99Mo<SEP>99Mo–99mTc Generator": {
+    "chunk_ids": [
+      "chunk-924d4e084e2a6643308b6bc76af06895"
+    ],
+    "count": 1,
+    "create_time": 1775523015,
+    "update_time": 1775523015,
+    "_id": "99Mo<SEP>99Mo–99mTc Generator"
+  },
+  "3H<SEP>Steroid Hormone": {
+    "chunk_ids": [
+      "chunk-01aeb670194fbaa7323582a61264ce3a"
+    ],
+    "count": 1,
+    "create_time": 1775523015,
+    "update_time": 1775523015,
+    "_id": "3H<SEP>Steroid Hormone"
+  },
+  "125I<SEP>방사면역측정법": {
+    "chunk_ids": [
+      "chunk-924d4e084e2a6643308b6bc76af06895"
+    ],
+    "count": 1,
+    "create_time": 1775523016,
+    "update_time": 1775523016,
+    "_id": "125I<SEP>방사면역측정법"
+  },
+  "14C<SEP>Steroid Hormone": {
+    "chunk_ids": [
+      "chunk-01aeb670194fbaa7323582a61264ce3a"
+    ],
+    "count": 1,
+    "create_time": 1775523016,
+    "update_time": 1775523016,
+    "_id": "14C<SEP>Steroid Hormone"
+  },
+  "In-Vitro用radiopharmaceuticals<SEP>혈액": {
+    "chunk_ids": [
+      "chunk-01aeb670194fbaa7323582a61264ce3a"
+    ],
+    "count": 1,
+    "create_time": 1775523016,
+    "update_time": 1775523016,
+    "_id": "In-Vitro用radiopharmaceuticals<SEP>혈액"
+  },
+  "98Mo<SEP>99Mo": {
+    "chunk_ids": [
+      "chunk-924d4e084e2a6643308b6bc76af06895"
+    ],
+    "count": 1,
+    "create_time": 1775523016,
+    "update_time": 1775523016,
+    "_id": "98Mo<SEP>99Mo"
+  },
+  "124Xe<SEP>125I": {
+    "chunk_ids": [
+      "chunk-01aeb670194fbaa7323582a61264ce3a"
+    ],
+    "count": 1,
+    "create_time": 1775523016,
+    "update_time": 1775523016,
+    "_id": "124Xe<SEP>125I"
+  },
+  "Antigen-Antibody Reaction<SEP>In-Vitro用radiopharmaceuticals": {
+    "chunk_ids": [
+      "chunk-01aeb670194fbaa7323582a61264ce3a"
+    ],
+    "count": 1,
+    "create_time": 1775523016,
+    "update_time": 1775523016,
+    "_id": "Antigen-Antibody Reaction<SEP>In-Vitro用radiopharmaceuticals"
+  },
+  "235U<SEP>99Mo": {
+    "chunk_ids": [
+      "chunk-924d4e084e2a6643308b6bc76af06895"
+    ],
+    "count": 1,
+    "create_time": 1775523017,
+    "update_time": 1775523017,
+    "_id": "235U<SEP>99Mo"
+  },
+  "In-Vitro用radiopharmaceuticals<SEP>혈장단백": {
+    "chunk_ids": [
+      "chunk-01aeb670194fbaa7323582a61264ce3a"
+    ],
+    "count": 1,
+    "create_time": 1775523017,
+    "update_time": 1775523017,
+    "_id": "In-Vitro用radiopharmaceuticals<SEP>혈장단백"
+  },
+  "In-Vivo用radiopharmaceuticals<SEP>체액": {
+    "chunk_ids": [
+      "chunk-01aeb670194fbaa7323582a61264ce3a"
+    ],
+    "count": 1,
+    "create_time": 1775523017,
+    "update_time": 1775523017,
+    "_id": "In-Vivo用radiopharmaceuticals<SEP>체액"
+  },
+  "125I<SEP>액체형광검출기": {
+    "chunk_ids": [
+      "chunk-01aeb670194fbaa7323582a61264ce3a"
+    ],
+    "count": 1,
+    "create_time": 1775523017,
+    "update_time": 1775523017,
+    "_id": "125I<SEP>액체형광검출기"
+  },
+  "RIA<SEP>호르몬": {
+    "chunk_ids": [
+      "chunk-2a8d3df39b55d27db11892fbbfe761c8"
+    ],
+    "count": 1,
+    "create_time": 1775523017,
+    "update_time": 1775523017,
+    "_id": "RIA<SEP>호르몬"
+  },
+  "In-Vitro用radiopharmaceuticals<SEP>표준곡선": {
+    "chunk_ids": [
+      "chunk-01aeb670194fbaa7323582a61264ce3a"
+    ],
+    "count": 1,
+    "create_time": 1775523017,
+    "update_time": 1775523017,
+    "_id": "In-Vitro用radiopharmaceuticals<SEP>표준곡선"
+  },
+  "Well Type Scintillation Counter<SEP>γ선": {
+    "chunk_ids": [
+      "chunk-2a8d3df39b55d27db11892fbbfe761c8"
+    ],
+    "count": 1,
+    "create_time": 1775523017,
+    "update_time": 1775523017,
+    "_id": "Well Type Scintillation Counter<SEP>γ선"
+  },
+  "RIA<SEP>혈액": {
+    "chunk_ids": [
+      "chunk-2a8d3df39b55d27db11892fbbfe761c8"
+    ],
+    "count": 1,
+    "create_time": 1775523018,
+    "update_time": 1775523018,
+    "_id": "RIA<SEP>혈액"
+  },
+  "Ra<SEP>치료용방사성의약품": {
+    "chunk_ids": [
+      "chunk-2a8d3df39b55d27db11892fbbfe761c8"
+    ],
+    "count": 1,
+    "create_time": 1775523018,
+    "update_time": 1775523018,
+    "_id": "Ra<SEP>치료용방사성의약품"
+  },
+  "131I<SEP>갑상선종": {
+    "chunk_ids": [
+      "chunk-2a8d3df39b55d27db11892fbbfe761c8"
+    ],
+    "count": 1,
+    "create_time": 1775523018,
+    "update_time": 1775523018,
+    "_id": "131I<SEP>갑상선종"
+  },
+  "125I<SEP>Well Type Scintillation Counter": {
+    "chunk_ids": [
+      "chunk-01aeb670194fbaa7323582a61264ce3a",
+      "chunk-2a8d3df39b55d27db11892fbbfe761c8"
+    ],
+    "count": 2,
+    "create_time": 1775523018,
+    "update_time": 1775523018,
+    "_id": "125I<SEP>Well Type Scintillation Counter"
+  },
+  "32P<SEP>치료용방사성의약품": {
+    "chunk_ids": [
+      "chunk-2a8d3df39b55d27db11892fbbfe761c8"
+    ],
+    "count": 1,
+    "create_time": 1775523018,
+    "update_time": 1775523018,
+    "_id": "32P<SEP>치료용방사성의약품"
+  },
+  "198Au-Colloid<SEP>악성종양": {
+    "chunk_ids": [
+      "chunk-2a8d3df39b55d27db11892fbbfe761c8"
+    ],
+    "count": 1,
+    "create_time": 1775523018,
+    "update_time": 1775523018,
+    "_id": "198Au-Colloid<SEP>악성종양"
+  },
+  "Radioimmuno Therapy<SEP>단세포군항체": {
+    "chunk_ids": [
+      "chunk-2a8d3df39b55d27db11892fbbfe761c8"
+    ],
+    "count": 1,
+    "create_time": 1775523018,
+    "update_time": 1775523018,
+    "_id": "Radioimmuno Therapy<SEP>단세포군항체"
+  },
+  "RIA<SEP>소변": {
+    "chunk_ids": [
+      "chunk-2a8d3df39b55d27db11892fbbfe761c8"
+    ],
+    "count": 1,
+    "create_time": 1775523018,
+    "update_time": 1775523018,
+    "_id": "RIA<SEP>소변"
+  },
+  "131I<SEP>방사성옥소표지방사성의약품": {
+    "chunk_ids": [
+      "chunk-2a8d3df39b55d27db11892fbbfe761c8"
+    ],
+    "count": 1,
+    "create_time": 1775523019,
+    "update_time": 1775523019,
+    "_id": "131I<SEP>방사성옥소표지방사성의약품"
+  },
+  "125I<SEP>Tyrosin": {
+    "chunk_ids": [
+      "chunk-01aeb670194fbaa7323582a61264ce3a"
+    ],
+    "count": 1,
+    "create_time": 1775523019,
+    "update_time": 1775523019,
+    "_id": "125I<SEP>Tyrosin"
+  },
+  "단세포군항체<SEP>악성종양": {
+    "chunk_ids": [
+      "chunk-2a8d3df39b55d27db11892fbbfe761c8"
+    ],
+    "count": 1,
+    "create_time": 1775523019,
+    "update_time": 1775523019,
+    "_id": "단세포군항체<SEP>악성종양"
+  },
+  "123I<SEP>방사성옥소표지방사성의약품": {
+    "chunk_ids": [
+      "chunk-2a8d3df39b55d27db11892fbbfe761c8"
+    ],
+    "count": 1,
+    "create_time": 1775523019,
+    "update_time": 1775523019,
+    "_id": "123I<SEP>방사성옥소표지방사성의약품"
+  },
+  "131I<SEP>Na131I": {
+    "chunk_ids": [
+      "chunk-2a8d3df39b55d27db11892fbbfe761c8",
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 2,
+    "update_time": 1775523105,
+    "_id": "131I<SEP>Na131I"
+  },
+  "131I<SEP>131I-idocholesterol": {
+    "chunk_ids": [
+      "chunk-2a8d3df39b55d27db11892fbbfe761c8"
+    ],
+    "count": 1,
+    "create_time": 1775523020,
+    "update_time": 1775523020,
+    "_id": "131I<SEP>131I-idocholesterol"
+  },
+  "125I<SEP>방사성옥소표지방사성의약품": {
+    "chunk_ids": [
+      "chunk-2a8d3df39b55d27db11892fbbfe761c8"
+    ],
+    "count": 1,
+    "create_time": 1775523020,
+    "update_time": 1775523020,
+    "_id": "125I<SEP>방사성옥소표지방사성의약품"
+  },
+  "123I<SEP>Na123I": {
+    "chunk_ids": [
+      "chunk-2a8d3df39b55d27db11892fbbfe761c8",
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 2,
+    "update_time": 1775523104,
+    "_id": "123I<SEP>Na123I"
+  },
+  "131I<SEP>131I-MIBG": {
+    "chunk_ids": [
+      "chunk-2a8d3df39b55d27db11892fbbfe761c8",
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 2,
+    "update_time": 1775523106,
+    "_id": "131I<SEP>131I-MIBG"
+  },
+  "123I<SEP>123I-IMP": {
+    "chunk_ids": [
+      "chunk-2a8d3df39b55d27db11892fbbfe761c8",
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 2,
+    "update_time": 1775523104,
+    "_id": "123I<SEP>123I-IMP"
+  },
+  "131I<SEP>131I- HAS": {
+    "chunk_ids": [
+      "chunk-2a8d3df39b55d27db11892fbbfe761c8"
+    ],
+    "count": 1,
+    "create_time": 1775523021,
+    "update_time": 1775523021,
+    "_id": "131I<SEP>131I- HAS"
+  },
+  "131I<SEP>131I- OIH": {
+    "chunk_ids": [
+      "chunk-2a8d3df39b55d27db11892fbbfe761c8"
+    ],
+    "count": 1,
+    "create_time": 1775523021,
+    "update_time": 1775523021,
+    "_id": "131I<SEP>131I- OIH"
+  },
+  "123I<SEP>123I-MIBG": {
+    "chunk_ids": [
+      "chunk-2a8d3df39b55d27db11892fbbfe761c8",
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 2,
+    "update_time": 1775523105,
+    "_id": "123I<SEP>123I-MIBG"
+  },
+  "123I<SEP>123I-BMIPP": {
+    "chunk_ids": [
+      "chunk-2a8d3df39b55d27db11892fbbfe761c8",
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 2,
+    "update_time": 1775523105,
+    "_id": "123I<SEP>123I-BMIPP"
+  },
+  "131I<SEP>131I-MAA": {
+    "chunk_ids": [
+      "chunk-2a8d3df39b55d27db11892fbbfe761c8"
+    ],
+    "count": 1,
+    "create_time": 1775523022,
+    "update_time": 1775523022,
+    "_id": "131I<SEP>131I-MAA"
+  },
+  "131I<SEP>131I-RB": {
+    "chunk_ids": [
+      "chunk-2a8d3df39b55d27db11892fbbfe761c8"
+    ],
+    "count": 1,
+    "create_time": 1775523022,
+    "update_time": 1775523022,
+    "_id": "131I<SEP>131I-RB"
+  },
+  "123I<SEP>123I-HIPDM": {
+    "chunk_ids": [
+      "chunk-2a8d3df39b55d27db11892fbbfe761c8"
+    ],
+    "count": 1,
+    "create_time": 1775523022,
+    "update_time": 1775523022,
+    "_id": "123I<SEP>123I-HIPDM"
+  },
+  "131I<SEP>131I-oleic Acid": {
+    "chunk_ids": [
+      "chunk-2a8d3df39b55d27db11892fbbfe761c8"
+    ],
+    "count": 1,
+    "create_time": 1775523022,
+    "update_time": 1775523022,
+    "_id": "131I<SEP>131I-oleic Acid"
+  },
+  "QC<SEP>사이클로트론": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 1,
+    "create_time": 1775523080,
+    "update_time": 1775523080,
+    "_id": "QC<SEP>사이클로트론"
+  },
+  "임상이용<SEP>초소형사이크로트론": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 1,
+    "create_time": 1775523080,
+    "update_time": 1775523080,
+    "_id": "임상이용<SEP>초소형사이크로트론"
+  },
+  "11C<SEP>CO": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6",
+      "chunk-fda9da9d7fcaa192c940b687cf738dd0"
+    ],
+    "count": 2,
+    "create_time": 1775523080,
+    "update_time": 1775523080,
+    "_id": "11C<SEP>CO"
+  },
+  "13N<SEP>NH": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 1,
+    "create_time": 1775523080,
+    "update_time": 1775523080,
+    "_id": "13N<SEP>NH"
+  },
+  "11C<SEP>C-hemoglibin": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 1,
+    "create_time": 1775523080,
+    "update_time": 1775523080,
+    "_id": "11C<SEP>C-hemoglibin"
+  },
+  "13N<SEP>N Gas": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 1,
+    "create_time": 1775523081,
+    "update_time": 1775523081,
+    "_id": "13N<SEP>N Gas"
+  },
+  "15O<SEP>O": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 1,
+    "create_time": 1775523081,
+    "update_time": 1775523081,
+    "_id": "15O<SEP>O"
+  },
+  "11C<SEP>C-palmitic Acid": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 1,
+    "create_time": 1775523081,
+    "update_time": 1775523081,
+    "_id": "11C<SEP>C-palmitic Acid"
+  },
+  "15O<SEP>CO": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 1,
+    "create_time": 1775523081,
+    "update_time": 1775523081,
+    "_id": "15O<SEP>CO"
+  },
+  "11C<SEP>C-methionine": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 1,
+    "create_time": 1775523081,
+    "update_time": 1775523081,
+    "_id": "11C<SEP>C-methionine"
+  },
+  "13N<SEP>심근혈류량": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 1,
+    "create_time": 1775523081,
+    "update_time": 1775523081,
+    "_id": "13N<SEP>심근혈류량"
+  },
+  "11C<SEP>C-glucose": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 1,
+    "create_time": 1775523082,
+    "update_time": 1775523082,
+    "_id": "11C<SEP>C-glucose"
+  },
+  "11C<SEP>C-acetate": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 1,
+    "create_time": 1775523082,
+    "update_time": 1775523082,
+    "_id": "11C<SEP>C-acetate"
+  },
+  "11C<SEP>C-methyl Spiperon": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 1,
+    "create_time": 1775523083,
+    "update_time": 1775523083,
+    "_id": "11C<SEP>C-methyl Spiperon"
+  },
+  "11C<SEP>폐기능": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6",
+      "chunk-fda9da9d7fcaa192c940b687cf738dd0"
+    ],
+    "count": 2,
+    "create_time": 1775523083,
+    "update_time": 1775523083,
+    "_id": "11C<SEP>폐기능"
+  },
+  "11C<SEP>국소뇌혈액량": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6",
+      "chunk-fda9da9d7fcaa192c940b687cf738dd0"
+    ],
+    "count": 2,
+    "create_time": 1775523084,
+    "update_time": 1775523084,
+    "_id": "11C<SEP>국소뇌혈액량"
+  },
+  "11C<SEP>혈액pool 영상": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 1,
+    "create_time": 1775523085,
+    "update_time": 1775523085,
+    "_id": "11C<SEP>혈액pool 영상"
+  },
+  "11C<SEP>장기혈액량": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 1,
+    "create_time": 1775523086,
+    "update_time": 1775523086,
+    "_id": "11C<SEP>장기혈액량"
+  },
+  "11C<SEP>심근지방산대사": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 1,
+    "create_time": 1775523087,
+    "update_time": 1775523087,
+    "_id": "11C<SEP>심근지방산대사"
+  },
+  "13N<SEP>폐기능": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 1,
+    "create_time": 1775523087,
+    "update_time": 1775523087,
+    "_id": "13N<SEP>폐기능"
+  },
+  "15O<SEP>폐기능": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 1,
+    "create_time": 1775523087,
+    "update_time": 1775523087,
+    "_id": "15O<SEP>폐기능"
+  },
+  "NH<SEP>심근혈류량": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 1,
+    "create_time": 1775523088,
+    "update_time": 1775523088,
+    "_id": "NH<SEP>심근혈류량"
+  },
+  "11C<SEP>아미노산대사": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 1,
+    "create_time": 1775523088,
+    "update_time": 1775523088,
+    "_id": "11C<SEP>아미노산대사"
+  },
+  "N Gas<SEP>폐기능": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 1,
+    "create_time": 1775523088,
+    "update_time": 1775523088,
+    "_id": "N Gas<SEP>폐기능"
+  },
+  "O<SEP>뇌산소소비량": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 1,
+    "create_time": 1775523088,
+    "update_time": 1775523088,
+    "_id": "O<SEP>뇌산소소비량"
+  },
+  "CO<SEP>폐기능": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 1,
+    "create_time": 1775523088,
+    "update_time": 1775523088,
+    "_id": "CO<SEP>폐기능"
+  },
+  "γ선<SEP>감마카메라": {
+    "chunk_ids": [
+      "chunk-07321f301db639ed7357619e9557e638",
+      "chunk-9e10d247e7c97528d1ea50ec0eb927f2"
+    ],
+    "count": 2,
+    "create_time": 1775523089,
+    "update_time": 1775523089,
+    "_id": "γ선<SEP>감마카메라"
+  },
+  "11C<SEP>종양영상": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 1,
+    "create_time": 1775523089,
+    "update_time": 1775523089,
+    "_id": "11C<SEP>종양영상"
+  },
+  "99mTcO4<SEP>감마카메라": {
+    "chunk_ids": [
+      "chunk-07321f301db639ed7357619e9557e638"
+    ],
+    "count": 1,
+    "create_time": 1775523089,
+    "update_time": 1775523089,
+    "_id": "99mTcO4<SEP>감마카메라"
+  },
+  "PET<SEP>γ선": {
+    "chunk_ids": [
+      "chunk-07321f301db639ed7357619e9557e638"
+    ],
+    "count": 1,
+    "create_time": 1775523089,
+    "update_time": 1775523089,
+    "_id": "PET<SEP>γ선"
+  },
+  "방사성의약품<SEP>유효반감기": {
+    "chunk_ids": [
+      "chunk-07321f301db639ed7357619e9557e638"
+    ],
+    "count": 1,
+    "create_time": 1775523089,
+    "update_time": 1775523089,
+    "_id": "방사성의약품<SEP>유효반감기"
+  },
+  "물리적반감기<SEP>방사성의약품": {
+    "chunk_ids": [
+      "chunk-07321f301db639ed7357619e9557e638"
+    ],
+    "count": 1,
+    "create_time": 1775523090,
+    "update_time": 1775523090,
+    "_id": "물리적반감기<SEP>방사성의약품"
+  },
+  "11C<SEP>뇌당대사": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 1,
+    "create_time": 1775523090,
+    "update_time": 1775523090,
+    "_id": "11C<SEP>뇌당대사"
+  },
+  "99mTcO4<SEP>SPECT": {
+    "chunk_ids": [
+      "chunk-07321f301db639ed7357619e9557e638"
+    ],
+    "count": 1,
+    "create_time": 1775523090,
+    "update_time": 1775523090,
+    "_id": "99mTcO4<SEP>SPECT"
+  },
+  "방사성의약품<SEP>신장": {
+    "chunk_ids": [
+      "chunk-07321f301db639ed7357619e9557e638"
+    ],
+    "count": 1,
+    "create_time": 1775523091,
+    "update_time": 1775523091,
+    "_id": "방사성의약품<SEP>신장"
+  },
+  "PET<SEP>양전자(β+)": {
+    "chunk_ids": [
+      "chunk-07321f301db639ed7357619e9557e638"
+    ],
+    "count": 1,
+    "create_time": 1775523091,
+    "update_time": 1775523091,
+    "_id": "PET<SEP>양전자(β+)"
+  },
+  "BBB<SEP>방사성의약품": {
+    "chunk_ids": [
+      "chunk-07321f301db639ed7357619e9557e638"
+    ],
+    "count": 1,
+    "create_time": 1775523091,
+    "update_time": 1775523091,
+    "_id": "BBB<SEP>방사성의약품"
+  },
+  "세뇨관세포<SEP>혈관들로부터세뇨관세포로분비되는정도": {
+    "chunk_ids": [
+      "chunk-fda9da9d7fcaa192c940b687cf738dd0"
+    ],
+    "count": 1,
+    "create_time": 1775523091,
+    "update_time": 1775523091,
+    "_id": "세뇨관세포<SEP>혈관들로부터세뇨관세포로분비되는정도"
+  },
+  "11C<SEP>심근에너지대사": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 1,
+    "create_time": 1775523091,
+    "update_time": 1775523091,
+    "_id": "11C<SEP>심근에너지대사"
+  },
+  "방사성의약품<SEP>환자": {
+    "chunk_ids": [
+      "chunk-07321f301db639ed7357619e9557e638"
+    ],
+    "count": 1,
+    "create_time": 1775523092,
+    "update_time": 1775523092,
+    "_id": "방사성의약품<SEP>환자"
+  },
+  "대변<SEP>방사성의약품": {
+    "chunk_ids": [
+      "chunk-fda9da9d7fcaa192c940b687cf738dd0"
+    ],
+    "count": 1,
+    "create_time": 1775523092,
+    "update_time": 1775523092,
+    "_id": "대변<SEP>방사성의약품"
+  },
+  "11C<SEP>뇌기능검사": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 1,
+    "create_time": 1775523092,
+    "update_time": 1775523092,
+    "_id": "11C<SEP>뇌기능검사"
+  },
+  "방사성의약품<SEP>피부": {
+    "chunk_ids": [
+      "chunk-fda9da9d7fcaa192c940b687cf738dd0"
+    ],
+    "count": 1,
+    "create_time": 1775523093,
+    "update_time": 1775523093,
+    "_id": "방사성의약품<SEP>피부"
+  },
+  "Chromatography<SEP>화학적순도": {
+    "chunk_ids": [
+      "chunk-fda9da9d7fcaa192c940b687cf738dd0"
+    ],
+    "count": 1,
+    "create_time": 1775523093,
+    "update_time": 1775523093,
+    "_id": "Chromatography<SEP>화학적순도"
+  },
+  "11C<SEP>dopamine D2 수용체": {
+    "chunk_ids": [
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "count": 1,
+    "create_time": 1775523093,
+    "update_time": 1775523093,
+    "_id": "11C<SEP>dopamine D2 수용체"
+  },
+  "머리카락<SEP>방사성의약품": {
+    "chunk_ids": [
+      "chunk-fda9da9d7fcaa192c940b687cf738dd0"
+    ],
+    "count": 1,
+    "create_time": 1775523093,
+    "update_time": 1775523093,
+    "_id": "머리카락<SEP>방사성의약품"
+  },
+  "고정상<SEP>이동상": {
+    "chunk_ids": [
+      "chunk-fda9da9d7fcaa192c940b687cf738dd0"
+    ],
+    "count": 1,
+    "create_time": 1775523093,
+    "update_time": 1775523093,
+    "_id": "고정상<SEP>이동상"
+  },
+  "Nuclear Reactor<SEP>Thermal Neutron": {
+    "chunk_ids": [
+      "chunk-fda9da9d7fcaa192c940b687cf738dd0"
+    ],
+    "count": 1,
+    "create_time": 1775523093,
+    "update_time": 1775523093,
+    "_id": "Nuclear Reactor<SEP>Thermal Neutron"
+  },
+  "Cyclotron<SEP>PET": {
+    "chunk_ids": [
+      "chunk-fda9da9d7fcaa192c940b687cf738dd0",
+      "chunk-83b2ddf22a61c92feb5b93c9cf9b98eb"
+    ],
+    "count": 2,
+    "update_time": 1775523265,
+    "_id": "Cyclotron<SEP>PET"
+  },
+  "땀<SEP>방사성의약품": {
+    "chunk_ids": [
+      "chunk-fda9da9d7fcaa192c940b687cf738dd0"
+    ],
+    "count": 1,
+    "create_time": 1775523094,
+    "update_time": 1775523094,
+    "_id": "땀<SEP>방사성의약품"
+  },
+  "세뇨관세포<SEP>혈관": {
+    "chunk_ids": [
+      "chunk-fda9da9d7fcaa192c940b687cf738dd0"
+    ],
+    "count": 1,
+    "create_time": 1775523094,
+    "update_time": 1775523094,
+    "_id": "세뇨관세포<SEP>혈관"
+  },
+  "59Fe<SEP>철대사, 빈혈등혈액질환검사": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523094,
+    "update_time": 1775523094,
+    "_id": "59Fe<SEP>철대사, 빈혈등혈액질환검사"
+  },
+  "67Ga<SEP>종양영상, 염증영상": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523094,
+    "update_time": 1775523094,
+    "_id": "67Ga<SEP>종양영상, 염증영상"
+  },
+  "81mKr<SEP>폐환기능, 폐환기영상": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523094,
+    "update_time": 1775523094,
+    "_id": "81mKr<SEP>폐환기능, 폐환기영상"
+  },
+  "방사성의약품<SEP>타액": {
+    "chunk_ids": [
+      "chunk-fda9da9d7fcaa192c940b687cf738dd0"
+    ],
+    "count": 1,
+    "create_time": 1775523094,
+    "update_time": 1775523094,
+    "_id": "방사성의약품<SEP>타액"
+  },
+  "99mTc<SEP>뇌, 갑상선, 타액선, Meckel, 위영상, RI혈관조영": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523094,
+    "update_time": 1775523094,
+    "_id": "99mTc<SEP>뇌, 갑상선, 타액선, Meckel, 위영상, RI혈관조영"
+  },
+  "99mTc-Sn colloid<SEP>간, 비장, 골수영상": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523094,
+    "update_time": 1775523094,
+    "_id": "99mTc-Sn colloid<SEP>간, 비장, 골수영상"
+  },
+  "99mTc-MAA<SEP>폐혈류영상": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523094,
+    "update_time": 1775523094,
+    "_id": "99mTc-MAA<SEP>폐혈류영상"
+  },
+  "99mTc-HSA<SEP>심내강, 대혈관영상, 순회혈액량": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523094,
+    "update_time": 1775523094,
+    "_id": "99mTc-HSA<SEP>심내강, 대혈관영상, 순회혈액량"
+  },
+  "99mTc-HSA-D<SEP>심기능지표, 출혈영상": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523094,
+    "update_time": 1775523094,
+    "_id": "99mTc-HSA-D<SEP>심기능지표, 출혈영상"
+  },
+  "99mTc-DMSA<SEP>신장영상": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523095,
+    "update_time": 1775523095,
+    "_id": "99mTc-DMSA<SEP>신장영상"
+  },
+  "눈물<SEP>방사성의약품": {
+    "chunk_ids": [
+      "chunk-fda9da9d7fcaa192c940b687cf738dd0"
+    ],
+    "count": 1,
+    "create_time": 1775523095,
+    "update_time": 1775523095,
+    "_id": "눈물<SEP>방사성의약품"
+  },
+  "99mTc-DTPA<SEP>신장, 신장동태, 신혈관영상, 레노그램": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523095,
+    "update_time": 1775523095,
+    "_id": "99mTc-DTPA<SEP>신장, 신장동태, 신혈관영상, 레노그램"
+  },
+  "99mTc-MAG3<SEP>레노그램, 신장동태영상, 신혈류량": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523095,
+    "update_time": 1775523095,
+    "_id": "99mTc-MAG3<SEP>레노그램, 신장동태영상, 신혈류량"
+  },
+  "99mTc-phosphate<SEP>골, 심근경색영상": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523095,
+    "update_time": 1775523095,
+    "_id": "99mTc-phosphate<SEP>골, 심근경색영상"
+  },
+  "99mTc-MIBI<SEP>심근혈류, 종양영상": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523095,
+    "update_time": 1775523095,
+    "_id": "99mTc-MIBI<SEP>심근혈류, 종양영상"
+  },
+  "99mTc-tetrofosmin<SEP>심근혈류영상": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523095,
+    "update_time": 1775523095,
+    "_id": "99mTc-tetrofosmin<SEP>심근혈류영상"
+  },
+  "99mTc-PMT<SEP>담도영상": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523095,
+    "update_time": 1775523095,
+    "_id": "99mTc-PMT<SEP>담도영상"
+  },
+  "99mTc-ECD<SEP>뇌혈류영상, 뇌국소혈류량": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523095,
+    "update_time": 1775523095,
+    "_id": "99mTc-ECD<SEP>뇌혈류영상, 뇌국소혈류량"
+  },
+  "99mTc-GSA<SEP>간기능": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523095,
+    "update_time": 1775523095,
+    "_id": "99mTc-GSA<SEP>간기능"
+  },
+  "111In-DTPA<SEP>뇌조영상": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523095,
+    "update_time": 1775523095,
+    "_id": "111In-DTPA<SEP>뇌조영상"
+  },
+  "111InCl3<SEP>골수영상": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523095,
+    "update_time": 1775523095,
+    "_id": "111InCl3<SEP>골수영상"
+  },
+  "111In-oxine<SEP>염증영상, 혈구, 혈소판표지, 백혈구수명, 혈전영상": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523095,
+    "update_time": 1775523095,
+    "_id": "111In-oxine<SEP>염증영상, 혈구, 혈소판표지, 백혈구수명, 혈전영상"
+  },
+  "123I<SEP>갑상선기능, 갑상선영상등": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523095,
+    "update_time": 1775523095,
+    "_id": "123I<SEP>갑상선기능, 갑상선영상등"
+  },
+  "99mTc-HM-PAO<SEP>뇌혈류영상, 뇌국소혈류량": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523096,
+    "update_time": 1775523096,
+    "_id": "99mTc-HM-PAO<SEP>뇌혈류영상, 뇌국소혈류량"
+  },
+  "123I-MIBG<SEP>심근교감신경기능영상. 부신수질영상": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523096,
+    "update_time": 1775523096,
+    "_id": "123I-MIBG<SEP>심근교감신경기능영상. 부신수질영상"
+  },
+  "123I-BMIPP<SEP>심근지방산대사영상": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523096,
+    "update_time": 1775523096,
+    "_id": "123I-BMIPP<SEP>심근지방산대사영상"
+  },
+  "125I<SEP>각종표지화합물(invitro)": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523096,
+    "update_time": 1775523096,
+    "_id": "125I<SEP>각종표지화합물(invitro)"
+  },
+  "131I<SEP>갑상선기능, 영상, 갑상선기능항진증, 암전이치료": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523096,
+    "update_time": 1775523096,
+    "_id": "131I<SEP>갑상선기능, 영상, 갑상선기능항진증, 암전이치료"
+  },
+  "131I-iodocholesterol<SEP>부신피질영상": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523096,
+    "update_time": 1775523096,
+    "_id": "131I-iodocholesterol<SEP>부신피질영상"
+  },
+  "131I-MIBG<SEP>부신수질영상등": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8",
+      "chunk-9e10d247e7c97528d1ea50ec0eb927f2"
+    ],
+    "count": 2,
+    "create_time": 1775523096,
+    "update_time": 1775523096,
+    "_id": "131I-MIBG<SEP>부신수질영상등"
+  },
+  "131I-HSA<SEP>순환혈장량, 혈액량": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523096,
+    "update_time": 1775523096,
+    "_id": "131I-HSA<SEP>순환혈장량, 혈액량"
+  },
+  "131I-OIH<SEP>레노그램": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8",
+      "chunk-9e10d247e7c97528d1ea50ec0eb927f2"
+    ],
+    "count": 2,
+    "create_time": 1775523096,
+    "update_time": 1775523096,
+    "_id": "131I-OIH<SEP>레노그램"
+  },
+  "123I-IMP<SEP>뇌혈류영상, 뇌국소혈류량": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523096,
+    "update_time": 1775523096,
+    "_id": "123I-IMP<SEP>뇌혈류영상, 뇌국소혈류량"
+  },
+  "59Fe<SEP>59FeCl3": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523096,
+    "update_time": 1775523096,
+    "_id": "59Fe<SEP>59FeCl3"
+  },
+  "67Ga<SEP>67Ga-citrate": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523097,
+    "update_time": 1775523097,
+    "_id": "67Ga<SEP>67Ga-citrate"
+  },
+  "59Fe<SEP>59Fe-citrate": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523097,
+    "update_time": 1775523097,
+    "_id": "59Fe<SEP>59Fe-citrate"
+  },
+  "81Rb<SEP>81Rb-81mKr generator": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523097,
+    "update_time": 1775523097,
+    "_id": "81Rb<SEP>81Rb-81mKr generator"
+  },
+  "67Ga<SEP>β선": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523097,
+    "update_time": 1775523097,
+    "_id": "67Ga<SEP>β선"
+  },
+  "99Mo<SEP>99Mo-99mTc generator": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523098,
+    "update_time": 1775523098,
+    "_id": "99Mo<SEP>99Mo-99mTc generator"
+  },
+  "81Rb-81mKr generator<SEP>81mKr": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523098,
+    "update_time": 1775523098,
+    "_id": "81Rb-81mKr generator<SEP>81mKr"
+  },
+  "59Fe<SEP>β선": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523098,
+    "update_time": 1775523098,
+    "_id": "59Fe<SEP>β선"
+  },
+  "67Ga<SEP>γ선": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523098,
+    "update_time": 1775523098,
+    "_id": "67Ga<SEP>γ선"
+  },
+  "99Mo-99mTc generator<SEP>99mTc": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523098,
+    "update_time": 1775523098,
+    "_id": "99Mo-99mTc generator<SEP>99mTc"
+  },
+  "81Rb<SEP>β선": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523098,
+    "update_time": 1775523098,
+    "_id": "81Rb<SEP>β선"
+  },
+  "59Fe<SEP>γ선": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523098,
+    "update_time": 1775523098,
+    "_id": "59Fe<SEP>γ선"
+  },
+  "99mTc<SEP>99mTcO4": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523098,
+    "update_time": 1775523098,
+    "_id": "99mTc<SEP>99mTcO4"
+  },
+  "99Mo<SEP>β선": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523099,
+    "update_time": 1775523099,
+    "_id": "99Mo<SEP>β선"
+  },
+  "99mTc<SEP>99mTc-Sn colloid": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523099,
+    "update_time": 1775523099,
+    "_id": "99mTc<SEP>99mTc-Sn colloid"
+  },
+  "99Mo<SEP>γ선": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523099,
+    "update_time": 1775523099,
+    "_id": "99Mo<SEP>γ선"
+  },
+  "99mTc<SEP>99mTc-MAA": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523100,
+    "update_time": 1775523100,
+    "_id": "99mTc<SEP>99mTc-MAA"
+  },
+  "99mTc<SEP>99mTc-HSA": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523100,
+    "update_time": 1775523100,
+    "_id": "99mTc<SEP>99mTc-HSA"
+  },
+  "99mTc<SEP>99mTc-HSA-D": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523100,
+    "update_time": 1775523100,
+    "_id": "99mTc<SEP>99mTc-HSA-D"
+  },
+  "99mTc<SEP>99mTc-DMSA": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523101,
+    "update_time": 1775523101,
+    "_id": "99mTc<SEP>99mTc-DMSA"
+  },
+  "99mTc<SEP>99mTc-DTPA": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523101,
+    "update_time": 1775523101,
+    "_id": "99mTc<SEP>99mTc-DTPA"
+  },
+  "99mTc<SEP>99mTc-MAG3": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523102,
+    "update_time": 1775523102,
+    "_id": "99mTc<SEP>99mTc-MAG3"
+  },
+  "99mTc<SEP>99mTc-phosphate": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523102,
+    "update_time": 1775523102,
+    "_id": "99mTc<SEP>99mTc-phosphate"
+  },
+  "99mTc<SEP>99mTc-MIBI": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523103,
+    "update_time": 1775523103,
+    "_id": "99mTc<SEP>99mTc-MIBI"
+  },
+  "111In<SEP>111In-DTPA": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523103,
+    "update_time": 1775523103,
+    "_id": "111In<SEP>111In-DTPA"
+  },
+  "99mTc<SEP>99mTc-tetrofosmin": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523103,
+    "update_time": 1775523103,
+    "_id": "99mTc<SEP>99mTc-tetrofosmin"
+  },
+  "111In<SEP>111InCl3": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523103,
+    "update_time": 1775523103,
+    "_id": "111In<SEP>111InCl3"
+  },
+  "99mTc<SEP>99mTc-PMT": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523104,
+    "update_time": 1775523104,
+    "_id": "99mTc<SEP>99mTc-PMT"
+  },
+  "111In<SEP>111In-oxine": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523104,
+    "update_time": 1775523104,
+    "_id": "111In<SEP>111In-oxine"
+  },
+  "111In<SEP>γ선": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523104,
+    "update_time": 1775523104,
+    "_id": "111In<SEP>γ선"
+  },
+  "99mTc<SEP>99mTc-ECD": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523104,
+    "update_time": 1775523104,
+    "_id": "99mTc<SEP>99mTc-ECD"
+  },
+  "99mTc<SEP>99mTc-HM-PAO": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523105,
+    "update_time": 1775523105,
+    "_id": "99mTc<SEP>99mTc-HM-PAO"
+  },
+  "99mTc<SEP>99mTc-GSA": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523105,
+    "update_time": 1775523105,
+    "_id": "99mTc<SEP>99mTc-GSA"
+  },
+  "123I<SEP>γ선": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523106,
+    "update_time": 1775523106,
+    "_id": "123I<SEP>γ선"
+  },
+  "131I<SEP>131I-iodocholesterol": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523106,
+    "update_time": 1775523106,
+    "_id": "131I<SEP>131I-iodocholesterol"
+  },
+  "99mTc<SEP>γ선": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523106,
+    "update_time": 1775523106,
+    "_id": "99mTc<SEP>γ선"
+  },
+  "131I-<SEP>부신피질영상": {
+    "chunk_ids": [
+      "chunk-9e10d247e7c97528d1ea50ec0eb927f2"
+    ],
+    "count": 1,
+    "create_time": 1775523106,
+    "update_time": 1775523106,
+    "_id": "131I-<SEP>부신피질영상"
+  },
+  "131I-HSA<SEP>순환혈장량": {
+    "chunk_ids": [
+      "chunk-9e10d247e7c97528d1ea50ec0eb927f2"
+    ],
+    "count": 1,
+    "create_time": 1775523107,
+    "update_time": 1775523107,
+    "_id": "131I-HSA<SEP>순환혈장량"
+  },
+  "133Xe<SEP>폐환기영상": {
+    "chunk_ids": [
+      "chunk-9e10d247e7c97528d1ea50ec0eb927f2"
+    ],
+    "count": 1,
+    "create_time": 1775523107,
+    "update_time": 1775523107,
+    "_id": "133Xe<SEP>폐환기영상"
+  },
+  "131I-HSA<SEP>혈액량": {
+    "chunk_ids": [
+      "chunk-9e10d247e7c97528d1ea50ec0eb927f2"
+    ],
+    "count": 1,
+    "create_time": 1775523107,
+    "update_time": 1775523107,
+    "_id": "131I-HSA<SEP>혈액량"
+  },
+  "133Xe<SEP>뇌국소혈류량": {
+    "chunk_ids": [
+      "chunk-9e10d247e7c97528d1ea50ec0eb927f2"
+    ],
+    "count": 1,
+    "create_time": 1775523107,
+    "update_time": 1775523107,
+    "_id": "133Xe<SEP>뇌국소혈류량"
+  },
+  "133Xe Gas<SEP>폐환기영상": {
+    "chunk_ids": [
+      "chunk-9e10d247e7c97528d1ea50ec0eb927f2"
+    ],
+    "count": 1,
+    "create_time": 1775523107,
+    "update_time": 1775523107,
+    "_id": "133Xe Gas<SEP>폐환기영상"
+  },
+  "131I<SEP>131I-HSA": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523108,
+    "update_time": 1775523108,
+    "_id": "131I<SEP>131I-HSA"
+  },
+  "133Xe Gas<SEP>뇌국소혈류량": {
+    "chunk_ids": [
+      "chunk-9e10d247e7c97528d1ea50ec0eb927f2"
+    ],
+    "count": 1,
+    "create_time": 1775523108,
+    "update_time": 1775523108,
+    "_id": "133Xe Gas<SEP>뇌국소혈류량"
+  },
+  "201Tl<SEP>심근": {
+    "chunk_ids": [
+      "chunk-9e10d247e7c97528d1ea50ec0eb927f2"
+    ],
+    "count": 1,
+    "create_time": 1775523108,
+    "update_time": 1775523108,
+    "_id": "201Tl<SEP>심근"
+  },
+  "131I<SEP>131I-OIH": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523108,
+    "update_time": 1775523108,
+    "_id": "131I<SEP>131I-OIH"
+  },
+  "133Xe Gas<SEP>뇌혈류영상": {
+    "chunk_ids": [
+      "chunk-9e10d247e7c97528d1ea50ec0eb927f2"
+    ],
+    "count": 1,
+    "create_time": 1775523108,
+    "update_time": 1775523108,
+    "_id": "133Xe Gas<SEP>뇌혈류영상"
+  },
+  "201Tl<SEP>종양영상": {
+    "chunk_ids": [
+      "chunk-9e10d247e7c97528d1ea50ec0eb927f2"
+    ],
+    "count": 1,
+    "create_time": 1775523108,
+    "update_time": 1775523108,
+    "_id": "201Tl<SEP>종양영상"
+  },
+  "β-선<SEP>갑상선기능항진증": {
+    "chunk_ids": [
+      "chunk-9e10d247e7c97528d1ea50ec0eb927f2"
+    ],
+    "count": 1,
+    "create_time": 1775523108,
+    "update_time": 1775523108,
+    "_id": "β-선<SEP>갑상선기능항진증"
+  },
+  "경정맥주사<SEP>방사성의약품": {
+    "chunk_ids": [
+      "chunk-9e10d247e7c97528d1ea50ec0eb927f2"
+    ],
+    "count": 1,
+    "create_time": 1775523108,
+    "update_time": 1775523108,
+    "_id": "경정맥주사<SEP>방사성의약품"
+  },
+  "131I<SEP>β선": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523109,
+    "update_time": 1775523109,
+    "_id": "131I<SEP>β선"
+  },
+  "경구투여<SEP>방사성의약품": {
+    "chunk_ids": [
+      "chunk-9e10d247e7c97528d1ea50ec0eb927f2"
+    ],
+    "count": 1,
+    "create_time": 1775523109,
+    "update_time": 1775523109,
+    "_id": "경구투여<SEP>방사성의약품"
+  },
+  "방사선gas<SEP>흡입": {
+    "chunk_ids": [
+      "chunk-9e10d247e7c97528d1ea50ec0eb927f2"
+    ],
+    "count": 1,
+    "create_time": 1775523109,
+    "update_time": 1775523109,
+    "_id": "방사선gas<SEP>흡입"
+  },
+  "림프영상<SEP>피하주사": {
+    "chunk_ids": [
+      "chunk-9e10d247e7c97528d1ea50ec0eb927f2"
+    ],
+    "count": 1,
+    "create_time": 1775523109,
+    "update_time": 1775523109,
+    "_id": "림프영상<SEP>피하주사"
+  },
+  "In-Vivo<SEP>방사성의약품주입방법의종류": {
+    "chunk_ids": [
+      "chunk-9e10d247e7c97528d1ea50ec0eb927f2"
+    ],
+    "count": 1,
+    "create_time": 1775523109,
+    "update_time": 1775523109,
+    "_id": "In-Vivo<SEP>방사성의약품주입방법의종류"
+  },
+  "131I<SEP>γ선": {
+    "chunk_ids": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8"
+    ],
+    "count": 1,
+    "create_time": 1775523110,
+    "update_time": 1775523110,
+    "_id": "131I<SEP>γ선"
+  },
+  "방사성의약품<SEP>방사성의약품의이상적인조건": {
+    "chunk_ids": [
+      "chunk-9e10d247e7c97528d1ea50ec0eb927f2"
+    ],
+    "count": 1,
+    "create_time": 1775523110,
+    "update_time": 1775523110,
+    "_id": "방사성의약품<SEP>방사성의약품의이상적인조건"
+  },
+  "131I<SEP>갑상선기능항진증": {
+    "chunk_ids": [
+      "chunk-9e10d247e7c97528d1ea50ec0eb927f2"
+    ],
+    "count": 1,
+    "create_time": 1775523110,
+    "update_time": 1775523110,
+    "_id": "131I<SEP>갑상선기능항진증"
+  },
+  "물리적조건<SEP>방사성의약품": {
+    "chunk_ids": [
+      "chunk-9e10d247e7c97528d1ea50ec0eb927f2"
+    ],
+    "count": 1,
+    "create_time": 1775523110,
+    "update_time": 1775523110,
+    "_id": "물리적조건<SEP>방사성의약품"
+  },
+  "방사성의약품<SEP>생물학적조건": {
+    "chunk_ids": [
+      "chunk-9e10d247e7c97528d1ea50ec0eb927f2"
+    ],
+    "count": 1,
+    "create_time": 1775523111,
+    "update_time": 1775523111,
+    "_id": "방사성의약품<SEP>생물학적조건"
+  },
+  "방사성의약품<SEP>화학적조건": {
+    "chunk_ids": [
+      "chunk-9e10d247e7c97528d1ea50ec0eb927f2"
+    ],
+    "count": 1,
+    "create_time": 1775523111,
+    "update_time": 1775523111,
+    "_id": "방사성의약품<SEP>화학적조건"
+  },
+  "99mTcO4- 용액<SEP>Alumina": {
+    "chunk_ids": [
+      "chunk-35a6e76b25728f999d21671d0895170a"
+    ],
+    "count": 1,
+    "create_time": 1775523130,
+    "update_time": 1775523130,
+    "_id": "99mTcO4- 용액<SEP>Alumina"
+  },
+  "방사화학적순도<SEP>영상의질저하": {
+    "chunk_ids": [
+      "chunk-35a6e76b25728f999d21671d0895170a"
+    ],
+    "count": 1,
+    "create_time": 1775523130,
+    "update_time": 1775523130,
+    "_id": "방사화학적순도<SEP>영상의질저하"
+  },
+  "식균작용<SEP>포식세포": {
+    "chunk_ids": [
+      "chunk-35a6e76b25728f999d21671d0895170a"
+    ],
+    "count": 1,
+    "create_time": 1775523130,
+    "update_time": 1775523130,
+    "_id": "식균작용<SEP>포식세포"
+  },
+  "거대응집알부민입자<SEP>모세혈관차단": {
+    "chunk_ids": [
+      "chunk-35a6e76b25728f999d21671d0895170a"
+    ],
+    "count": 1,
+    "create_time": 1775523130,
+    "update_time": 1775523130,
+    "_id": "거대응집알부민입자<SEP>모세혈관차단"
+  },
+  "세포격리<SEP>손상된적혈구": {
+    "chunk_ids": [
+      "chunk-35a6e76b25728f999d21671d0895170a"
+    ],
+    "count": 1,
+    "create_time": 1775523130,
+    "update_time": 1775523130,
+    "_id": "세포격리<SEP>손상된적혈구"
+  },
+  "99mTc<SEP>99mTcO4- 용액": {
+    "chunk_ids": [
+      "chunk-35a6e76b25728f999d21671d0895170a"
+    ],
+    "count": 1,
+    "create_time": 1775523130,
+    "update_time": 1775523130,
+    "_id": "99mTc<SEP>99mTcO4- 용액"
+  },
+  "121℃에서15분간증기소독<SEP>멸균상태": {
+    "chunk_ids": [
+      "chunk-35a6e76b25728f999d21671d0895170a"
+    ],
+    "count": 1,
+    "create_time": 1775523130,
+    "update_time": 1775523130,
+    "_id": "121℃에서15분간증기소독<SEP>멸균상태"
+  },
+  "발열물질<SEP>오한, 동통, 발한": {
+    "chunk_ids": [
+      "chunk-35a6e76b25728f999d21671d0895170a"
+    ],
+    "count": 1,
+    "create_time": 1775523131,
+    "update_time": 1775523131,
+    "_id": "발열물질<SEP>오한, 동통, 발한"
+  },
+  "Dose Calibrator<SEP>방사성의약품": {
+    "chunk_ids": [
+      "chunk-dfe1a1928a0c8fd37b6094e61031eb3b"
+    ],
+    "count": 1,
+    "create_time": 1775523131,
+    "update_time": 1775523131,
+    "_id": "Dose Calibrator<SEP>방사성의약품"
+  },
+  "99Mo<SEP>99mTc": {
+    "chunk_ids": [
+      "chunk-dfe1a1928a0c8fd37b6094e61031eb3b",
+      "chunk-dadb2dd7986d02d7bbf1f38dea49af99"
+    ],
+    "count": 2,
+    "create_time": 1775523131,
+    "update_time": 1775523131,
+    "_id": "99Mo<SEP>99mTc"
+  },
+  "방사화학적순도<SEP>환자의체내흡수선량": {
+    "chunk_ids": [
+      "chunk-35a6e76b25728f999d21671d0895170a"
+    ],
+    "count": 1,
+    "create_time": 1775523131,
+    "update_time": 1775523131,
+    "_id": "방사화학적순도<SEP>환자의체내흡수선량"
+  },
+  "Alumina<SEP>방사성의약품": {
+    "chunk_ids": [
+      "chunk-dfe1a1928a0c8fd37b6094e61031eb3b"
+    ],
+    "count": 1,
+    "create_time": 1775523131,
+    "update_time": 1775523131,
+    "_id": "Alumina<SEP>방사성의약품"
+  },
+  "Gamma Ray Spectroscopy<SEP>방사성핵종의순도": {
+    "chunk_ids": [
+      "chunk-dfe1a1928a0c8fd37b6094e61031eb3b"
+    ],
+    "count": 1,
+    "create_time": 1775523131,
+    "update_time": 1775523131,
+    "_id": "Gamma Ray Spectroscopy<SEP>방사성핵종의순도"
+  },
+  "Differential Photon Absorption<SEP>방사능에너지순도": {
+    "chunk_ids": [
+      "chunk-dfe1a1928a0c8fd37b6094e61031eb3b"
+    ],
+    "count": 1,
+    "create_time": 1775523131,
+    "update_time": 1775523131,
+    "_id": "Differential Photon Absorption<SEP>방사능에너지순도"
+  },
+  "Spectroscopy Colorimetry<SEP>화학적순도": {
+    "chunk_ids": [
+      "chunk-dfe1a1928a0c8fd37b6094e61031eb3b"
+    ],
+    "count": 1,
+    "create_time": 1775523132,
+    "update_time": 1775523132,
+    "_id": "Spectroscopy Colorimetry<SEP>화학적순도"
+  },
+  "Microscopy<SEP>입자의크기": {
+    "chunk_ids": [
+      "chunk-dfe1a1928a0c8fd37b6094e61031eb3b"
+    ],
+    "count": 1,
+    "create_time": 1775523132,
+    "update_time": 1775523132,
+    "_id": "Microscopy<SEP>입자의크기"
+  },
+  "Microbiologic Testing<SEP>멸균상태": {
+    "chunk_ids": [
+      "chunk-dfe1a1928a0c8fd37b6094e61031eb3b"
+    ],
+    "count": 1,
+    "create_time": 1775523132,
+    "update_time": 1775523132,
+    "_id": "Microbiologic Testing<SEP>멸균상태"
+  },
+  "Biologic Testing<SEP>발열물질의유무": {
+    "chunk_ids": [
+      "chunk-dfe1a1928a0c8fd37b6094e61031eb3b"
+    ],
+    "count": 1,
+    "create_time": 1775523132,
+    "update_time": 1775523132,
+    "_id": "Biologic Testing<SEP>발열물질의유무"
+  },
+  "99Mo<SEP>99mTcO4": {
+    "chunk_ids": [
+      "chunk-dfe1a1928a0c8fd37b6094e61031eb3b"
+    ],
+    "count": 1,
+    "create_time": 1775523132,
+    "update_time": 1775523132,
+    "_id": "99Mo<SEP>99mTcO4"
+  },
+  "Generator<SEP>Milking System": {
+    "chunk_ids": [
+      "chunk-ae44ccfebfa3151a87d3796eb87d286e"
+    ],
+    "count": 1,
+    "create_time": 1775523132,
+    "update_time": 1775523132,
+    "_id": "Generator<SEP>Milking System"
+  },
+  "99-Molybdenum<SEP>99m-Technetium": {
+    "chunk_ids": [
+      "chunk-ae44ccfebfa3151a87d3796eb87d286e"
+    ],
+    "count": 1,
+    "create_time": 1775523132,
+    "update_time": 1775523132,
+    "_id": "99-Molybdenum<SEP>99m-Technetium"
+  },
+  "99mTcO4<SEP>Alumina": {
+    "chunk_ids": [
+      "chunk-dfe1a1928a0c8fd37b6094e61031eb3b"
+    ],
+    "count": 1,
+    "create_time": 1775523132,
+    "update_time": 1775523132,
+    "_id": "99mTcO4<SEP>Alumina"
+  },
+  "방사화학적순도<SEP>총방사능량": {
+    "chunk_ids": [
+      "chunk-35a6e76b25728f999d21671d0895170a"
+    ],
+    "count": 1,
+    "create_time": 1775523132,
+    "update_time": 1775523132,
+    "_id": "방사화학적순도<SEP>총방사능량"
+  },
+  "99mTc<SEP>Camera": {
+    "chunk_ids": [
+      "chunk-ae44ccfebfa3151a87d3796eb87d286e"
+    ],
+    "count": 1,
+    "create_time": 1775523132,
+    "update_time": 1775523132,
+    "_id": "99mTc<SEP>Camera"
+  },
+  "99Mo - 99mTc Generator<SEP>99m-Technetium": {
+    "chunk_ids": [
+      "chunk-ae44ccfebfa3151a87d3796eb87d286e"
+    ],
+    "count": 1,
+    "create_time": 1775523133,
+    "update_time": 1775523133,
+    "_id": "99Mo - 99mTc Generator<SEP>99m-Technetium"
+  },
+  "Saline<SEP>습식 Column 용출방법": {
+    "chunk_ids": [
+      "chunk-ae44ccfebfa3151a87d3796eb87d286e"
+    ],
+    "count": 1,
+    "create_time": 1775523133,
+    "update_time": 1775523133,
+    "_id": "Saline<SEP>습식 Column 용출방법"
+  },
+  "Generator<SEP>Strang": {
+    "chunk_ids": [
+      "chunk-dadb2dd7986d02d7bbf1f38dea49af99"
+    ],
+    "count": 1,
+    "create_time": 1775523133,
+    "update_time": 1775523133,
+    "_id": "Generator<SEP>Strang"
+  },
+  "99Mo<SEP>알루미나": {
+    "chunk_ids": [
+      "chunk-dadb2dd7986d02d7bbf1f38dea49af99"
+    ],
+    "count": 1,
+    "create_time": 1775523133,
+    "update_time": 1775523133,
+    "_id": "99Mo<SEP>알루미나"
+  },
+  "Saline<SEP>건식 Column 용출방법": {
+    "chunk_ids": [
+      "chunk-ae44ccfebfa3151a87d3796eb87d286e"
+    ],
+    "count": 1,
+    "create_time": 1775523133,
+    "update_time": 1775523133,
+    "_id": "Saline<SEP>건식 Column 용출방법"
+  },
+  "99mTc<SEP>생리식염수": {
+    "chunk_ids": [
+      "chunk-dadb2dd7986d02d7bbf1f38dea49af99"
+    ],
+    "count": 1,
+    "create_time": 1775523133,
+    "update_time": 1775523133,
+    "_id": "99mTc<SEP>생리식염수"
+  },
+  "Chromatography<SEP>방사화학적순도": {
+    "chunk_ids": [
+      "chunk-dfe1a1928a0c8fd37b6094e61031eb3b"
+    ],
+    "count": 1,
+    "create_time": 1775523133,
+    "update_time": 1775523133,
+    "_id": "Chromatography<SEP>방사화학적순도"
+  },
+  "113Sn<SEP>113mIn": {
+    "chunk_ids": [
+      "chunk-dadb2dd7986d02d7bbf1f38dea49af99"
+    ],
+    "count": 1,
+    "create_time": 1775523133,
+    "update_time": 1775523133,
+    "_id": "113Sn<SEP>113mIn"
+  },
+  "Generator<SEP>Milking": {
+    "chunk_ids": [
+      "chunk-dadb2dd7986d02d7bbf1f38dea49af99"
+    ],
+    "count": 1,
+    "create_time": 1775523134,
+    "update_time": 1775523134,
+    "_id": "Generator<SEP>Milking"
+  },
+  "99-Molybdenum<SEP>99Mo - 99mTc Generator": {
+    "chunk_ids": [
+      "chunk-ae44ccfebfa3151a87d3796eb87d286e"
+    ],
+    "count": 1,
+    "create_time": 1775523134,
+    "update_time": 1775523134,
+    "_id": "99-Molybdenum<SEP>99Mo - 99mTc Generator"
+  },
+  "Generator<SEP>방사평형": {
+    "chunk_ids": [
+      "chunk-dadb2dd7986d02d7bbf1f38dea49af99"
+    ],
+    "count": 1,
+    "create_time": 1775523134,
+    "update_time": 1775523134,
+    "_id": "Generator<SEP>방사평형"
+  },
+  "섬광<SEP>신틸레이션검출기": {
+    "chunk_ids": [
+      "chunk-6259ff245a0935f93363f0b914c89df9",
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 2,
+    "create_time": 1775523174,
+    "update_time": 1775523174,
+    "_id": "섬광<SEP>신틸레이션검출기"
+  },
+  "방사선<SEP>섬광체": {
+    "chunk_ids": [
+      "chunk-6259ff245a0935f93363f0b914c89df9",
+      "chunk-e6950680210b027776828c422863fe88"
+    ],
+    "count": 2,
+    "create_time": 1775523174,
+    "update_time": 1775523174,
+    "_id": "방사선<SEP>섬광체"
+  },
+  "NaI(Tl)<SEP>γ선": {
+    "chunk_ids": [
+      "chunk-6259ff245a0935f93363f0b914c89df9"
+    ],
+    "count": 1,
+    "create_time": 1775523174,
+    "update_time": 1775523174,
+    "_id": "NaI(Tl)<SEP>γ선"
+  },
+  "X선<SEP>무기섬광체": {
+    "chunk_ids": [
+      "chunk-6259ff245a0935f93363f0b914c89df9"
+    ],
+    "count": 1,
+    "create_time": 1775523174,
+    "update_time": 1775523174,
+    "_id": "X선<SEP>무기섬광체"
+  },
+  "Al 케이스<SEP>무기섬광체": {
+    "chunk_ids": [
+      "chunk-6259ff245a0935f93363f0b914c89df9"
+    ],
+    "count": 1,
+    "create_time": 1775523174,
+    "update_time": 1775523174,
+    "_id": "Al 케이스<SEP>무기섬광체"
+  },
+  "NaI(Tl)<SEP>Sodium Iodide": {
+    "chunk_ids": [
+      "chunk-6259ff245a0935f93363f0b914c89df9"
+    ],
+    "count": 1,
+    "create_time": 1775523174,
+    "update_time": 1775523174,
+    "_id": "NaI(Tl)<SEP>Sodium Iodide"
+  },
+  "광전자증배관<SEP>신틸레이션검출기": {
+    "chunk_ids": [
+      "chunk-6259ff245a0935f93363f0b914c89df9"
+    ],
+    "count": 1,
+    "create_time": 1775523175,
+    "update_time": 1775523175,
+    "_id": "광전자증배관<SEP>신틸레이션검출기"
+  },
+  "β선<SEP>무기섬광체": {
+    "chunk_ids": [
+      "chunk-6259ff245a0935f93363f0b914c89df9"
+    ],
+    "count": 1,
+    "create_time": 1775523175,
+    "update_time": 1775523175,
+    "_id": "β선<SEP>무기섬광체"
+  },
+  "LiI(Eu)<SEP>Thermal Neutron": {
+    "chunk_ids": [
+      "chunk-e6950680210b027776828c422863fe88"
+    ],
+    "count": 1,
+    "create_time": 1775523175,
+    "update_time": 1775523175,
+    "_id": "LiI(Eu)<SEP>Thermal Neutron"
+  },
+  "I<SEP>NaI(Tl)": {
+    "chunk_ids": [
+      "chunk-6259ff245a0935f93363f0b914c89df9"
+    ],
+    "count": 1,
+    "create_time": 1775523175,
+    "update_time": 1775523175,
+    "_id": "I<SEP>NaI(Tl)"
+  },
+  "Alpha-Ray<SEP>ZnS(Ag)": {
+    "chunk_ids": [
+      "chunk-e6950680210b027776828c422863fe88"
+    ],
+    "count": 1,
+    "create_time": 1775523175,
+    "update_time": 1775523175,
+    "_id": "Alpha-Ray<SEP>ZnS(Ag)"
+  },
+  "γ선<SEP>무기섬광체": {
+    "chunk_ids": [
+      "chunk-6259ff245a0935f93363f0b914c89df9"
+    ],
+    "count": 1,
+    "create_time": 1775523175,
+    "update_time": 1775523175,
+    "_id": "γ선<SEP>무기섬광체"
+  },
+  "CsI(Tl)<SEP>NaI(Tl)": {
+    "chunk_ids": [
+      "chunk-e6950680210b027776828c422863fe88"
+    ],
+    "count": 1,
+    "create_time": 1775523176,
+    "update_time": 1775523176,
+    "_id": "CsI(Tl)<SEP>NaI(Tl)"
+  },
+  "BGO(Bismuth Germinate)<SEP>γ선의": {
+    "chunk_ids": [
+      "chunk-e6950680210b027776828c422863fe88"
+    ],
+    "count": 1,
+    "create_time": 1775523176,
+    "update_time": 1775523176,
+    "_id": "BGO(Bismuth Germinate)<SEP>γ선의"
+  },
+  "무기섬광체<SEP>유기섬광체": {
+    "chunk_ids": [
+      "chunk-6259ff245a0935f93363f0b914c89df9"
+    ],
+    "count": 1,
+    "create_time": 1775523176,
+    "update_time": 1775523176,
+    "_id": "무기섬광체<SEP>유기섬광체"
+  },
+  "광전자증배관<SEP>섬광체": {
+    "chunk_ids": [
+      "chunk-d099e6145645b6e4bf2bca40e46eece2",
+      "chunk-a1e99e5d45d87bc110fb72539f81b91d"
+    ],
+    "count": 2,
+    "update_time": 1775523261,
+    "_id": "광전자증배관<SEP>섬광체"
+  },
+  "β선방사체<SEP>액체섬광계수기": {
+    "chunk_ids": [
+      "chunk-d099e6145645b6e4bf2bca40e46eece2"
+    ],
+    "count": 1,
+    "create_time": 1775523176,
+    "update_time": 1775523176,
+    "_id": "β선방사체<SEP>액체섬광계수기"
+  },
+  "ZnS(Ag)<SEP>아크릴수지": {
+    "chunk_ids": [
+      "chunk-e6950680210b027776828c422863fe88"
+    ],
+    "count": 1,
+    "create_time": 1775523176,
+    "update_time": 1775523176,
+    "_id": "ZnS(Ag)<SEP>아크릴수지"
+  },
+  "Gamma Counter<SEP>우물형섬광계수기": {
+    "chunk_ids": [
+      "chunk-d099e6145645b6e4bf2bca40e46eece2"
+    ],
+    "count": 1,
+    "create_time": 1775523176,
+    "update_time": 1775523176,
+    "_id": "Gamma Counter<SEP>우물형섬광계수기"
+  },
+  "NaI(Tl)<SEP>흡습성": {
+    "chunk_ids": [
+      "chunk-e6950680210b027776828c422863fe88"
+    ],
+    "count": 1,
+    "create_time": 1775523176,
+    "update_time": 1775523176,
+    "_id": "NaI(Tl)<SEP>흡습성"
+  },
+  "NaI(Tl) 섬광체<SEP>γ선": {
+    "chunk_ids": [
+      "chunk-d099e6145645b6e4bf2bca40e46eece2"
+    ],
+    "count": 1,
+    "create_time": 1775523176,
+    "update_time": 1775523176,
+    "_id": "NaI(Tl) 섬광체<SEP>γ선"
+  },
+  "베타선<SEP>용매(Toluene, Xylene, Dioxane)": {
+    "chunk_ids": [
+      "chunk-d099e6145645b6e4bf2bca40e46eece2"
+    ],
+    "count": 1,
+    "create_time": 1775523177,
+    "update_time": 1775523177,
+    "_id": "베타선<SEP>용매(Toluene, Xylene, Dioxane)"
+  },
+  "시료<SEP>액체섬광계수기": {
+    "chunk_ids": [
+      "chunk-d099e6145645b6e4bf2bca40e46eece2"
+    ],
+    "count": 1,
+    "create_time": 1775523177,
+    "update_time": 1775523177,
+    "_id": "시료<SEP>액체섬광계수기"
+  },
+  "방사성의약품<SEP>테크네슘": {
+    "chunk_ids": [
+      "chunk-2d69adcec116d52c682eb46b43c5af2f"
+    ],
+    "count": 1,
+    "create_time": 1775523177,
+    "update_time": 1775523177,
+    "_id": "방사성의약품<SEP>테크네슘"
+  },
+  "기체전리함<SEP>아르곤": {
+    "chunk_ids": [
+      "chunk-2d69adcec116d52c682eb46b43c5af2f"
+    ],
+    "count": 1,
+    "create_time": 1775523177,
+    "update_time": 1775523177,
+    "_id": "기체전리함<SEP>아르곤"
+  },
+  "방사성의약품<SEP>우물형계수기": {
+    "chunk_ids": [
+      "chunk-2d69adcec116d52c682eb46b43c5af2f"
+    ],
+    "count": 1,
+    "create_time": 1775523177,
+    "update_time": 1775523177,
+    "_id": "방사성의약품<SEP>우물형계수기"
+  },
+  "NaI(TI) 신틸레이터<SEP>광전자증배관": {
+    "chunk_ids": [
+      "chunk-2d69adcec116d52c682eb46b43c5af2f"
+    ],
+    "count": 1,
+    "create_time": 1775523177,
+    "update_time": 1775523177,
+    "_id": "NaI(TI) 신틸레이터<SEP>광전자증배관"
+  },
+  "교환확산<SEP>이온교환": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523177,
+    "update_time": 1775523177,
+    "_id": "교환확산<SEP>이온교환"
+  },
+  "구획구분<SEP>방사성 가스": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523177,
+    "update_time": 1775523177,
+    "_id": "구획구분<SEP>방사성 가스"
+  },
+  "방사성의약품<SEP>체내검사계수기": {
+    "chunk_ids": [
+      "chunk-2d69adcec116d52c682eb46b43c5af2f"
+    ],
+    "count": 1,
+    "create_time": 1775523178,
+    "update_time": 1775523178,
+    "_id": "방사성의약품<SEP>체내검사계수기"
+  },
+  "인산염 결합<SEP>화학적흡착또는물리화학적흡착": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523178,
+    "update_time": 1775523178,
+    "_id": "인산염 결합<SEP>화학적흡착또는물리화학적흡착"
+  },
+  "종양의 진단<SEP>항원/항체반응": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523178,
+    "update_time": 1775523178,
+    "_id": "종양의 진단<SEP>항원/항체반응"
+  },
+  "구획구분<SEP>표지적혈구": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523178,
+    "update_time": 1775523178,
+    "_id": "구획구분<SEP>표지적혈구"
+  },
+  "높은 친화성<SEP>수용체결합": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523178,
+    "update_time": 1775523178,
+    "_id": "높은 친화성<SEP>수용체결합"
+  },
+  "방사능<SEP>방사성의약품": {
+    "chunk_ids": [
+      "chunk-2d69adcec116d52c682eb46b43c5af2f"
+    ],
+    "count": 1,
+    "create_time": 1775523178,
+    "update_time": 1775523178,
+    "_id": "방사능<SEP>방사성의약품"
+  },
+  "대사포획<SEP>포도당 대사": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523178,
+    "update_time": 1775523178,
+    "_id": "대사포획<SEP>포도당 대사"
+  },
+  "종양의 치료<SEP>항원/항체반응": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523178,
+    "update_time": 1775523178,
+    "_id": "종양의 치료<SEP>항원/항체반응"
+  },
+  "영상기록장치<SEP>직선이동형스캐너": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523178,
+    "update_time": 1775523178,
+    "_id": "영상기록장치<SEP>직선이동형스캐너"
+  },
+  "고체전리<SEP>반도체검출기": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523178,
+    "update_time": 1775523178,
+    "_id": "고체전리<SEP>반도체검출기"
+  },
+  "섬광검출기<SEP>형광": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523178,
+    "update_time": 1775523178,
+    "_id": "섬광검출기<SEP>형광"
+  },
+  "Autoradiography<SEP>화학": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523179,
+    "update_time": 1775523179,
+    "_id": "Autoradiography<SEP>화학"
+  },
+  "기체전리함<SEP>방사능": {
+    "chunk_ids": [
+      "chunk-2d69adcec116d52c682eb46b43c5af2f"
+    ],
+    "count": 1,
+    "create_time": 1775523179,
+    "update_time": 1775523179,
+    "_id": "기체전리함<SEP>방사능"
+  },
+  "기체<SEP>전리함": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523179,
+    "update_time": 1775523179,
+    "_id": "기체<SEP>전리함"
+  },
+  "감마카메라<SEP>영상기록장치": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523179,
+    "update_time": 1775523179,
+    "_id": "감마카메라<SEP>영상기록장치"
+  },
+  "비례계수함<SEP>알파/베타 계수": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523179,
+    "update_time": 1775523179,
+    "_id": "비례계수함<SEP>알파/베타 계수"
+  },
+  "열중성자<SEP>열중성자용BF3계수관": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523179,
+    "update_time": 1775523179,
+    "_id": "열중성자<SEP>열중성자용BF3계수관"
+  },
+  "GM관<SEP>베타/감마": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523179,
+    "update_time": 1775523179,
+    "_id": "GM관<SEP>베타/감마"
+  },
+  "HPGe<SEP>감마": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523179,
+    "update_time": 1775523179,
+    "_id": "HPGe<SEP>감마"
+  },
+  "베타/감마 선량률<SEP>전리함": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523179,
+    "update_time": 1775523179,
+    "_id": "베타/감마 선량률<SEP>전리함"
+  },
+  "Ge(Li)<SEP>저E γ선": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523179,
+    "update_time": 1775523179,
+    "_id": "Ge(Li)<SEP>저E γ선"
+  },
+  "알파<SEP>표면장벽형": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523179,
+    "update_time": 1775523179,
+    "_id": "알파<SEP>표면장벽형"
+  },
+  "CdTe<SEP>감마": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523180,
+    "update_time": 1775523180,
+    "_id": "CdTe<SEP>감마"
+  },
+  "Si(Li)<SEP>저E γ선": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523180,
+    "update_time": 1775523180,
+    "_id": "Si(Li)<SEP>저E γ선"
+  },
+  "ZnS(Ag)<SEP>알파": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523180,
+    "update_time": 1775523180,
+    "_id": "ZnS(Ag)<SEP>알파"
+  },
+  "LiI(Eu)<SEP>열중성자": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523180,
+    "update_time": 1775523180,
+    "_id": "LiI(Eu)<SEP>열중성자"
+  },
+  "GaAs<SEP>감마": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523180,
+    "update_time": 1775523180,
+    "_id": "GaAs<SEP>감마"
+  },
+  "액체섬광<SEP>저에너지 베타": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523180,
+    "update_time": 1775523180,
+    "_id": "액체섬광<SEP>저에너지 베타"
+  },
+  "베타<SEP>플라스틱": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523180,
+    "update_time": 1775523180,
+    "_id": "베타<SEP>플라스틱"
+  },
+  "HgI2<SEP>감마": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523181,
+    "update_time": 1775523181,
+    "_id": "HgI2<SEP>감마"
+  },
+  "선량평가<SEP>열형광": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523181,
+    "update_time": 1775523181,
+    "_id": "선량평가<SEP>열형광"
+  },
+  "3H<SEP>액체섬광": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523181,
+    "update_time": 1775523181,
+    "_id": "3H<SEP>액체섬광"
+  },
+  "NaI(Tl)<SEP>감마": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523181,
+    "update_time": 1775523181,
+    "_id": "NaI(Tl)<SEP>감마"
+  },
+  "누적선량<SEP>열형광": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523181,
+    "update_time": 1775523181,
+    "_id": "누적선량<SEP>열형광"
+  },
+  "선량평가<SEP>철선량계": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523181,
+    "update_time": 1775523181,
+    "_id": "선량평가<SEP>철선량계"
+  },
+  "14C<SEP>액체섬광": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523181,
+    "update_time": 1775523181,
+    "_id": "14C<SEP>액체섬광"
+  },
+  "CsI(Tl)<SEP>감마": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523182,
+    "update_time": 1775523182,
+    "_id": "CsI(Tl)<SEP>감마"
+  },
+  "고체비적<SEP>알파": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523182,
+    "update_time": 1775523182,
+    "_id": "고체비적<SEP>알파"
+  },
+  "대선량<SEP>철선량계": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523182,
+    "update_time": 1775523182,
+    "_id": "대선량<SEP>철선량계"
+  },
+  "선량평가<SEP>세륨선량계": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523182,
+    "update_time": 1775523182,
+    "_id": "선량평가<SEP>세륨선량계"
+  },
+  "고체비적<SEP>중성자": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523182,
+    "update_time": 1775523182,
+    "_id": "고체비적<SEP>중성자"
+  },
+  "Autoradiography<SEP>필름": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523182,
+    "update_time": 1775523182,
+    "_id": "Autoradiography<SEP>필름"
+  },
+  "기체전리<SEP>전리작용": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523182,
+    "update_time": 1775523182,
+    "_id": "기체전리<SEP>전리작용"
+  },
+  "대선량<SEP>세륨선량계": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523182,
+    "update_time": 1775523182,
+    "_id": "대선량<SEP>세륨선량계"
+  },
+  "섬광검출기<SEP>신틸레이션검출기": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523182,
+    "update_time": 1775523182,
+    "_id": "섬광검출기<SEP>신틸레이션검출기"
+  },
+  "고체비적<SEP>환경문제 핵종": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523183,
+    "update_time": 1775523183,
+    "_id": "고체비적<SEP>환경문제 핵종"
+  },
+  "고체전리<SEP>전리작용": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523183,
+    "update_time": 1775523183,
+    "_id": "고체전리<SEP>전리작용"
+  },
+  "고체비적<SEP>속중성자": {
+    "chunk_ids": [
+      "chunk-78dbaba6777799b28327851a2d931cc2"
+    ],
+    "count": 1,
+    "create_time": 1775523183,
+    "update_time": 1775523183,
+    "_id": "고체비적<SEP>속중성자"
+  },
+  "NaI(Tl) 신틸레이터<SEP>섭취율측정시스템": {
+    "chunk_ids": [
+      "chunk-bc0ff97fcbf2499d0f352a78d92492f1"
+    ],
+    "count": 1,
+    "create_time": 1775523205,
+    "update_time": 1775523205,
+    "_id": "NaI(Tl) 신틸레이터<SEP>섭취율측정시스템"
+  },
+  "Benedict<SEP>Rectilinear Scanner": {
+    "chunk_ids": [
+      "chunk-bc0ff97fcbf2499d0f352a78d92492f1"
+    ],
+    "count": 1,
+    "create_time": 1775523205,
+    "update_time": 1775523205,
+    "_id": "Benedict<SEP>Rectilinear Scanner"
+  },
+  "Hal Anger<SEP>Scintillation Camera": {
+    "chunk_ids": [
+      "chunk-bc0ff97fcbf2499d0f352a78d92492f1"
+    ],
+    "count": 1,
+    "create_time": 1775523205,
+    "update_time": 1775523205,
+    "_id": "Hal Anger<SEP>Scintillation Camera"
+  },
+  "Michel Ter-Pogossian<SEP>PET": {
+    "chunk_ids": [
+      "chunk-bc0ff97fcbf2499d0f352a78d92492f1"
+    ],
+    "count": 1,
+    "create_time": 1775523205,
+    "update_time": 1775523205,
+    "_id": "Michel Ter-Pogossian<SEP>PET"
+  },
+  "Collimator<SEP>Pb": {
+    "chunk_ids": [
+      "chunk-08708d5929cf7059523d87243b280f2c"
+    ],
+    "count": 1,
+    "create_time": 1775523205,
+    "update_time": 1775523205,
+    "_id": "Collimator<SEP>Pb"
+  },
+  "Resolution<SEP>Sensitivity": {
+    "chunk_ids": [
+      "chunk-08708d5929cf7059523d87243b280f2c"
+    ],
+    "count": 1,
+    "create_time": 1775523205,
+    "update_time": 1775523205,
+    "_id": "Resolution<SEP>Sensitivity"
+  },
+  "Cassen<SEP>Rectilinear Scanner": {
+    "chunk_ids": [
+      "chunk-bc0ff97fcbf2499d0f352a78d92492f1"
+    ],
+    "count": 1,
+    "create_time": 1775523205,
+    "update_time": 1775523205,
+    "_id": "Cassen<SEP>Rectilinear Scanner"
+  },
+  "PHA<SEP>Scintigram": {
+    "chunk_ids": [
+      "chunk-08708d5929cf7059523d87243b280f2c"
+    ],
+    "count": 1,
+    "create_time": 1775523205,
+    "update_time": 1775523205,
+    "_id": "PHA<SEP>Scintigram"
+  },
+  "Scintillation Camera<SEP>감마카메라": {
+    "chunk_ids": [
+      "chunk-08708d5929cf7059523d87243b280f2c"
+    ],
+    "count": 1,
+    "create_time": 1775523205,
+    "update_time": 1775523205,
+    "_id": "Scintillation Camera<SEP>감마카메라"
+  },
+  "Gamma Camera<SEP>감마카메라": {
+    "chunk_ids": [
+      "chunk-08708d5929cf7059523d87243b280f2c"
+    ],
+    "count": 1,
+    "create_time": 1775523206,
+    "update_time": 1775523206,
+    "_id": "Gamma Camera<SEP>감마카메라"
+  },
+  "Contraster<SEP>Scintigram": {
+    "chunk_ids": [
+      "chunk-08708d5929cf7059523d87243b280f2c"
+    ],
+    "count": 1,
+    "create_time": 1775523206,
+    "update_time": 1775523206,
+    "_id": "Contraster<SEP>Scintigram"
+  },
+  "Rectilinear Scanner<SEP>파고분석기": {
+    "chunk_ids": [
+      "chunk-bc0ff97fcbf2499d0f352a78d92492f1"
+    ],
+    "count": 1,
+    "create_time": 1775523206,
+    "update_time": 1775523206,
+    "_id": "Rectilinear Scanner<SEP>파고분석기"
+  },
+  "Collimator<SEP>γ선": {
+    "chunk_ids": [
+      "chunk-08708d5929cf7059523d87243b280f2c"
+    ],
+    "count": 1,
+    "create_time": 1775523206,
+    "update_time": 1775523206,
+    "_id": "Collimator<SEP>γ선"
+  },
+  "RI<SEP>Resolution": {
+    "chunk_ids": [
+      "chunk-08708d5929cf7059523d87243b280f2c"
+    ],
+    "count": 1,
+    "create_time": 1775523206,
+    "update_time": 1775523206,
+    "_id": "RI<SEP>Resolution"
+  },
+  "Gamma Camera<SEP>Scintillation Camera": {
+    "chunk_ids": [
+      "chunk-08708d5929cf7059523d87243b280f2c"
+    ],
+    "count": 1,
+    "create_time": 1775523206,
+    "update_time": 1775523206,
+    "_id": "Gamma Camera<SEP>Scintillation Camera"
+  },
+  "검출기<SEP>기계적구동부": {
+    "chunk_ids": [
+      "chunk-08708d5929cf7059523d87243b280f2c"
+    ],
+    "count": 1,
+    "create_time": 1775523206,
+    "update_time": 1775523206,
+    "_id": "검출기<SEP>기계적구동부"
+  },
+  "Rectilinear Scanner<SEP>영상기록장치": {
+    "chunk_ids": [
+      "chunk-bc0ff97fcbf2499d0f352a78d92492f1"
+    ],
+    "count": 1,
+    "create_time": 1775523206,
+    "update_time": 1775523206,
+    "_id": "Rectilinear Scanner<SEP>영상기록장치"
+  },
+  "Sensitivity<SEP>γ선": {
+    "chunk_ids": [
+      "chunk-08708d5929cf7059523d87243b280f2c"
+    ],
+    "count": 1,
+    "create_time": 1775523206,
+    "update_time": 1775523206,
+    "_id": "Sensitivity<SEP>γ선"
+  },
+  "Collimator<SEP>감마카메라": {
+    "chunk_ids": [
+      "chunk-73fd9633bf193d21c88e0cf35c08d9fa"
+    ],
+    "count": 1,
+    "create_time": 1775523206,
+    "update_time": 1775523206,
+    "_id": "Collimator<SEP>감마카메라"
+  },
+  "기계적구동부<SEP>장기": {
+    "chunk_ids": [
+      "chunk-08708d5929cf7059523d87243b280f2c"
+    ],
+    "count": 1,
+    "create_time": 1775523207,
+    "update_time": 1775523207,
+    "_id": "기계적구동부<SEP>장기"
+  },
+  "PHA<SEP>영상기록장치": {
+    "chunk_ids": [
+      "chunk-08708d5929cf7059523d87243b280f2c"
+    ],
+    "count": 1,
+    "create_time": 1775523207,
+    "update_time": 1775523207,
+    "_id": "PHA<SEP>영상기록장치"
+  },
+  "NaI (Tl) Crystal<SEP>감마카메라": {
+    "chunk_ids": [
+      "chunk-73fd9633bf193d21c88e0cf35c08d9fa"
+    ],
+    "count": 1,
+    "create_time": 1775523207,
+    "update_time": 1775523207,
+    "_id": "NaI (Tl) Crystal<SEP>감마카메라"
+  },
+  "PM Tube<SEP>감마카메라": {
+    "chunk_ids": [
+      "chunk-73fd9633bf193d21c88e0cf35c08d9fa"
+    ],
+    "count": 1,
+    "create_time": 1775523208,
+    "update_time": 1775523208,
+    "_id": "PM Tube<SEP>감마카메라"
+  },
+  "Anger<SEP>Donner Laboratory": {
+    "chunk_ids": [
+      "chunk-73fd9633bf193d21c88e0cf35c08d9fa"
+    ],
+    "count": 1,
+    "create_time": 1775523208,
+    "update_time": 1775523208,
+    "_id": "Anger<SEP>Donner Laboratory"
+  },
+  "Preamplifier<SEP>감마카메라": {
+    "chunk_ids": [
+      "chunk-73fd9633bf193d21c88e0cf35c08d9fa"
+    ],
+    "count": 1,
+    "create_time": 1775523208,
+    "update_time": 1775523208,
+    "_id": "Preamplifier<SEP>감마카메라"
+  },
+  "Collimator<SEP>에너지": {
+    "chunk_ids": [
+      "chunk-73fd9633bf193d21c88e0cf35c08d9fa"
+    ],
+    "count": 1,
+    "create_time": 1775523208,
+    "update_time": 1775523208,
+    "_id": "Collimator<SEP>에너지"
+  },
+  "Amplifier<SEP>감마카메라": {
+    "chunk_ids": [
+      "chunk-73fd9633bf193d21c88e0cf35c08d9fa"
+    ],
+    "count": 1,
+    "create_time": 1775523208,
+    "update_time": 1775523208,
+    "_id": "Amplifier<SEP>감마카메라"
+  },
+  "Image Display<SEP>감마카메라": {
+    "chunk_ids": [
+      "chunk-73fd9633bf193d21c88e0cf35c08d9fa"
+    ],
+    "count": 1,
+    "create_time": 1775523209,
+    "update_time": 1775523209,
+    "_id": "Image Display<SEP>감마카메라"
+  },
+  "Collimator<SEP>Low Energy": {
+    "chunk_ids": [
+      "chunk-73fd9633bf193d21c88e0cf35c08d9fa"
+    ],
+    "count": 1,
+    "create_time": 1775523209,
+    "update_time": 1775523209,
+    "_id": "Collimator<SEP>Low Energy"
+  },
+  "Detector<SEP>감마카메라": {
+    "chunk_ids": [
+      "chunk-73fd9633bf193d21c88e0cf35c08d9fa"
+    ],
+    "count": 1,
+    "create_time": 1775523209,
+    "update_time": 1775523209,
+    "_id": "Detector<SEP>감마카메라"
+  },
+  "Collimator<SEP>Medium Energy": {
+    "chunk_ids": [
+      "chunk-73fd9633bf193d21c88e0cf35c08d9fa"
+    ],
+    "count": 1,
+    "create_time": 1775523209,
+    "update_time": 1775523209,
+    "_id": "Collimator<SEP>Medium Energy"
+  },
+  "Collimator<SEP>High Energy": {
+    "chunk_ids": [
+      "chunk-73fd9633bf193d21c88e0cf35c08d9fa"
+    ],
+    "count": 1,
+    "create_time": 1775523210,
+    "update_time": 1775523210,
+    "_id": "Collimator<SEP>High Energy"
+  },
+  "PHA<SEP>감마카메라": {
+    "chunk_ids": [
+      "chunk-73fd9633bf193d21c88e0cf35c08d9fa"
+    ],
+    "count": 1,
+    "create_time": 1775523210,
+    "update_time": 1775523210,
+    "_id": "PHA<SEP>감마카메라"
+  },
+  "Collimator<SEP>Ultra High Energy": {
+    "chunk_ids": [
+      "chunk-73fd9633bf193d21c88e0cf35c08d9fa"
+    ],
+    "count": 1,
+    "create_time": 1775523210,
+    "update_time": 1775523210,
+    "_id": "Collimator<SEP>Ultra High Energy"
+  },
+  "Collimator<SEP>격벽": {
+    "chunk_ids": [
+      "chunk-73fd9633bf193d21c88e0cf35c08d9fa"
+    ],
+    "count": 1,
+    "create_time": 1775523211,
+    "update_time": 1775523211,
+    "_id": "Collimator<SEP>격벽"
+  },
+  "Scinti-Camera<SEP>바늘구멍조준기": {
+    "chunk_ids": [
+      "chunk-97bd5e81d74ceb332b6540d68a9844dd"
+    ],
+    "count": 1,
+    "create_time": 1775523228,
+    "update_time": 1775523228,
+    "_id": "Scinti-Camera<SEP>바늘구멍조준기"
+  },
+  "집속형조준기<SEP>평행다공형": {
+    "chunk_ids": [
+      "chunk-97bd5e81d74ceb332b6540d68a9844dd"
+    ],
+    "count": 1,
+    "create_time": 1775523228,
+    "update_time": 1775523228,
+    "_id": "집속형조준기<SEP>평행다공형"
+  },
+  "Camera<SEP>확산형조준기": {
+    "chunk_ids": [
+      "chunk-97bd5e81d74ceb332b6540d68a9844dd"
+    ],
+    "count": 1,
+    "create_time": 1775523228,
+    "update_time": 1775523228,
+    "_id": "Camera<SEP>확산형조준기"
+  },
+  "131I<SEP>High Energy Collimator": {
+    "chunk_ids": [
+      "chunk-6275b489d31d3ddb70252ffd8be243b7"
+    ],
+    "count": 1,
+    "create_time": 1775523228,
+    "update_time": 1775523228,
+    "_id": "131I<SEP>High Energy Collimator"
+  },
+  "67Ga<SEP>Medium Energy Collimator": {
+    "chunk_ids": [
+      "chunk-6275b489d31d3ddb70252ffd8be243b7"
+    ],
+    "count": 1,
+    "create_time": 1775523229,
+    "update_time": 1775523229,
+    "_id": "67Ga<SEP>Medium Energy Collimator"
+  },
+  "Lung<SEP>확산형조준기": {
+    "chunk_ids": [
+      "chunk-97bd5e81d74ceb332b6540d68a9844dd"
+    ],
+    "count": 1,
+    "create_time": 1775523229,
+    "update_time": 1775523229,
+    "_id": "Lung<SEP>확산형조준기"
+  },
+  "99mTc<SEP>Low Energy Collimator": {
+    "chunk_ids": [
+      "chunk-6275b489d31d3ddb70252ffd8be243b7"
+    ],
+    "count": 1,
+    "create_time": 1775523229,
+    "update_time": 1775523229,
+    "_id": "99mTc<SEP>Low Energy Collimator"
+  },
+  "111In<SEP>Medium Energy Collimator": {
+    "chunk_ids": [
+      "chunk-6275b489d31d3ddb70252ffd8be243b7"
+    ],
+    "count": 1,
+    "create_time": 1775523230,
+    "update_time": 1775523230,
+    "_id": "111In<SEP>Medium Energy Collimator"
+  },
+  "복부<SEP>확산형조준기": {
+    "chunk_ids": [
+      "chunk-97bd5e81d74ceb332b6540d68a9844dd"
+    ],
+    "count": 1,
+    "create_time": 1775523230,
+    "update_time": 1775523230,
+    "_id": "복부<SEP>확산형조준기"
+  },
+  "201Tl<SEP>Low Energy Collimator": {
+    "chunk_ids": [
+      "chunk-6275b489d31d3ddb70252ffd8be243b7"
+    ],
+    "count": 1,
+    "create_time": 1775523230,
+    "update_time": 1775523230,
+    "_id": "201Tl<SEP>Low Energy Collimator"
+  },
+  "123I<SEP>Medium Energy Collimator": {
+    "chunk_ids": [
+      "chunk-6275b489d31d3ddb70252ffd8be243b7"
+    ],
+    "count": 1,
+    "create_time": 1775523231,
+    "update_time": 1775523231,
+    "_id": "123I<SEP>Medium Energy Collimator"
+  },
+  "Brain<SEP>Parallel Multihole Collimator": {
+    "chunk_ids": [
+      "chunk-6275b489d31d3ddb70252ffd8be243b7"
+    ],
+    "count": 1,
+    "create_time": 1775523231,
+    "update_time": 1775523231,
+    "_id": "Brain<SEP>Parallel Multihole Collimator"
+  },
+  "133Xe<SEP>Low Energy Collimator": {
+    "chunk_ids": [
+      "chunk-6275b489d31d3ddb70252ffd8be243b7"
+    ],
+    "count": 1,
+    "create_time": 1775523231,
+    "update_time": 1775523231,
+    "_id": "133Xe<SEP>Low Energy Collimator"
+  },
+  "골반<SEP>확산형조준기": {
+    "chunk_ids": [
+      "chunk-97bd5e81d74ceb332b6540d68a9844dd"
+    ],
+    "count": 1,
+    "create_time": 1775523231,
+    "update_time": 1775523231,
+    "_id": "골반<SEP>확산형조준기"
+  },
+  "Scintillator<SEP>X-Ray": {
+    "chunk_ids": [
+      "chunk-6275b489d31d3ddb70252ffd8be243b7"
+    ],
+    "count": 1,
+    "create_time": 1775523231,
+    "update_time": 1775523231,
+    "_id": "Scintillator<SEP>X-Ray"
+  },
+  "Kidney<SEP>Parallel Multihole Collimator": {
+    "chunk_ids": [
+      "chunk-6275b489d31d3ddb70252ffd8be243b7"
+    ],
+    "count": 1,
+    "create_time": 1775523232,
+    "update_time": 1775523232,
+    "_id": "Kidney<SEP>Parallel Multihole Collimator"
+  },
+  "Gamma Ray<SEP>Scintillator": {
+    "chunk_ids": [
+      "chunk-6275b489d31d3ddb70252ffd8be243b7"
+    ],
+    "count": 1,
+    "create_time": 1775523232,
+    "update_time": 1775523232,
+    "_id": "Gamma Ray<SEP>Scintillator"
+  },
+  "Pinhole Collimator<SEP>Thyroid Gland": {
+    "chunk_ids": [
+      "chunk-6275b489d31d3ddb70252ffd8be243b7"
+    ],
+    "count": 1,
+    "create_time": 1775523232,
+    "update_time": 1775523232,
+    "_id": "Pinhole Collimator<SEP>Thyroid Gland"
+  },
+  "125I<SEP>Low Energy Collimator": {
+    "chunk_ids": [
+      "chunk-6275b489d31d3ddb70252ffd8be243b7"
+    ],
+    "count": 1,
+    "create_time": 1775523232,
+    "update_time": 1775523232,
+    "_id": "125I<SEP>Low Energy Collimator"
+  },
+  "기하학적성분(Geometric)<SEP>섬광체(Crystal)": {
+    "chunk_ids": [
+      "chunk-abfdeda3e4621d85e0f953a3a7cee2a6"
+    ],
+    "count": 1,
+    "create_time": 1775523232,
+    "update_time": 1775523232,
+    "_id": "기하학적성분(Geometric)<SEP>섬광체(Crystal)"
+  },
+  "Liver<SEP>확산형조준기": {
+    "chunk_ids": [
+      "chunk-97bd5e81d74ceb332b6540d68a9844dd"
+    ],
+    "count": 1,
+    "create_time": 1775523232,
+    "update_time": 1775523232,
+    "_id": "Liver<SEP>확산형조준기"
+  },
+  "Collimator<SEP>NaI(Tl) Crystal": {
+    "chunk_ids": [
+      "chunk-abfdeda3e4621d85e0f953a3a7cee2a6"
+    ],
+    "count": 1,
+    "create_time": 1775523232,
+    "update_time": 1775523232,
+    "_id": "Collimator<SEP>NaI(Tl) Crystal"
+  },
+  "섬광체(Crystal)<SEP>투과성분(Penetrate)": {
+    "chunk_ids": [
+      "chunk-abfdeda3e4621d85e0f953a3a7cee2a6"
+    ],
+    "count": 1,
+    "create_time": 1775523233,
+    "update_time": 1775523233,
+    "_id": "섬광체(Crystal)<SEP>투과성분(Penetrate)"
+  },
+  "검출효율증가<SEP>격벽": {
+    "chunk_ids": [
+      "chunk-abfdeda3e4621d85e0f953a3a7cee2a6"
+    ],
+    "count": 1,
+    "create_time": 1775523233,
+    "update_time": 1775523233,
+    "_id": "검출효율증가<SEP>격벽"
+  },
+  "Collimator<SEP>홀(Hole)": {
+    "chunk_ids": [
+      "chunk-abfdeda3e4621d85e0f953a3a7cee2a6"
+    ],
+    "count": 1,
+    "create_time": 1775523233,
+    "update_time": 1775523233,
+    "_id": "Collimator<SEP>홀(Hole)"
+  },
+  "Nal(Tl) Crystal<SEP>Scintillator": {
+    "chunk_ids": [
+      "chunk-03574e2708590c1fbd812aab77b1c581"
+    ],
+    "count": 1,
+    "create_time": 1775523233,
+    "update_time": 1775523233,
+    "_id": "Nal(Tl) Crystal<SEP>Scintillator"
+  },
+  "Liver<SEP>Parallel Multihole Collimator": {
+    "chunk_ids": [
+      "chunk-6275b489d31d3ddb70252ffd8be243b7"
+    ],
+    "count": 1,
+    "create_time": 1775523233,
+    "update_time": 1775523233,
+    "_id": "Liver<SEP>Parallel Multihole Collimator"
+  },
+  "Gamma Ray Absorption Rate<SEP>Scintillation Decay Time": {
+    "chunk_ids": [
+      "chunk-03574e2708590c1fbd812aab77b1c581"
+    ],
+    "count": 1,
+    "create_time": 1775523233,
+    "update_time": 1775523233,
+    "_id": "Gamma Ray Absorption Rate<SEP>Scintillation Decay Time"
+  },
+  "산란성분(Scatter)<SEP>섬광체(Crystal)": {
+    "chunk_ids": [
+      "chunk-abfdeda3e4621d85e0f953a3a7cee2a6"
+    ],
+    "count": 1,
+    "create_time": 1775523233,
+    "update_time": 1775523233,
+    "_id": "산란성분(Scatter)<SEP>섬광체(Crystal)"
+  },
+  "Crystal Thickness<SEP>Light Conversion Efficiency": {
+    "chunk_ids": [
+      "chunk-03574e2708590c1fbd812aab77b1c581"
+    ],
+    "count": 1,
+    "create_time": 1775523233,
+    "update_time": 1775523233,
+    "_id": "Crystal Thickness<SEP>Light Conversion Efficiency"
+  },
+  "격벽<SEP>분해능저하": {
+    "chunk_ids": [
+      "chunk-abfdeda3e4621d85e0f953a3a7cee2a6"
+    ],
+    "count": 1,
+    "create_time": 1775523234,
+    "update_time": 1775523234,
+    "_id": "격벽<SEP>분해능저하"
+  },
+  "Light Collection Efficiency<SEP>Light Guide": {
+    "chunk_ids": [
+      "chunk-03574e2708590c1fbd812aab77b1c581"
+    ],
+    "count": 1,
+    "create_time": 1775523234,
+    "update_time": 1775523234,
+    "_id": "Light Collection Efficiency<SEP>Light Guide"
+  },
+  "Crystal Thickness<SEP>Resolution": {
+    "chunk_ids": [
+      "chunk-03574e2708590c1fbd812aab77b1c581"
+    ],
+    "count": 1,
+    "create_time": 1775523234,
+    "update_time": 1775523234,
+    "_id": "Crystal Thickness<SEP>Resolution"
+  },
+  "Photo Multiplier Tube<SEP>Photocathode": {
+    "chunk_ids": [
+      "chunk-03574e2708590c1fbd812aab77b1c581"
+    ],
+    "count": 1,
+    "create_time": 1775523234,
+    "update_time": 1775523234,
+    "_id": "Photo Multiplier Tube<SEP>Photocathode"
+  },
+  "Nal(Tl) Crystal<SEP>Pmt": {
+    "chunk_ids": [
+      "chunk-03574e2708590c1fbd812aab77b1c581"
+    ],
+    "count": 1,
+    "create_time": 1775523234,
+    "update_time": 1775523234,
+    "_id": "Nal(Tl) Crystal<SEP>Pmt"
+  },
+  "Dead Space<SEP>Light Guide": {
+    "chunk_ids": [
+      "chunk-03574e2708590c1fbd812aab77b1c581"
+    ],
+    "count": 1,
+    "create_time": 1775523234,
+    "update_time": 1775523234,
+    "_id": "Dead Space<SEP>Light Guide"
+  },
+  "Photocathode<SEP>Quantum Efficiency": {
+    "chunk_ids": [
+      "chunk-03574e2708590c1fbd812aab77b1c581"
+    ],
+    "count": 1,
+    "create_time": 1775523234,
+    "update_time": 1775523234,
+    "_id": "Photocathode<SEP>Quantum Efficiency"
+  },
+  "Dynode<SEP>Photo Multiplier Tube": {
+    "chunk_ids": [
+      "chunk-03574e2708590c1fbd812aab77b1c581"
+    ],
+    "count": 1,
+    "create_time": 1775523234,
+    "update_time": 1775523234,
+    "_id": "Dynode<SEP>Photo Multiplier Tube"
+  },
+  "Aluminum Film<SEP>Nal(Tl) Crystal": {
+    "chunk_ids": [
+      "chunk-03574e2708590c1fbd812aab77b1c581"
+    ],
+    "count": 1,
+    "create_time": 1775523234,
+    "update_time": 1775523234,
+    "_id": "Aluminum Film<SEP>Nal(Tl) Crystal"
+  },
+  "Light Guide<SEP>Photo Multiplier Tube": {
+    "chunk_ids": [
+      "chunk-03574e2708590c1fbd812aab77b1c581"
+    ],
+    "count": 1,
+    "create_time": 1775523235,
+    "update_time": 1775523235,
+    "_id": "Light Guide<SEP>Photo Multiplier Tube"
+  },
+  "기기의기종<SEP>분해능": {
+    "chunk_ids": [
+      "chunk-47cbfe584ecc302692a5f14daa4b7ee6"
+    ],
+    "count": 1,
+    "create_time": 1775523256,
+    "update_time": 1775523256,
+    "_id": "기기의기종<SEP>분해능"
+  },
+  "γ선<SEP>영상재구성": {
+    "chunk_ids": [
+      "chunk-47cbfe584ecc302692a5f14daa4b7ee6"
+    ],
+    "count": 1,
+    "create_time": 1775523256,
+    "update_time": 1775523256,
+    "_id": "γ선<SEP>영상재구성"
+  },
+  "Artifact<SEP>감도의불균일성": {
+    "chunk_ids": [
+      "chunk-47cbfe584ecc302692a5f14daa4b7ee6"
+    ],
+    "count": 1,
+    "create_time": 1775523256,
+    "update_time": 1775523256,
+    "_id": "Artifact<SEP>감도의불균일성"
+  },
+  "SPECT Image<SEP>통계적인잡음": {
+    "chunk_ids": [
+      "chunk-47cbfe584ecc302692a5f14daa4b7ee6"
+    ],
+    "count": 1,
+    "create_time": 1775523256,
+    "update_time": 1775523256,
+    "_id": "SPECT Image<SEP>통계적인잡음"
+  },
+  "SPECT Image<SEP>투영data": {
+    "chunk_ids": [
+      "chunk-47cbfe584ecc302692a5f14daa4b7ee6"
+    ],
+    "count": 1,
+    "create_time": 1775523257,
+    "update_time": 1775523257,
+    "_id": "SPECT Image<SEP>투영data"
+  },
+  "Artifact<SEP>회전축의불일치": {
+    "chunk_ids": [
+      "chunk-47cbfe584ecc302692a5f14daa4b7ee6"
+    ],
+    "count": 1,
+    "create_time": 1775523257,
+    "update_time": 1775523257,
+    "_id": "Artifact<SEP>회전축의불일치"
+  },
+  "Brain SPECT<SEP>화소의크기": {
+    "chunk_ids": [
+      "chunk-47cbfe584ecc302692a5f14daa4b7ee6"
+    ],
+    "count": 1,
+    "create_time": 1775523257,
+    "update_time": 1775523257,
+    "_id": "Brain SPECT<SEP>화소의크기"
+  },
+  "분해능<SEP>자료의수집방법": {
+    "chunk_ids": [
+      "chunk-47cbfe584ecc302692a5f14daa4b7ee6"
+    ],
+    "count": 1,
+    "create_time": 1775523257,
+    "update_time": 1775523257,
+    "_id": "분해능<SEP>자료의수집방법"
+  },
+  "Micro Processor<SEP>감도의불균일성": {
+    "chunk_ids": [
+      "chunk-47cbfe584ecc302692a5f14daa4b7ee6"
+    ],
+    "count": 1,
+    "create_time": 1775523257,
+    "update_time": 1775523257,
+    "_id": "Micro Processor<SEP>감도의불균일성"
+  },
+  "기기의반치폭<SEP>화소의크기": {
+    "chunk_ids": [
+      "chunk-47cbfe584ecc302692a5f14daa4b7ee6"
+    ],
+    "count": 1,
+    "create_time": 1775523258,
+    "update_time": 1775523258,
+    "_id": "기기의반치폭<SEP>화소의크기"
+  },
+  "Artifact<SEP>위치신호Level의불일치": {
+    "chunk_ids": [
+      "chunk-47cbfe584ecc302692a5f14daa4b7ee6"
+    ],
+    "count": 1,
+    "create_time": 1775523258,
+    "update_time": 1775523258,
+    "_id": "Artifact<SEP>위치신호Level의불일치"
+  },
+  "M<SEP>다이노드": {
+    "chunk_ids": [
+      "chunk-ccbfd4804326f5caeaab817a2e208b7c"
+    ],
+    "count": 1,
+    "create_time": 1775523258,
+    "update_time": 1775523258,
+    "_id": "M<SEP>다이노드"
+  },
+  "Micro Processor<SEP>직선의왜곡": {
+    "chunk_ids": [
+      "chunk-47cbfe584ecc302692a5f14daa4b7ee6"
+    ],
+    "count": 1,
+    "create_time": 1775523258,
+    "update_time": 1775523258,
+    "_id": "Micro Processor<SEP>직선의왜곡"
+  },
+  "양극<SEP>증폭된전자를수집": {
+    "chunk_ids": [
+      "chunk-ccbfd4804326f5caeaab817a2e208b7c"
+    ],
+    "count": 1,
+    "create_time": 1775523258,
+    "update_time": 1775523258,
+    "_id": "양극<SEP>증폭된전자를수집"
+  },
+  "감도증가<SEP>섬광체": {
+    "chunk_ids": [
+      "chunk-ccbfd4804326f5caeaab817a2e208b7c"
+    ],
+    "count": 1,
+    "create_time": 1775523258,
+    "update_time": 1775523258,
+    "_id": "감도증가<SEP>섬광체"
+  },
+  "PMT 수<SEP>해상도증가": {
+    "chunk_ids": [
+      "chunk-ccbfd4804326f5caeaab817a2e208b7c"
+    ],
+    "count": 1,
+    "create_time": 1775523258,
+    "update_time": 1775523258,
+    "_id": "PMT 수<SEP>해상도증가"
+  },
+  "전치증폭기<SEP>증폭기": {
+    "chunk_ids": [
+      "chunk-ccbfd4804326f5caeaab817a2e208b7c"
+    ],
+    "count": 1,
+    "create_time": 1775523259,
+    "update_time": 1775523259,
+    "_id": "전치증폭기<SEP>증폭기"
+  },
+  "분해능<SEP>영상의재구성방법": {
+    "chunk_ids": [
+      "chunk-47cbfe584ecc302692a5f14daa4b7ee6"
+    ],
+    "count": 1,
+    "create_time": 1775523259,
+    "update_time": 1775523259,
+    "_id": "분해능<SEP>영상의재구성방법"
+  },
+  "Energy<SEP>primary photon": {
+    "chunk_ids": [
+      "chunk-ccbfd4804326f5caeaab817a2e208b7c"
+    ],
+    "count": 1,
+    "create_time": 1775523259,
+    "update_time": 1775523259,
+    "_id": "Energy<SEP>primary photon"
+  },
+  "LLD<SEP>파고분석기": {
+    "chunk_ids": [
+      "chunk-ccbfd4804326f5caeaab817a2e208b7c"
+    ],
+    "count": 1,
+    "create_time": 1775523259,
+    "update_time": 1775523259,
+    "_id": "LLD<SEP>파고분석기"
+  },
+  "Gamma Spectrum<SEP>γ선": {
+    "chunk_ids": [
+      "chunk-ccbfd4804326f5caeaab817a2e208b7c",
+      "chunk-83b2ddf22a61c92feb5b93c9cf9b98eb"
+    ],
+    "count": 2,
+    "create_time": 1775523259,
+    "update_time": 1775523259,
+    "_id": "Gamma Spectrum<SEP>γ선"
+  },
+  "ULD<SEP>파고분석기": {
+    "chunk_ids": [
+      "chunk-ccbfd4804326f5caeaab817a2e208b7c"
+    ],
+    "count": 1,
+    "create_time": 1775523259,
+    "update_time": 1775523259,
+    "_id": "ULD<SEP>파고분석기"
+  },
+  "M<SEP>증폭된 총 전자수": {
+    "chunk_ids": [
+      "chunk-ccbfd4804326f5caeaab817a2e208b7c"
+    ],
+    "count": 1,
+    "create_time": 1775523259,
+    "update_time": 1775523259,
+    "_id": "M<SEP>증폭된 총 전자수"
+  },
+  "감도증가<SEP>광도관": {
+    "chunk_ids": [
+      "chunk-ccbfd4804326f5caeaab817a2e208b7c"
+    ],
+    "count": 1,
+    "create_time": 1775523259,
+    "update_time": 1775523259,
+    "_id": "감도증가<SEP>광도관"
+  },
+  "섬광체<SEP>해상도 저하": {
+    "chunk_ids": [
+      "chunk-ccbfd4804326f5caeaab817a2e208b7c"
+    ],
+    "count": 1,
+    "create_time": 1775523259,
+    "update_time": 1775523259,
+    "_id": "섬광체<SEP>해상도 저하"
+  },
+  "PMT 수<SEP>균일성 저하": {
+    "chunk_ids": [
+      "chunk-ccbfd4804326f5caeaab817a2e208b7c"
+    ],
+    "count": 1,
+    "create_time": 1775523259,
+    "update_time": 1775523259,
+    "_id": "PMT 수<SEP>균일성 저하"
+  },
+  "Auto Peaking<SEP>Peak Energy": {
+    "chunk_ids": [
+      "chunk-ccbfd4804326f5caeaab817a2e208b7c"
+    ],
+    "count": 1,
+    "create_time": 1775523260,
+    "update_time": 1775523260,
+    "_id": "Auto Peaking<SEP>Peak Energy"
+  },
+  "Window<SEP>파고분석기": {
+    "chunk_ids": [
+      "chunk-ccbfd4804326f5caeaab817a2e208b7c"
+    ],
+    "count": 1,
+    "create_time": 1775523260,
+    "update_time": 1775523260,
+    "_id": "Window<SEP>파고분석기"
+  },
+  "Gamma Spectrum<SEP>물질": {
+    "chunk_ids": [
+      "chunk-ccbfd4804326f5caeaab817a2e208b7c"
+    ],
+    "count": 1,
+    "create_time": 1775523260,
+    "update_time": 1775523260,
+    "_id": "Gamma Spectrum<SEP>물질"
+  },
+  "NaI(Tl)<SEP>SPECT": {
+    "chunk_ids": [
+      "chunk-a1e99e5d45d87bc110fb72539f81b91d",
+      "chunk-83b2ddf22a61c92feb5b93c9cf9b98eb"
+    ],
+    "count": 2,
+    "create_time": 1775523260,
+    "update_time": 1775523260,
+    "_id": "NaI(Tl)<SEP>SPECT"
+  },
+  "광도관<SEP>해상도 저하": {
+    "chunk_ids": [
+      "chunk-ccbfd4804326f5caeaab817a2e208b7c"
+    ],
+    "count": 1,
+    "create_time": 1775523260,
+    "update_time": 1775523260,
+    "_id": "광도관<SEP>해상도 저하"
+  },
+  "CsI<SEP>Photomultiplier Tube": {
+    "chunk_ids": [
+      "chunk-a1e99e5d45d87bc110fb72539f81b91d"
+    ],
+    "count": 1,
+    "create_time": 1775523260,
+    "update_time": 1775523260,
+    "_id": "CsI<SEP>Photomultiplier Tube"
+  },
+  "Amorphous Selenium<SEP>Signal Processor": {
+    "chunk_ids": [
+      "chunk-a1e99e5d45d87bc110fb72539f81b91d"
+    ],
+    "count": 1,
+    "create_time": 1775523260,
+    "update_time": 1775523260,
+    "_id": "Amorphous Selenium<SEP>Signal Processor"
+  },
+  "Cadmium Telluride<SEP>Signal Processor": {
+    "chunk_ids": [
+      "chunk-a1e99e5d45d87bc110fb72539f81b91d"
+    ],
+    "count": 1,
+    "create_time": 1775523260,
+    "update_time": 1775523260,
+    "_id": "Cadmium Telluride<SEP>Signal Processor"
+  },
+  "Gamma Rays<SEP>조준기": {
+    "chunk_ids": [
+      "chunk-a1e99e5d45d87bc110fb72539f81b91d"
+    ],
+    "count": 1,
+    "create_time": 1775523260,
+    "update_time": 1775523260,
+    "_id": "Gamma Rays<SEP>조준기"
+  },
+  "NaI(Tl)<SEP>Photomultiplier Tube": {
+    "chunk_ids": [
+      "chunk-a1e99e5d45d87bc110fb72539f81b91d"
+    ],
+    "count": 1,
+    "create_time": 1775523260,
+    "update_time": 1775523260,
+    "_id": "NaI(Tl)<SEP>Photomultiplier Tube"
+  },
+  "Cadmium Zinc Telluride<SEP>Signal Processor": {
+    "chunk_ids": [
+      "chunk-a1e99e5d45d87bc110fb72539f81b91d"
+    ],
+    "count": 1,
+    "create_time": 1775523261,
+    "update_time": 1775523261,
+    "_id": "Cadmium Zinc Telluride<SEP>Signal Processor"
+  },
+  "신호처리기<SEP>컴퓨터모니터": {
+    "chunk_ids": [
+      "chunk-a1e99e5d45d87bc110fb72539f81b91d"
+    ],
+    "count": 1,
+    "create_time": 1775523261,
+    "update_time": 1775523261,
+    "_id": "신호처리기<SEP>컴퓨터모니터"
+  },
+  "CsI<SEP>Photodiode": {
+    "chunk_ids": [
+      "chunk-a1e99e5d45d87bc110fb72539f81b91d"
+    ],
+    "count": 1,
+    "create_time": 1775523261,
+    "update_time": 1775523261,
+    "_id": "CsI<SEP>Photodiode"
+  },
+  "Gamma Rays<SEP>섬광체": {
+    "chunk_ids": [
+      "chunk-a1e99e5d45d87bc110fb72539f81b91d"
+    ],
+    "count": 1,
+    "create_time": 1775523261,
+    "update_time": 1775523261,
+    "_id": "Gamma Rays<SEP>섬광체"
+  },
+  "Amorphous Selenium<SEP>electrical signal": {
+    "chunk_ids": [
+      "chunk-a1e99e5d45d87bc110fb72539f81b91d"
+    ],
+    "count": 1,
+    "create_time": 1775523261,
+    "update_time": 1775523261,
+    "_id": "Amorphous Selenium<SEP>electrical signal"
+  },
+  "SPECT<SEP>Signal Processor": {
+    "chunk_ids": [
+      "chunk-a1e99e5d45d87bc110fb72539f81b91d"
+    ],
+    "count": 1,
+    "create_time": 1775523261,
+    "update_time": 1775523261,
+    "_id": "SPECT<SEP>Signal Processor"
+  },
+  "광전자증배관<SEP>신호처리기": {
+    "chunk_ids": [
+      "chunk-a1e99e5d45d87bc110fb72539f81b91d"
+    ],
+    "count": 1,
+    "create_time": 1775523261,
+    "update_time": 1775523261,
+    "_id": "광전자증배관<SEP>신호처리기"
+  },
+  "SPECT<SEP>X-Ray CT": {
+    "chunk_ids": [
+      "chunk-a1e99e5d45d87bc110fb72539f81b91d"
+    ],
+    "count": 1,
+    "create_time": 1775523262,
+    "update_time": 1775523262,
+    "_id": "SPECT<SEP>X-Ray CT"
+  },
+  "Gamma Rays<SEP>섬광카메라": {
+    "chunk_ids": [
+      "chunk-a1e99e5d45d87bc110fb72539f81b91d"
+    ],
+    "count": 1,
+    "create_time": 1775523262,
+    "update_time": 1775523262,
+    "_id": "Gamma Rays<SEP>섬광카메라"
+  },
+  "Cadmium Telluride<SEP>electrical signal": {
+    "chunk_ids": [
+      "chunk-a1e99e5d45d87bc110fb72539f81b91d"
+    ],
+    "count": 1,
+    "create_time": 1775523262,
+    "update_time": 1775523262,
+    "_id": "Cadmium Telluride<SEP>electrical signal"
+  },
+  "감도<SEP>해상력": {
+    "chunk_ids": [
+      "chunk-a1e99e5d45d87bc110fb72539f81b91d"
+    ],
+    "count": 1,
+    "create_time": 1775523262,
+    "update_time": 1775523262,
+    "_id": "감도<SEP>해상력"
+  },
+  "X-Ray CT<SEP>화상재구성법": {
+    "chunk_ids": [
+      "chunk-a1e99e5d45d87bc110fb72539f81b91d"
+    ],
+    "count": 1,
+    "create_time": 1775523262,
+    "update_time": 1775523262,
+    "_id": "X-Ray CT<SEP>화상재구성법"
+  },
+  "SPECT<SEP>방사성의약품": {
+    "chunk_ids": [
+      "chunk-a1e99e5d45d87bc110fb72539f81b91d",
+      "chunk-83b2ddf22a61c92feb5b93c9cf9b98eb"
+    ],
+    "count": 2,
+    "create_time": 1775523262,
+    "update_time": 1775523262,
+    "_id": "SPECT<SEP>방사성의약품"
+  },
+  "Collimator<SEP>감도": {
+    "chunk_ids": [
+      "chunk-a1e99e5d45d87bc110fb72539f81b91d"
+    ],
+    "count": 1,
+    "create_time": 1775523263,
+    "update_time": 1775523263,
+    "_id": "Collimator<SEP>감도"
+  },
+  "γ선<SEP>광전효과": {
+    "chunk_ids": [
+      "chunk-83b2ddf22a61c92feb5b93c9cf9b98eb"
+    ],
+    "count": 1,
+    "create_time": 1775523263,
+    "update_time": 1775523263,
+    "_id": "γ선<SEP>광전효과"
+  },
+  "Cadmium Zinc Telluride<SEP>electrical signal": {
+    "chunk_ids": [
+      "chunk-a1e99e5d45d87bc110fb72539f81b91d"
+    ],
+    "count": 1,
+    "create_time": 1775523263,
+    "update_time": 1775523263,
+    "_id": "Cadmium Zinc Telluride<SEP>electrical signal"
+  },
+  "SPECT<SEP>영상재구성알고리즘": {
+    "chunk_ids": [
+      "chunk-a1e99e5d45d87bc110fb72539f81b91d"
+    ],
+    "count": 1,
+    "create_time": 1775523263,
+    "update_time": 1775523263,
+    "_id": "SPECT<SEP>영상재구성알고리즘"
+  },
+  "Collimator<SEP>해상력": {
+    "chunk_ids": [
+      "chunk-a1e99e5d45d87bc110fb72539f81b91d"
+    ],
+    "count": 1,
+    "create_time": 1775523263,
+    "update_time": 1775523263,
+    "_id": "Collimator<SEP>해상력"
+  },
+  "Gamma Spectrum<SEP>Photo Peak": {
+    "chunk_ids": [
+      "chunk-83b2ddf22a61c92feb5b93c9cf9b98eb"
+    ],
+    "count": 1,
+    "create_time": 1775523263,
+    "update_time": 1775523263,
+    "_id": "Gamma Spectrum<SEP>Photo Peak"
+  },
+  "γ선<SEP>콤프톤산란": {
+    "chunk_ids": [
+      "chunk-83b2ddf22a61c92feb5b93c9cf9b98eb"
+    ],
+    "count": 1,
+    "create_time": 1775523263,
+    "update_time": 1775523263,
+    "_id": "γ선<SEP>콤프톤산란"
+  },
+  "Gamma Spectrum<SEP>Iodine Escape Peak": {
+    "chunk_ids": [
+      "chunk-83b2ddf22a61c92feb5b93c9cf9b98eb"
+    ],
+    "count": 1,
+    "create_time": 1775523264,
+    "update_time": 1775523264,
+    "_id": "Gamma Spectrum<SEP>Iodine Escape Peak"
+  },
+  "PET<SEP>방사성의약품": {
+    "chunk_ids": [
+      "chunk-83b2ddf22a61c92feb5b93c9cf9b98eb"
+    ],
+    "count": 1,
+    "create_time": 1775523264,
+    "update_time": 1775523264,
+    "_id": "PET<SEP>방사성의약품"
+  },
+  "γ선<SEP>전자쌍생성": {
+    "chunk_ids": [
+      "chunk-83b2ddf22a61c92feb5b93c9cf9b98eb"
+    ],
+    "count": 1,
+    "create_time": 1775523264,
+    "update_time": 1775523264,
+    "_id": "γ선<SEP>전자쌍생성"
+  },
+  "Computer<SEP>ECT": {
+    "chunk_ids": [
+      "chunk-83b2ddf22a61c92feb5b93c9cf9b98eb"
+    ],
+    "count": 1,
+    "create_time": 1775523264,
+    "update_time": 1775523264,
+    "_id": "Computer<SEP>ECT"
+  },
+  "Compton Edge<SEP>Gamma Spectrum": {
+    "chunk_ids": [
+      "chunk-83b2ddf22a61c92feb5b93c9cf9b98eb"
+    ],
+    "count": 1,
+    "create_time": 1775523264,
+    "update_time": 1775523264,
+    "_id": "Compton Edge<SEP>Gamma Spectrum"
+  },
+  "Scintillator<SEP>γ선": {
+    "chunk_ids": [
+      "chunk-83b2ddf22a61c92feb5b93c9cf9b98eb"
+    ],
+    "count": 1,
+    "create_time": 1775523264,
+    "update_time": 1775523264,
+    "_id": "Scintillator<SEP>γ선"
+  },
+  "ECT<SEP>SPECT": {
+    "chunk_ids": [
+      "chunk-83b2ddf22a61c92feb5b93c9cf9b98eb"
+    ],
+    "count": 1,
+    "create_time": 1775523264,
+    "update_time": 1775523264,
+    "_id": "ECT<SEP>SPECT"
+  },
+  "PET<SEP>양전자": {
+    "chunk_ids": [
+      "chunk-83b2ddf22a61c92feb5b93c9cf9b98eb"
+    ],
+    "count": 1,
+    "create_time": 1775523264,
+    "update_time": 1775523264,
+    "_id": "PET<SEP>양전자"
+  },
+  "Backscatter Peak<SEP>Gamma Spectrum": {
+    "chunk_ids": [
+      "chunk-83b2ddf22a61c92feb5b93c9cf9b98eb"
+    ],
+    "count": 1,
+    "create_time": 1775523265,
+    "update_time": 1775523265,
+    "_id": "Backscatter Peak<SEP>Gamma Spectrum"
+  },
+  "Cyclotron<SEP>SPECT": {
+    "chunk_ids": [
+      "chunk-83b2ddf22a61c92feb5b93c9cf9b98eb"
+    ],
+    "count": 1,
+    "create_time": 1775523265,
+    "update_time": 1775523265,
+    "_id": "Cyclotron<SEP>SPECT"
+  },
+  "ECT<SEP>PET": {
+    "chunk_ids": [
+      "chunk-83b2ddf22a61c92feb5b93c9cf9b98eb"
+    ],
+    "count": 1,
+    "create_time": 1775523265,
+    "update_time": 1775523265,
+    "_id": "ECT<SEP>PET"
+  },
+  "Gamma Spectrum<SEP>Lead X-Ray Peak": {
+    "chunk_ids": [
+      "chunk-83b2ddf22a61c92feb5b93c9cf9b98eb"
+    ],
+    "count": 1,
+    "create_time": 1775523265,
+    "update_time": 1775523265,
+    "_id": "Gamma Spectrum<SEP>Lead X-Ray Peak"
+  },
+  "SPECT<SEP>투사영상": {
+    "chunk_ids": [
+      "chunk-83b2ddf22a61c92feb5b93c9cf9b98eb"
+    ],
+    "count": 1,
+    "create_time": 1775523265,
+    "update_time": 1775523265,
+    "_id": "SPECT<SEP>투사영상"
+  },
+  "SPECT<SEP>조준기": {
+    "chunk_ids": [
+      "chunk-83b2ddf22a61c92feb5b93c9cf9b98eb"
+    ],
+    "count": 1,
+    "create_time": 1775523266,
+    "update_time": 1775523266,
+    "_id": "SPECT<SEP>조준기"
+  },
+  "방사성의약품<SEP>장기조직": {
+    "chunk_ids": [
+      "chunk-130264f031a5f67121c20eb9f791ffb6"
+    ],
+    "count": 1,
+    "create_time": 1775523285,
+    "update_time": 1775523285,
+    "_id": "방사성의약품<SEP>장기조직"
+  },
+  "양전자<SEP>전자": {
+    "chunk_ids": [
+      "chunk-130264f031a5f67121c20eb9f791ffb6"
+    ],
+    "count": 1,
+    "create_time": 1775523285,
+    "update_time": 1775523285,
+    "_id": "양전자<SEP>전자"
+  },
+  "γ선검출기<SEP>광자": {
+    "chunk_ids": [
+      "chunk-130264f031a5f67121c20eb9f791ffb6"
+    ],
+    "count": 1,
+    "create_time": 1775523285,
+    "update_time": 1775523285,
+    "_id": "γ선검출기<SEP>광자"
+  },
+  "PET 스캐너검출시스템<SEP>γ선": {
+    "chunk_ids": [
+      "chunk-130264f031a5f67121c20eb9f791ffb6"
+    ],
+    "count": 1,
+    "create_time": 1775523285,
+    "update_time": 1775523285,
+    "_id": "PET 스캐너검출시스템<SEP>γ선"
+  },
+  "0.511MeV의에너지<SEP>전자": {
+    "chunk_ids": [
+      "chunk-130264f031a5f67121c20eb9f791ffb6"
+    ],
+    "count": 1,
+    "create_time": 1775523286,
+    "update_time": 1775523286,
+    "_id": "0.511MeV의에너지<SEP>전자"
+  },
+  "방사성의약품<SEP>양전자": {
+    "chunk_ids": [
+      "chunk-130264f031a5f67121c20eb9f791ffb6"
+    ],
+    "count": 1,
+    "create_time": 1775523286,
+    "update_time": 1775523286,
+    "_id": "방사성의약품<SEP>양전자"
+  },
+  "PET 스캐너검출시스템<SEP>섬광결정": {
+    "chunk_ids": [
+      "chunk-130264f031a5f67121c20eb9f791ffb6"
+    ],
+    "count": 1,
+    "create_time": 1775523286,
+    "update_time": 1775523286,
+    "_id": "PET 스캐너검출시스템<SEP>섬광결정"
+  },
+  "SPECT<SEP>γ선검출기": {
+    "chunk_ids": [
+      "chunk-130264f031a5f67121c20eb9f791ffb6"
+    ],
+    "count": 1,
+    "create_time": 1775523286,
+    "update_time": 1775523286,
+    "_id": "SPECT<SEP>γ선검출기"
+  },
+  "Planar Image<SEP>Spect Image": {
+    "chunk_ids": [
+      "chunk-5c780a124da5a0a162247f1f1afa55b8"
+    ],
+    "count": 1,
+    "create_time": 1775523286,
+    "update_time": 1775523286,
+    "_id": "Planar Image<SEP>Spect Image"
+  },
+  "N<SEP>방사성의약품": {
+    "chunk_ids": [
+      "chunk-130264f031a5f67121c20eb9f791ffb6"
+    ],
+    "count": 1,
+    "create_time": 1775523287,
+    "update_time": 1775523287,
+    "_id": "N<SEP>방사성의약품"
+  },
+  "Reconstruction<SEP>Spect": {
+    "chunk_ids": [
+      "chunk-5c780a124da5a0a162247f1f1afa55b8"
+    ],
+    "count": 1,
+    "create_time": 1775523287,
+    "update_time": 1775523287,
+    "_id": "Reconstruction<SEP>Spect"
+  },
+  "PET 스캐너검출시스템<SEP>광전자증배관": {
+    "chunk_ids": [
+      "chunk-130264f031a5f67121c20eb9f791ffb6"
+    ],
+    "count": 1,
+    "create_time": 1775523287,
+    "update_time": 1775523287,
+    "_id": "PET 스캐너검출시스템<SEP>광전자증배관"
+  },
+  "Annihilation Radiation<SEP>Pet": {
+    "chunk_ids": [
+      "chunk-5c780a124da5a0a162247f1f1afa55b8"
+    ],
+    "count": 1,
+    "create_time": 1775523287,
+    "update_time": 1775523287,
+    "_id": "Annihilation Radiation<SEP>Pet"
+  },
+  "Planar Image<SEP>Spect": {
+    "chunk_ids": [
+      "chunk-5c780a124da5a0a162247f1f1afa55b8"
+    ],
+    "count": 1,
+    "create_time": 1775523287,
+    "update_time": 1775523287,
+    "_id": "Planar Image<SEP>Spect"
+  },
+  "18F<SEP>N": {
+    "chunk_ids": [
+      "chunk-130264f031a5f67121c20eb9f791ffb6"
+    ],
+    "count": 1,
+    "create_time": 1775523287,
+    "update_time": 1775523287,
+    "_id": "18F<SEP>N"
+  },
+  "PET 스캐너검출시스템<SEP>동시계수회로": {
+    "chunk_ids": [
+      "chunk-130264f031a5f67121c20eb9f791ffb6"
+    ],
+    "count": 1,
+    "create_time": 1775523287,
+    "update_time": 1775523287,
+    "_id": "PET 스캐너검출시스템<SEP>동시계수회로"
+  },
+  "Pet<SEP>Ter-Pogossian": {
+    "chunk_ids": [
+      "chunk-5c780a124da5a0a162247f1f1afa55b8"
+    ],
+    "count": 1,
+    "create_time": 1775523287,
+    "update_time": 1775523287,
+    "_id": "Pet<SEP>Ter-Pogossian"
+  },
+  "(A)<SEP>166Ho-Chitosan": {
+    "chunk_ids": [
+      "chunk-5c780a124da5a0a162247f1f1afa55b8"
+    ],
+    "count": 1,
+    "create_time": 1775523288,
+    "update_time": 1775523288,
+    "_id": "(A)<SEP>166Ho-Chitosan"
+  },
+  "Camera Detector<SEP>Spect": {
+    "chunk_ids": [
+      "chunk-5c780a124da5a0a162247f1f1afa55b8"
+    ],
+    "count": 1,
+    "create_time": 1775523288,
+    "update_time": 1775523288,
+    "_id": "Camera Detector<SEP>Spect"
+  },
+  "Disease<SEP>Pet": {
+    "chunk_ids": [
+      "chunk-5c780a124da5a0a162247f1f1afa55b8"
+    ],
+    "count": 1,
+    "create_time": 1775523288,
+    "update_time": 1775523288,
+    "_id": "Disease<SEP>Pet"
+  },
+  "Ring Artifact<SEP>Spect": {
+    "chunk_ids": [
+      "chunk-a8d83cceadb557de5590c9a00dcc986e"
+    ],
+    "count": 1,
+    "create_time": 1775523288,
+    "update_time": 1775523288,
+    "_id": "Ring Artifact<SEP>Spect"
+  },
+  "Attenuation<SEP>Pet": {
+    "chunk_ids": [
+      "chunk-5c780a124da5a0a162247f1f1afa55b8"
+    ],
+    "count": 1,
+    "create_time": 1775523288,
+    "update_time": 1775523288,
+    "_id": "Attenuation<SEP>Pet"
+  },
+  "Image Performance Phantom<SEP>Spect System Performance Test": {
+    "chunk_ids": [
+      "chunk-a8d83cceadb557de5590c9a00dcc986e"
+    ],
+    "count": 1,
+    "create_time": 1775523288,
+    "update_time": 1775523288,
+    "_id": "Image Performance Phantom<SEP>Spect System Performance Test"
+  },
+  "Cor<SEP>Spect": {
+    "chunk_ids": [
+      "chunk-a8d83cceadb557de5590c9a00dcc986e"
+    ],
+    "count": 1,
+    "create_time": 1775523289,
+    "update_time": 1775523289,
+    "_id": "Cor<SEP>Spect"
+  },
+  "Collimator<SEP>Pet": {
+    "chunk_ids": [
+      "chunk-5c780a124da5a0a162247f1f1afa55b8"
+    ],
+    "count": 1,
+    "create_time": 1775523289,
+    "update_time": 1775523289,
+    "_id": "Collimator<SEP>Pet"
+  },
+  "Spect Phantom<SEP>Spect System Performance Test": {
+    "chunk_ids": [
+      "chunk-a8d83cceadb557de5590c9a00dcc986e"
+    ],
+    "count": 1,
+    "create_time": 1775523289,
+    "update_time": 1775523289,
+    "_id": "Spect Phantom<SEP>Spect System Performance Test"
+  },
+  "Carbon(C)<SEP>Pet": {
+    "chunk_ids": [
+      "chunk-5c780a124da5a0a162247f1f1afa55b8"
+    ],
+    "count": 1,
+    "create_time": 1775523289,
+    "update_time": 1775523289,
+    "_id": "Carbon(C)<SEP>Pet"
+  },
+  "Pixel Size Measurement<SEP>Spect": {
+    "chunk_ids": [
+      "chunk-a8d83cceadb557de5590c9a00dcc986e"
+    ],
+    "count": 1,
+    "create_time": 1775523289,
+    "update_time": 1775523289,
+    "_id": "Pixel Size Measurement<SEP>Spect"
+  },
+  "Hoffman Phantom<SEP>Spect System Performance Test": {
+    "chunk_ids": [
+      "chunk-a8d83cceadb557de5590c9a00dcc986e"
+    ],
+    "count": 1,
+    "create_time": 1775523289,
+    "update_time": 1775523289,
+    "_id": "Hoffman Phantom<SEP>Spect System Performance Test"
+  },
+  "Planar Image<SEP>Radiopharmaceutical": {
+    "chunk_ids": [
+      "chunk-a8d83cceadb557de5590c9a00dcc986e"
+    ],
+    "count": 1,
+    "create_time": 1775523289,
+    "update_time": 1775523289,
+    "_id": "Planar Image<SEP>Radiopharmaceutical"
+  },
+  "Iaea<SEP>Spect System Performance Test": {
+    "chunk_ids": [
+      "chunk-a8d83cceadb557de5590c9a00dcc986e"
+    ],
+    "count": 1,
+    "create_time": 1775523290,
+    "update_time": 1775523290,
+    "_id": "Iaea<SEP>Spect System Performance Test"
+  },
+  "Location Linearity<SEP>Spect": {
+    "chunk_ids": [
+      "chunk-a8d83cceadb557de5590c9a00dcc986e"
+    ],
+    "count": 1,
+    "create_time": 1775523290,
+    "update_time": 1775523290,
+    "_id": "Location Linearity<SEP>Spect"
+  },
+  "Gain<SEP>Pixel Size Measurement": {
+    "chunk_ids": [
+      "chunk-a8d83cceadb557de5590c9a00dcc986e"
+    ],
+    "count": 1,
+    "create_time": 1775523290,
+    "update_time": 1775523290,
+    "_id": "Gain<SEP>Pixel Size Measurement"
+  },
+  "LPO<SEP>심근SPECT": {
+    "chunk_ids": [
+      "chunk-b90292f9431fa43f118e063f626e7413"
+    ],
+    "count": 1,
+    "create_time": 1775523290,
+    "update_time": 1775523290,
+    "_id": "LPO<SEP>심근SPECT"
+  },
+  "고분해능Collimator<SEP>저E 콜리메이터": {
+    "chunk_ids": [
+      "chunk-b90292f9431fa43f118e063f626e7413"
+    ],
+    "count": 1,
+    "create_time": 1775523290,
+    "update_time": 1775523290,
+    "_id": "고분해능Collimator<SEP>저E 콜리메이터"
+  },
+  "RAO<SEP>심근SPECT": {
+    "chunk_ids": [
+      "chunk-b90292f9431fa43f118e063f626e7413"
+    ],
+    "count": 1,
+    "create_time": 1775523290,
+    "update_time": 1775523290,
+    "_id": "RAO<SEP>심근SPECT"
+  },
+  "Filtered Back Projection<SEP>Star Artifact": {
+    "chunk_ids": [
+      "chunk-b90292f9431fa43f118e063f626e7413"
+    ],
+    "count": 1,
+    "create_time": 1775523290,
+    "update_time": 1775523290,
+    "_id": "Filtered Back Projection<SEP>Star Artifact"
+  },
+  "Ct<SEP>Spect": {
+    "chunk_ids": [
+      "chunk-a8d83cceadb557de5590c9a00dcc986e"
+    ],
+    "count": 1,
+    "create_time": 1775523290,
+    "update_time": 1775523290,
+    "_id": "Ct<SEP>Spect"
+  },
+  "Artifact<SEP>균일성검사": {
+    "chunk_ids": [
+      "chunk-b90292f9431fa43f118e063f626e7413"
+    ],
+    "count": 1,
+    "create_time": 1775523290,
+    "update_time": 1775523290,
+    "_id": "Artifact<SEP>균일성검사"
+  },
+  "360°<SEP>SPECT": {
+    "chunk_ids": [
+      "chunk-b90292f9431fa43f118e063f626e7413"
+    ],
+    "count": 1,
+    "create_time": 1775523291,
+    "update_time": 1775523291,
+    "_id": "360°<SEP>SPECT"
+  },
+  "Mri<SEP>Spect": {
+    "chunk_ids": [
+      "chunk-a8d83cceadb557de5590c9a00dcc986e"
+    ],
+    "count": 1,
+    "create_time": 1775523291,
+    "update_time": 1775523291,
+    "_id": "Mri<SEP>Spect"
+  },
+  "Ring Artifact<SEP>균일성검사": {
+    "chunk_ids": [
+      "chunk-b90292f9431fa43f118e063f626e7413"
+    ],
+    "count": 1,
+    "create_time": 1775523291,
+    "update_time": 1775523291,
+    "_id": "Ring Artifact<SEP>균일성검사"
+  },
+  "166Ho-Chitosan<SEP>Spect": {
+    "chunk_ids": [
+      "chunk-a8d83cceadb557de5590c9a00dcc986e"
+    ],
+    "count": 1,
+    "create_time": 1775523291,
+    "update_time": 1775523291,
+    "_id": "166Ho-Chitosan<SEP>Spect"
+  },
+  "BGO<SEP>NaI(Tl)": {
+    "chunk_ids": [
+      "chunk-50349fd89c39a44e7081da426038f848"
+    ],
+    "count": 1,
+    "create_time": 1775523314,
+    "update_time": 1775523314,
+    "_id": "BGO<SEP>NaI(Tl)"
+  },
+  "GEMINI TF (PHILIPS)<SEP>GSO": {
+    "chunk_ids": [
+      "chunk-50349fd89c39a44e7081da426038f848"
+    ],
+    "count": 1,
+    "create_time": 1775523314,
+    "update_time": 1775523314,
+    "_id": "GEMINI TF (PHILIPS)<SEP>GSO"
+  },
+  "2D Scan Mode<SEP>3D Scan Mode": {
+    "chunk_ids": [
+      "chunk-50349fd89c39a44e7081da426038f848"
+    ],
+    "count": 1,
+    "create_time": 1775523315,
+    "update_time": 1775523315,
+    "_id": "2D Scan Mode<SEP>3D Scan Mode"
+  },
+  "LSO<SEP>NaI(Tl)": {
+    "chunk_ids": [
+      "chunk-50349fd89c39a44e7081da426038f848"
+    ],
+    "count": 1,
+    "create_time": 1775523315,
+    "update_time": 1775523315,
+    "_id": "LSO<SEP>NaI(Tl)"
+  },
+  "BGO<SEP>Discovery STE (GE Healthcare)": {
+    "chunk_ids": [
+      "chunk-50349fd89c39a44e7081da426038f848"
+    ],
+    "count": 1,
+    "create_time": 1775523315,
+    "update_time": 1775523315,
+    "_id": "BGO<SEP>Discovery STE (GE Healthcare)"
+  },
+  "Blank Data<SEP>감도보정": {
+    "chunk_ids": [
+      "chunk-50349fd89c39a44e7081da426038f848"
+    ],
+    "count": 1,
+    "create_time": 1775523315,
+    "update_time": 1775523315,
+    "_id": "Blank Data<SEP>감도보정"
+  },
+  "Transmission Data<SEP>흡수보정": {
+    "chunk_ids": [
+      "chunk-50349fd89c39a44e7081da426038f848"
+    ],
+    "count": 1,
+    "create_time": 1775523315,
+    "update_time": 1775523315,
+    "_id": "Transmission Data<SEP>흡수보정"
+  },
+  "감마선<SEP>섬광검출기": {
+    "chunk_ids": [
+      "chunk-50349fd89c39a44e7081da426038f848"
+    ],
+    "count": 1,
+    "create_time": 1775523315,
+    "update_time": 1775523315,
+    "_id": "감마선<SEP>섬광검출기"
+  },
+  "NaI(Tl)<SEP>YSO": {
+    "chunk_ids": [
+      "chunk-50349fd89c39a44e7081da426038f848"
+    ],
+    "count": 1,
+    "create_time": 1775523315,
+    "update_time": 1775523315,
+    "_id": "NaI(Tl)<SEP>YSO"
+  },
+  "2D Scan Mode<SEP>납판 (Slice Septa)": {
+    "chunk_ids": [
+      "chunk-50349fd89c39a44e7081da426038f848"
+    ],
+    "count": 1,
+    "create_time": 1775523315,
+    "update_time": 1775523315,
+    "_id": "2D Scan Mode<SEP>납판 (Slice Septa)"
+  },
+  "PET<SEP>소멸방사선": {
+    "chunk_ids": [
+      "chunk-04bcfb8da445fd49f5c837b6179c61bb"
+    ],
+    "count": 1,
+    "create_time": 1775523316,
+    "update_time": 1775523316,
+    "_id": "PET<SEP>소멸방사선"
+  },
+  "동시계수회로<SEP>시간신호": {
+    "chunk_ids": [
+      "chunk-04bcfb8da445fd49f5c837b6179c61bb"
+    ],
+    "count": 1,
+    "create_time": 1775523316,
+    "update_time": 1775523316,
+    "_id": "동시계수회로<SEP>시간신호"
+  },
+  "LSO<SEP>YSO": {
+    "chunk_ids": [
+      "chunk-50349fd89c39a44e7081da426038f848"
+    ],
+    "count": 1,
+    "create_time": 1775523316,
+    "update_time": 1775523316,
+    "_id": "LSO<SEP>YSO"
+  },
+  "Pet Scan 기기<SEP>Ring Type Detector": {
+    "chunk_ids": [
+      "chunk-04bcfb8da445fd49f5c837b6179c61bb"
+    ],
+    "count": 1,
+    "create_time": 1775523316,
+    "update_time": 1775523316,
+    "_id": "Pet Scan 기기<SEP>Ring Type Detector"
+  },
+  "Brain Scan<SEP>PET Scanner": {
+    "chunk_ids": [
+      "chunk-04bcfb8da445fd49f5c837b6179c61bb"
+    ],
+    "count": 1,
+    "create_time": 1775523316,
+    "update_time": 1775523316,
+    "_id": "Brain Scan<SEP>PET Scanner"
+  },
+  "NaI(Tl)<SEP>형광물질": {
+    "chunk_ids": [
+      "chunk-04bcfb8da445fd49f5c837b6179c61bb"
+    ],
+    "count": 1,
+    "create_time": 1775523316,
+    "update_time": 1775523316,
+    "_id": "NaI(Tl)<SEP>형광물질"
+  },
+  "Biograph Turepoint 40 (SIEMENS)<SEP>LSO": {
+    "chunk_ids": [
+      "chunk-50349fd89c39a44e7081da426038f848"
+    ],
+    "count": 1,
+    "create_time": 1775523316,
+    "update_time": 1775523316,
+    "_id": "Biograph Turepoint 40 (SIEMENS)<SEP>LSO"
+  },
+  "BGO<SEP>Biograph Turepoint 40 (SIEMENS)": {
+    "chunk_ids": [
+      "chunk-50349fd89c39a44e7081da426038f848"
+    ],
+    "count": 1,
+    "create_time": 1775523317,
+    "update_time": 1775523317,
+    "_id": "BGO<SEP>Biograph Turepoint 40 (SIEMENS)"
+  },
+  "BaF<SEP>형광물질": {
+    "chunk_ids": [
+      "chunk-04bcfb8da445fd49f5c837b6179c61bb"
+    ],
+    "count": 1,
+    "create_time": 1775523317,
+    "update_time": 1775523317,
+    "_id": "BaF<SEP>형광물질"
+  },
+  "PET<SEP>역투영법": {
+    "chunk_ids": [
+      "chunk-04bcfb8da445fd49f5c837b6179c61bb"
+    ],
+    "count": 1,
+    "create_time": 1775523317,
+    "update_time": 1775523317,
+    "_id": "PET<SEP>역투영법"
+  },
+  "BGO<SEP>소멸방사선": {
+    "chunk_ids": [
+      "chunk-50349fd89c39a44e7081da426038f848"
+    ],
+    "count": 1,
+    "create_time": 1775523317,
+    "update_time": 1775523317,
+    "_id": "BGO<SEP>소멸방사선"
+  },
+  "GSO<SEP>형광물질": {
+    "chunk_ids": [
+      "chunk-04bcfb8da445fd49f5c837b6179c61bb"
+    ],
+    "count": 1,
+    "create_time": 1775523318,
+    "update_time": 1775523318,
+    "_id": "GSO<SEP>형광물질"
+  },
+  "PET<SEP>반복재구성법": {
+    "chunk_ids": [
+      "chunk-04bcfb8da445fd49f5c837b6179c61bb"
+    ],
+    "count": 1,
+    "create_time": 1775523318,
+    "update_time": 1775523318,
+    "_id": "PET<SEP>반복재구성법"
+  },
+  "PM Tube<SEP>Scintillator": {
+    "chunk_ids": [
+      "chunk-04bcfb8da445fd49f5c837b6179c61bb"
+    ],
+    "count": 1,
+    "create_time": 1775523318,
+    "update_time": 1775523318,
+    "_id": "PM Tube<SEP>Scintillator"
+  },
+  "BGO(Bismuth Germanate Oxide)<SEP>PET용검출소자": {
+    "chunk_ids": [
+      "chunk-04bcfb8da445fd49f5c837b6179c61bb"
+    ],
+    "count": 1,
+    "create_time": 1775523318,
+    "update_time": 1775523318,
+    "_id": "BGO(Bismuth Germanate Oxide)<SEP>PET용검출소자"
+  },
+  "LSO<SEP>형광물질": {
+    "chunk_ids": [
+      "chunk-04bcfb8da445fd49f5c837b6179c61bb"
+    ],
+    "count": 1,
+    "create_time": 1775523318,
+    "update_time": 1775523318,
+    "_id": "LSO<SEP>형광물질"
+  },
+  "BaF(Barium Fluoride)<SEP>PET용검출소자": {
+    "chunk_ids": [
+      "chunk-04bcfb8da445fd49f5c837b6179c61bb"
+    ],
+    "count": 1,
+    "create_time": 1775523318,
+    "update_time": 1775523318,
+    "_id": "BaF(Barium Fluoride)<SEP>PET용검출소자"
+  },
+  "PET<SEP>Time-Of Flight": {
+    "chunk_ids": [
+      "chunk-04bcfb8da445fd49f5c837b6179c61bb"
+    ],
+    "count": 1,
+    "create_time": 1775523319,
+    "update_time": 1775523319,
+    "_id": "PET<SEP>Time-Of Flight"
+  },
+  "LSO (Cerium-Doped Lutetium Oxyorthosilicate)<SEP>γ선검출용섬광체": {
+    "chunk_ids": [
+      "chunk-04bcfb8da445fd49f5c837b6179c61bb"
+    ],
+    "count": 1,
+    "create_time": 1775523319,
+    "update_time": 1775523319,
+    "_id": "LSO (Cerium-Doped Lutetium Oxyorthosilicate)<SEP>γ선검출용섬광체"
+  },
+  "YSO<SEP>형광물질": {
+    "chunk_ids": [
+      "chunk-04bcfb8da445fd49f5c837b6179c61bb"
+    ],
+    "count": 1,
+    "create_time": 1775523319,
+    "update_time": 1775523319,
+    "_id": "YSO<SEP>형광물질"
+  },
+  "GSO(Gadolinium Silicate Oxide)<SEP>PET용검출소자": {
+    "chunk_ids": [
+      "chunk-04bcfb8da445fd49f5c837b6179c61bb"
+    ],
+    "count": 1,
+    "create_time": 1775523319,
+    "update_time": 1775523319,
+    "_id": "GSO(Gadolinium Silicate Oxide)<SEP>PET용검출소자"
+  },
+  "Detector<SEP>PET Scanner": {
+    "chunk_ids": [
+      "chunk-04bcfb8da445fd49f5c837b6179c61bb"
+    ],
+    "count": 1,
+    "create_time": 1775523319,
+    "update_time": 1775523319,
+    "_id": "Detector<SEP>PET Scanner"
+  },
+  "BGO<SEP>형광물질": {
+    "chunk_ids": [
+      "chunk-04bcfb8da445fd49f5c837b6179c61bb"
+    ],
+    "count": 1,
+    "create_time": 1775523319,
+    "update_time": 1775523319,
+    "_id": "BGO<SEP>형광물질"
+  },
+  "18F-FDG<SEP>당대사": {
+    "chunk_ids": [
+      "chunk-40baa4661c23d2fbeffe4480b2d4ce8e"
+    ],
+    "count": 1,
+    "create_time": 1775523319,
+    "update_time": 1775523319,
+    "_id": "18F-FDG<SEP>당대사"
+  },
+  "11C-Methionine<SEP>아미노산대사": {
+    "chunk_ids": [
+      "chunk-40baa4661c23d2fbeffe4480b2d4ce8e"
+    ],
+    "count": 1,
+    "create_time": 1775523320,
+    "update_time": 1775523320,
+    "_id": "11C-Methionine<SEP>아미노산대사"
+  },
+  "YSO (Yttrium Oxyorthosilicate)<SEP>γ선검출용섬광체": {
+    "chunk_ids": [
+      "chunk-04bcfb8da445fd49f5c837b6179c61bb"
+    ],
+    "count": 1,
+    "create_time": 1775523320,
+    "update_time": 1775523320,
+    "_id": "YSO (Yttrium Oxyorthosilicate)<SEP>γ선검출용섬광체"
+  },
+  "11C-Spiroperidol<SEP>도파민수용체": {
+    "chunk_ids": [
+      "chunk-40baa4661c23d2fbeffe4480b2d4ce8e"
+    ],
+    "count": 1,
+    "create_time": 1775523320,
+    "update_time": 1775523320,
+    "_id": "11C-Spiroperidol<SEP>도파민수용체"
+  },
+  "11C-Carfentanil<SEP>아편수용체": {
+    "chunk_ids": [
+      "chunk-40baa4661c23d2fbeffe4480b2d4ce8e"
+    ],
+    "count": 1,
+    "create_time": 1775523320,
+    "update_time": 1775523320,
+    "_id": "11C-Carfentanil<SEP>아편수용체"
+  },
+  "11C-Palmitic Acid<SEP>지방산대사": {
+    "chunk_ids": [
+      "chunk-40baa4661c23d2fbeffe4480b2d4ce8e"
+    ],
+    "count": 1,
+    "create_time": 1775523320,
+    "update_time": 1775523320,
+    "_id": "11C-Palmitic Acid<SEP>지방산대사"
+  },
+  "CdTe (Cadmium Telluride)<SEP>γ선검출용섬광체": {
+    "chunk_ids": [
+      "chunk-04bcfb8da445fd49f5c837b6179c61bb"
+    ],
+    "count": 1,
+    "create_time": 1775523320,
+    "update_time": 1775523320,
+    "_id": "CdTe (Cadmium Telluride)<SEP>γ선검출용섬광체"
+  },
+  "13NH3<SEP>혈류": {
+    "chunk_ids": [
+      "chunk-40baa4661c23d2fbeffe4480b2d4ce8e"
+    ],
+    "count": 1,
+    "create_time": 1775523320,
+    "update_time": 1775523320,
+    "_id": "13NH3<SEP>혈류"
+  },
+  "C15O2<SEP>혈액체적": {
+    "chunk_ids": [
+      "chunk-40baa4661c23d2fbeffe4480b2d4ce8e"
+    ],
+    "count": 1,
+    "create_time": 1775523321,
+    "update_time": 1775523321,
+    "_id": "C15O2<SEP>혈액체적"
+  },
+  "CZT (Cadmium Zinc Telluride)<SEP>γ선검출용섬광체": {
+    "chunk_ids": [
+      "chunk-04bcfb8da445fd49f5c837b6179c61bb"
+    ],
+    "count": 1,
+    "create_time": 1775523321,
+    "update_time": 1775523321,
+    "_id": "CZT (Cadmium Zinc Telluride)<SEP>γ선검출용섬광체"
+  },
+  "15O2<SEP>산소대사": {
+    "chunk_ids": [
+      "chunk-40baa4661c23d2fbeffe4480b2d4ce8e"
+    ],
+    "count": 1,
+    "create_time": 1775523321,
+    "update_time": 1775523321,
+    "_id": "15O2<SEP>산소대사"
+  },
+  "Brain<SEP>Regional Cerebral Blood Flow": {
+    "chunk_ids": [
+      "chunk-40baa4661c23d2fbeffe4480b2d4ce8e"
+    ],
+    "count": 1,
+    "create_time": 1775523321,
+    "update_time": 1775523321,
+    "_id": "Brain<SEP>Regional Cerebral Blood Flow"
+  },
+  "H215O<SEP>혈류": {
+    "chunk_ids": [
+      "chunk-40baa4661c23d2fbeffe4480b2d4ce8e"
+    ],
+    "count": 1,
+    "create_time": 1775523321,
+    "update_time": 1775523321,
+    "_id": "H215O<SEP>혈류"
+  },
+  "Brain<SEP>Regional Cerebral Metabolic Rate For Oxygen": {
+    "chunk_ids": [
+      "chunk-40baa4661c23d2fbeffe4480b2d4ce8e"
+    ],
+    "count": 1,
+    "create_time": 1775523322,
+    "update_time": 1775523322,
+    "_id": "Brain<SEP>Regional Cerebral Metabolic Rate For Oxygen"
+  },
+  "C15O<SEP>혈액체적": {
+    "chunk_ids": [
+      "chunk-40baa4661c23d2fbeffe4480b2d4ce8e"
+    ],
+    "count": 1,
+    "create_time": 1775523322,
+    "update_time": 1775523322,
+    "_id": "C15O<SEP>혈액체적"
+  },
+  "Brain<SEP>Regional Cerebral Metabolic Rate For Glucose": {
+    "chunk_ids": [
+      "chunk-40baa4661c23d2fbeffe4480b2d4ce8e"
+    ],
+    "count": 1,
+    "create_time": 1775523322,
+    "update_time": 1775523322,
+    "_id": "Brain<SEP>Regional Cerebral Metabolic Rate For Glucose"
+  },
+  "Brain<SEP>간질": {
+    "chunk_ids": [
+      "chunk-40baa4661c23d2fbeffe4480b2d4ce8e"
+    ],
+    "count": 1,
+    "create_time": 1775523322,
+    "update_time": 1775523322,
+    "_id": "Brain<SEP>간질"
+  },
+  "Heart<SEP>관상동맥질환": {
+    "chunk_ids": [
+      "chunk-40baa4661c23d2fbeffe4480b2d4ce8e"
+    ],
+    "count": 1,
+    "create_time": 1775523322,
+    "update_time": 1775523322,
+    "_id": "Heart<SEP>관상동맥질환"
+  },
+  "Brain<SEP>Brain Tumor": {
+    "chunk_ids": [
+      "chunk-40baa4661c23d2fbeffe4480b2d4ce8e"
+    ],
+    "count": 1,
+    "create_time": 1775523323,
+    "update_time": 1775523323,
+    "_id": "Brain<SEP>Brain Tumor"
+  },
+  "Heart<SEP>심근증": {
+    "chunk_ids": [
+      "chunk-40baa4661c23d2fbeffe4480b2d4ce8e"
+    ],
+    "count": 1,
+    "create_time": 1775523323,
+    "update_time": 1775523323,
+    "_id": "Heart<SEP>심근증"
+  },
+  "Ct 영상<SEP>Transmission Data": {
+    "chunk_ids": [
+      "chunk-0782c64fcf3afb545cd9c3f803922e58"
+    ],
+    "count": 1,
+    "create_time": 1775523323,
+    "update_time": 1775523323,
+    "_id": "Ct 영상<SEP>Transmission Data"
+  },
+  "Brain<SEP>허혈성뇌혈관질환": {
+    "chunk_ids": [
+      "chunk-40baa4661c23d2fbeffe4480b2d4ce8e"
+    ],
+    "count": 1,
+    "create_time": 1775523323,
+    "update_time": 1775523323,
+    "_id": "Brain<SEP>허혈성뇌혈관질환"
+  },
+  "Pet/Ct<SEP>Transmission Data": {
+    "chunk_ids": [
+      "chunk-0782c64fcf3afb545cd9c3f803922e58"
+    ],
+    "count": 1,
+    "create_time": 1775523323,
+    "update_time": 1775523323,
+    "_id": "Pet/Ct<SEP>Transmission Data"
+  },
+  "Emission Data<SEP>방사능감약보정": {
+    "chunk_ids": [
+      "chunk-0782c64fcf3afb545cd9c3f803922e58"
+    ],
+    "count": 1,
+    "create_time": 1775523323,
+    "update_time": 1775523323,
+    "_id": "Emission Data<SEP>방사능감약보정"
+  },
+  "Attenuation Correction<SEP>Ctac": {
+    "chunk_ids": [
+      "chunk-0782c64fcf3afb545cd9c3f803922e58"
+    ],
+    "count": 1,
+    "create_time": 1775523324,
+    "update_time": 1775523324,
+    "_id": "Attenuation Correction<SEP>Ctac"
+  },
+  "Brain<SEP>치매": {
+    "chunk_ids": [
+      "chunk-40baa4661c23d2fbeffe4480b2d4ce8e"
+    ],
+    "count": 1,
+    "create_time": 1775523324,
+    "update_time": 1775523324,
+    "_id": "Brain<SEP>치매"
+  },
+  "Random Coincidence<SEP>Scatter Coincidence": {
+    "chunk_ids": [
+      "chunk-0782c64fcf3afb545cd9c3f803922e58"
+    ],
+    "count": 1,
+    "create_time": 1775523324,
+    "update_time": 1775523324,
+    "_id": "Random Coincidence<SEP>Scatter Coincidence"
+  },
+  "Iterative Reconstruction<SEP>Osem": {
+    "chunk_ids": [
+      "chunk-0782c64fcf3afb545cd9c3f803922e58"
+    ],
+    "count": 1,
+    "create_time": 1775523324,
+    "update_time": 1775523324,
+    "_id": "Iterative Reconstruction<SEP>Osem"
+  },
+  "교정용 Ring 선원<SEP>피사체": {
+    "chunk_ids": [
+      "chunk-0782c64fcf3afb545cd9c3f803922e58"
+    ],
+    "count": 1,
+    "create_time": 1775523324,
+    "update_time": 1775523324,
+    "_id": "교정용 Ring 선원<SEP>피사체"
+  },
+  "Brain<SEP>정신과적질환": {
+    "chunk_ids": [
+      "chunk-40baa4661c23d2fbeffe4480b2d4ce8e"
+    ],
+    "count": 1,
+    "create_time": 1775523324,
+    "update_time": 1775523324,
+    "_id": "Brain<SEP>정신과적질환"
+  },
+  "Fbp<SEP>Iterative Reconstruction": {
+    "chunk_ids": [
+      "chunk-0782c64fcf3afb545cd9c3f803922e58"
+    ],
+    "count": 1,
+    "create_time": 1775523324,
+    "update_time": 1775523324,
+    "_id": "Fbp<SEP>Iterative Reconstruction"
+  },
+  "Scatter Coincidence<SEP>양전자소멸": {
+    "chunk_ids": [
+      "chunk-0782c64fcf3afb545cd9c3f803922e58"
+    ],
+    "count": 1,
+    "create_time": 1775523324,
+    "update_time": 1775523324,
+    "_id": "Scatter Coincidence<SEP>양전자소멸"
+  },
+  "Brain<SEP>Head Injury": {
+    "chunk_ids": [
+      "chunk-40baa4661c23d2fbeffe4480b2d4ce8e"
+    ],
+    "count": 1,
+    "create_time": 1775523325,
+    "update_time": 1775523325,
+    "_id": "Brain<SEP>Head Injury"
+  },
+  "Medical Cyclotron<SEP>방사성핵종": {
+    "chunk_ids": [
+      "chunk-0782c64fcf3afb545cd9c3f803922e58"
+    ],
+    "count": 1,
+    "create_time": 1775523325,
+    "update_time": 1775523325,
+    "_id": "Medical Cyclotron<SEP>방사성핵종"
+  },
+  "PET<SEP>간질환자": {
+    "chunk_ids": [
+      "chunk-0782c64fcf3afb545cd9c3f803922e58"
+    ],
+    "count": 1,
+    "create_time": 1775523325,
+    "update_time": 1775523325,
+    "_id": "PET<SEP>간질환자"
+  },
+  "방사성의약품<SEP>피사체": {
+    "chunk_ids": [
+      "chunk-0782c64fcf3afb545cd9c3f803922e58"
+    ],
+    "count": 1,
+    "create_time": 1775523325,
+    "update_time": 1775523325,
+    "_id": "방사성의약품<SEP>피사체"
+  },
+  "Brain<SEP>탈수질질환": {
+    "chunk_ids": [
+      "chunk-40baa4661c23d2fbeffe4480b2d4ce8e"
+    ],
+    "count": 1,
+    "create_time": 1775523326,
+    "update_time": 1775523326,
+    "_id": "Brain<SEP>탈수질질환"
+  },
+  "PET<SEP>퇴행성질환": {
+    "chunk_ids": [
+      "chunk-0782c64fcf3afb545cd9c3f803922e58"
+    ],
+    "count": 1,
+    "create_time": 1775523326,
+    "update_time": 1775523326,
+    "_id": "PET<SEP>퇴행성질환"
+  },
+  "Brain<SEP>Heart": {
+    "chunk_ids": [
+      "chunk-0782c64fcf3afb545cd9c3f803922e58"
+    ],
+    "count": 1,
+    "create_time": 1775523326,
+    "update_time": 1775523326,
+    "_id": "Brain<SEP>Heart"
+  },
+  "Scinti-Camera<SEP>Spatial Resolution": {
+    "chunk_ids": [
+      "chunk-7388f7ee8e7e66b19833edd200caba00",
+      "chunk-34f62ef495ef155167a515f56fca8173"
+    ],
+    "count": 2,
+    "create_time": 1775523350,
+    "update_time": 1775523350,
+    "_id": "Scinti-Camera<SEP>Spatial Resolution"
+  },
+  "Device Resolution (Ri)<SEP>System Spatial Resolution (Rs)": {
+    "chunk_ids": [
+      "chunk-7388f7ee8e7e66b19833edd200caba00"
+    ],
+    "count": 1,
+    "create_time": 1775523350,
+    "update_time": 1775523350,
+    "_id": "Device Resolution (Ri)<SEP>System Spatial Resolution (Rs)"
+  },
+  "Energy Resolution<SEP>광절정": {
+    "chunk_ids": [
+      "chunk-7388f7ee8e7e66b19833edd200caba00"
+    ],
+    "count": 1,
+    "create_time": 1775523350,
+    "update_time": 1775523350,
+    "_id": "Energy Resolution<SEP>광절정"
+  },
+  "Collimator Resolution (Rc)<SEP>System Spatial Resolution (Rs)": {
+    "chunk_ids": [
+      "chunk-7388f7ee8e7e66b19833edd200caba00"
+    ],
+    "count": 1,
+    "create_time": 1775523351,
+    "update_time": 1775523351,
+    "_id": "Collimator Resolution (Rc)<SEP>System Spatial Resolution (Rs)"
+  },
+  "CT<SEP>암 (Cancer)": {
+    "chunk_ids": [
+      "chunk-eb74ec9701cca8844ee19c555b60135b"
+    ],
+    "count": 1,
+    "create_time": 1775523351,
+    "update_time": 1775523351,
+    "_id": "CT<SEP>암 (Cancer)"
+  },
+  "PET<SEP>암 (Cancer)": {
+    "chunk_ids": [
+      "chunk-eb74ec9701cca8844ee19c555b60135b"
+    ],
+    "count": 1,
+    "create_time": 1775523351,
+    "update_time": 1775523351,
+    "_id": "PET<SEP>암 (Cancer)"
+  },
+  "FWHM<SEP>Spatial Resolution": {
+    "chunk_ids": [
+      "chunk-7388f7ee8e7e66b19833edd200caba00",
+      "chunk-34f62ef495ef155167a515f56fca8173"
+    ],
+    "count": 2,
+    "create_time": 1775523351,
+    "update_time": 1775523351,
+    "_id": "FWHM<SEP>Spatial Resolution"
+  },
+  "Intrinsic Resolution<SEP>Scinti-Camera": {
+    "chunk_ids": [
+      "chunk-7388f7ee8e7e66b19833edd200caba00"
+    ],
+    "count": 1,
+    "create_time": 1775523351,
+    "update_time": 1775523351,
+    "_id": "Intrinsic Resolution<SEP>Scinti-Camera"
+  },
+  "CT<SEP>Fusion PET (PET/CT Imaging)": {
+    "chunk_ids": [
+      "chunk-eb74ec9701cca8844ee19c555b60135b"
+    ],
+    "count": 1,
+    "create_time": 1775523351,
+    "update_time": 1775523351,
+    "_id": "CT<SEP>Fusion PET (PET/CT Imaging)"
+  },
+  "PET/CT<SEP>암 (Cancer)": {
+    "chunk_ids": [
+      "chunk-eb74ec9701cca8844ee19c555b60135b"
+    ],
+    "count": 1,
+    "create_time": 1775523352,
+    "update_time": 1775523352,
+    "_id": "PET/CT<SEP>암 (Cancer)"
+  },
+  "IAEA (International Atomic Energy Agency)<SEP>핵의학진단 (Nuclear Medicine Diagnosis)": {
+    "chunk_ids": [
+      "chunk-eb74ec9701cca8844ee19c555b60135b"
+    ],
+    "count": 1,
+    "create_time": 1775523352,
+    "update_time": 1775523352,
+    "_id": "IAEA (International Atomic Energy Agency)<SEP>핵의학진단 (Nuclear Medicine Diagnosis)"
+  },
+  "Bar Phantom<SEP>Spatial Resolution": {
+    "chunk_ids": [
+      "chunk-7388f7ee8e7e66b19833edd200caba00",
+      "chunk-34f62ef495ef155167a515f56fca8173"
+    ],
+    "count": 2,
+    "create_time": 1775523352,
+    "update_time": 1775523352,
+    "_id": "Bar Phantom<SEP>Spatial Resolution"
+  },
+  "PET/CT<SEP>폐암 (Lung Cancer)": {
+    "chunk_ids": [
+      "chunk-eb74ec9701cca8844ee19c555b60135b"
+    ],
+    "count": 1,
+    "create_time": 1775523352,
+    "update_time": 1775523352,
+    "_id": "PET/CT<SEP>폐암 (Lung Cancer)"
+  },
+  "Hole Phantom<SEP>Spatial Resolution": {
+    "chunk_ids": [
+      "chunk-7388f7ee8e7e66b19833edd200caba00",
+      "chunk-34f62ef495ef155167a515f56fca8173"
+    ],
+    "count": 2,
+    "create_time": 1775523352,
+    "update_time": 1775523352,
+    "_id": "Hole Phantom<SEP>Spatial Resolution"
+  },
+  "PET/CT<SEP>유방암 (Breast Cancer)": {
+    "chunk_ids": [
+      "chunk-eb74ec9701cca8844ee19c555b60135b"
+    ],
+    "count": 1,
+    "create_time": 1775523353,
+    "update_time": 1775523353,
+    "_id": "PET/CT<SEP>유방암 (Breast Cancer)"
+  },
+  "Spatial Resolution<SEP>응답함수": {
+    "chunk_ids": [
+      "chunk-7388f7ee8e7e66b19833edd200caba00"
+    ],
+    "count": 1,
+    "create_time": 1775523353,
+    "update_time": 1775523353,
+    "_id": "Spatial Resolution<SEP>응답함수"
+  },
+  "NEMA (National Electrical Manufacturers Association)<SEP>핵의학진단 (Nuclear Medicine Diagnosis)": {
+    "chunk_ids": [
+      "chunk-eb74ec9701cca8844ee19c555b60135b"
+    ],
+    "count": 1,
+    "create_time": 1775523353,
+    "update_time": 1775523353,
+    "_id": "NEMA (National Electrical Manufacturers Association)<SEP>핵의학진단 (Nuclear Medicine Diagnosis)"
+  },
+  "PET/CT<SEP>대장암 (Colon Cancer)": {
+    "chunk_ids": [
+      "chunk-eb74ec9701cca8844ee19c555b60135b"
+    ],
+    "count": 1,
+    "create_time": 1775523353,
+    "update_time": 1775523353,
+    "_id": "PET/CT<SEP>대장암 (Colon Cancer)"
+  },
+  "WHO (World Health Organization)<SEP>핵의학진단 (Nuclear Medicine Diagnosis)": {
+    "chunk_ids": [
+      "chunk-eb74ec9701cca8844ee19c555b60135b"
+    ],
+    "count": 1,
+    "create_time": 1775523353,
+    "update_time": 1775523353,
+    "_id": "WHO (World Health Organization)<SEP>핵의학진단 (Nuclear Medicine Diagnosis)"
+  },
+  "PET/CT<SEP>두경부암 (Head and Neck Cancer)": {
+    "chunk_ids": [
+      "chunk-eb74ec9701cca8844ee19c555b60135b"
+    ],
+    "count": 1,
+    "create_time": 1775523354,
+    "update_time": 1775523354,
+    "_id": "PET/CT<SEP>두경부암 (Head and Neck Cancer)"
+  },
+  "AAPM (American Association of Physicists in Medicine)<SEP>핵의학진단 (Nuclear Medicine Diagnosis)": {
+    "chunk_ids": [
+      "chunk-eb74ec9701cca8844ee19c555b60135b"
+    ],
+    "count": 1,
+    "create_time": 1775523354,
+    "update_time": 1775523354,
+    "_id": "AAPM (American Association of Physicists in Medicine)<SEP>핵의학진단 (Nuclear Medicine Diagnosis)"
+  },
+  "CT<SEP>방사성의약품 (Radiopharmaceutical)": {
+    "chunk_ids": [
+      "chunk-eb74ec9701cca8844ee19c555b60135b"
+    ],
+    "count": 1,
+    "create_time": 1775523354,
+    "update_time": 1775523354,
+    "_id": "CT<SEP>방사성의약품 (Radiopharmaceutical)"
+  },
+  "PET/CT<SEP>림프종 (Lymphoma)": {
+    "chunk_ids": [
+      "chunk-eb74ec9701cca8844ee19c555b60135b"
+    ],
+    "count": 1,
+    "create_time": 1775523354,
+    "update_time": 1775523354,
+    "_id": "PET/CT<SEP>림프종 (Lymphoma)"
+  },
+  "PET/CT<SEP>흑색종 (Melanoma)": {
+    "chunk_ids": [
+      "chunk-eb74ec9701cca8844ee19c555b60135b"
+    ],
+    "count": 1,
+    "create_time": 1775523355,
+    "update_time": 1775523355,
+    "_id": "PET/CT<SEP>흑색종 (Melanoma)"
+  },
+  "PET/CT<SEP>근골격계암 (Musculoskeletal Cancer)": {
+    "chunk_ids": [
+      "chunk-eb74ec9701cca8844ee19c555b60135b"
+    ],
+    "count": 1,
+    "create_time": 1775523355,
+    "update_time": 1775523355,
+    "_id": "PET/CT<SEP>근골격계암 (Musculoskeletal Cancer)"
+  },
+  "PET/CT<SEP>자궁경부암 (Cervical Cancer)": {
+    "chunk_ids": [
+      "chunk-eb74ec9701cca8844ee19c555b60135b"
+    ],
+    "count": 1,
+    "create_time": 1775523356,
+    "update_time": 1775523356,
+    "_id": "PET/CT<SEP>자궁경부암 (Cervical Cancer)"
+  },
+  "PET/CT<SEP>난소암 (Ovarian Cancer)": {
+    "chunk_ids": [
+      "chunk-eb74ec9701cca8844ee19c555b60135b"
+    ],
+    "count": 1,
+    "create_time": 1775523356,
+    "update_time": 1775523356,
+    "_id": "PET/CT<SEP>난소암 (Ovarian Cancer)"
+  },
+  "PET/CT<SEP>신장 (Kidney)": {
+    "chunk_ids": [
+      "chunk-eb74ec9701cca8844ee19c555b60135b"
+    ],
+    "count": 1,
+    "create_time": 1775523357,
+    "update_time": 1775523357,
+    "_id": "PET/CT<SEP>신장 (Kidney)"
+  },
+  "PET/CT<SEP>요관 (Ureter)": {
+    "chunk_ids": [
+      "chunk-eb74ec9701cca8844ee19c555b60135b"
+    ],
+    "count": 1,
+    "create_time": 1775523357,
+    "update_time": 1775523357,
+    "_id": "PET/CT<SEP>요관 (Ureter)"
+  },
+  "IAEA<SEP>성능시험의지침서": {
+    "chunk_ids": [
+      "chunk-bd9b2058fcee8557f56b570183925ebd"
+    ],
+    "count": 1,
+    "create_time": 1775523357,
+    "update_time": 1775523357,
+    "_id": "IAEA<SEP>성능시험의지침서"
+  },
+  "PET/CT<SEP>방광 (Bladder)": {
+    "chunk_ids": [
+      "chunk-eb74ec9701cca8844ee19c555b60135b"
+    ],
+    "count": 1,
+    "create_time": 1775523358,
+    "update_time": 1775523358,
+    "_id": "PET/CT<SEP>방광 (Bladder)"
+  },
+  "NEMA<SEP>성능시험의지침서": {
+    "chunk_ids": [
+      "chunk-bd9b2058fcee8557f56b570183925ebd"
+    ],
+    "count": 1,
+    "create_time": 1775523358,
+    "update_time": 1775523358,
+    "_id": "NEMA<SEP>성능시험의지침서"
+  },
+  "PET/CT<SEP>전립선 (Prostate)": {
+    "chunk_ids": [
+      "chunk-eb74ec9701cca8844ee19c555b60135b"
+    ],
+    "count": 1,
+    "create_time": 1775523358,
+    "update_time": 1775523358,
+    "_id": "PET/CT<SEP>전립선 (Prostate)"
+  },
+  "WHO<SEP>성능시험의지침서": {
+    "chunk_ids": [
+      "chunk-bd9b2058fcee8557f56b570183925ebd"
+    ],
+    "count": 1,
+    "create_time": 1775523358,
+    "update_time": 1775523358,
+    "_id": "WHO<SEP>성능시험의지침서"
+  },
+  "Scintillation Camera QC<SEP>전력의공급형태": {
+    "chunk_ids": [
+      "chunk-bd9b2058fcee8557f56b570183925ebd"
+    ],
+    "count": 1,
+    "create_time": 1775523358,
+    "update_time": 1775523358,
+    "_id": "Scintillation Camera QC<SEP>전력의공급형태"
+  },
+  "PET/CT<SEP>간암 (Liver Cancer)": {
+    "chunk_ids": [
+      "chunk-eb74ec9701cca8844ee19c555b60135b"
+    ],
+    "count": 1,
+    "create_time": 1775523359,
+    "update_time": 1775523359,
+    "_id": "PET/CT<SEP>간암 (Liver Cancer)"
+  },
+  "Scintillation Camera QC<SEP>온도": {
+    "chunk_ids": [
+      "chunk-bd9b2058fcee8557f56b570183925ebd"
+    ],
+    "count": 1,
+    "create_time": 1775523359,
+    "update_time": 1775523359,
+    "_id": "Scintillation Camera QC<SEP>온도"
+  },
+  "AAPM<SEP>성능시험의지침서": {
+    "chunk_ids": [
+      "chunk-bd9b2058fcee8557f56b570183925ebd"
+    ],
+    "count": 1,
+    "create_time": 1775523359,
+    "update_time": 1775523359,
+    "_id": "AAPM<SEP>성능시험의지침서"
+  },
+  "PET/CT<SEP>위암 (Stomach Cancer)": {
+    "chunk_ids": [
+      "chunk-eb74ec9701cca8844ee19c555b60135b"
+    ],
+    "count": 1,
+    "create_time": 1775523359,
+    "update_time": 1775523359,
+    "_id": "PET/CT<SEP>위암 (Stomach Cancer)"
+  },
+  "정도관리<SEP>핵의학진단": {
+    "chunk_ids": [
+      "chunk-bd9b2058fcee8557f56b570183925ebd"
+    ],
+    "count": 1,
+    "create_time": 1775523359,
+    "update_time": 1775523359,
+    "_id": "정도관리<SEP>핵의학진단"
+  },
+  "Scintillation Camera QC<SEP>습도": {
+    "chunk_ids": [
+      "chunk-bd9b2058fcee8557f56b570183925ebd"
+    ],
+    "count": 1,
+    "create_time": 1775523360,
+    "update_time": 1775523360,
+    "_id": "Scintillation Camera QC<SEP>습도"
+  },
+  "Gamma Camera<SEP>정도관리항목": {
+    "chunk_ids": [
+      "chunk-bd9b2058fcee8557f56b570183925ebd"
+    ],
+    "count": 1,
+    "create_time": 1775523360,
+    "update_time": 1775523360,
+    "_id": "Gamma Camera<SEP>정도관리항목"
+  },
+  "Flood Phantom<SEP>Uniformity": {
+    "chunk_ids": [
+      "chunk-34f62ef495ef155167a515f56fca8173"
+    ],
+    "count": 1,
+    "create_time": 1775523360,
+    "update_time": 1775523360,
+    "_id": "Flood Phantom<SEP>Uniformity"
+  },
+  "PET/CT<SEP>초음파 (Ultrasound)": {
+    "chunk_ids": [
+      "chunk-eb74ec9701cca8844ee19c555b60135b"
+    ],
+    "count": 1,
+    "create_time": 1775523360,
+    "update_time": 1775523360,
+    "_id": "PET/CT<SEP>초음파 (Ultrasound)"
+  },
+  "Collimator<SEP>Intrinsic Flood Uniformity": {
+    "chunk_ids": [
+      "chunk-34f62ef495ef155167a515f56fca8173"
+    ],
+    "count": 1,
+    "create_time": 1775523360,
+    "update_time": 1775523360,
+    "_id": "Collimator<SEP>Intrinsic Flood Uniformity"
+  },
+  "Scintillation Camera QC<SEP>공기의오염정도와BKG radiation": {
+    "chunk_ids": [
+      "chunk-bd9b2058fcee8557f56b570183925ebd"
+    ],
+    "count": 1,
+    "create_time": 1775523360,
+    "update_time": 1775523360,
+    "_id": "Scintillation Camera QC<SEP>공기의오염정도와BKG radiation"
+  },
+  "57Co Sheet Phantom<SEP>Extrinsic Flood Uniformity": {
+    "chunk_ids": [
+      "chunk-34f62ef495ef155167a515f56fca8173"
+    ],
+    "count": 1,
+    "create_time": 1775523360,
+    "update_time": 1775523360,
+    "_id": "57Co Sheet Phantom<SEP>Extrinsic Flood Uniformity"
+  },
+  "PET/CT<SEP>감마카메라 (Gamma Camera)": {
+    "chunk_ids": [
+      "chunk-eb74ec9701cca8844ee19c555b60135b"
+    ],
+    "count": 1,
+    "create_time": 1775523360,
+    "update_time": 1775523360,
+    "_id": "PET/CT<SEP>감마카메라 (Gamma Camera)"
+  },
+  "Integral Uniformity<SEP>UFOV": {
+    "chunk_ids": [
+      "chunk-34f62ef495ef155167a515f56fca8173"
+    ],
+    "count": 1,
+    "create_time": 1775523360,
+    "update_time": 1775523360,
+    "_id": "Integral Uniformity<SEP>UFOV"
+  },
+  "Phantom<SEP>왜곡도": {
+    "chunk_ids": [
+      "chunk-34f62ef495ef155167a515f56fca8173"
+    ],
+    "count": 1,
+    "create_time": 1775523361,
+    "update_time": 1775523361,
+    "_id": "Phantom<SEP>왜곡도"
+  },
+  "99mTc Sheet Phantom<SEP>Extrinsic Flood Uniformity": {
+    "chunk_ids": [
+      "chunk-34f62ef495ef155167a515f56fca8173"
+    ],
+    "count": 1,
+    "create_time": 1775523361,
+    "update_time": 1775523361,
+    "_id": "99mTc Sheet Phantom<SEP>Extrinsic Flood Uniformity"
+  },
+  "Intrinsic Flood Uniformity<SEP>방사능량": {
+    "chunk_ids": [
+      "chunk-34f62ef495ef155167a515f56fca8173"
+    ],
+    "count": 1,
+    "create_time": 1775523361,
+    "update_time": 1775523361,
+    "_id": "Intrinsic Flood Uniformity<SEP>방사능량"
+  },
+  "CFOV<SEP>Integral Uniformity": {
+    "chunk_ids": [
+      "chunk-34f62ef495ef155167a515f56fca8173"
+    ],
+    "count": 1,
+    "create_time": 1775523361,
+    "update_time": 1775523361,
+    "_id": "CFOV<SEP>Integral Uniformity"
+  },
+  "Phantom<SEP>균일도": {
+    "chunk_ids": [
+      "chunk-34f62ef495ef155167a515f56fca8173"
+    ],
+    "count": 1,
+    "create_time": 1775523361,
+    "update_time": 1775523361,
+    "_id": "Phantom<SEP>균일도"
+  },
+  "Collimator<SEP>Extrinsic Flood Uniformity": {
+    "chunk_ids": [
+      "chunk-34f62ef495ef155167a515f56fca8173"
+    ],
+    "count": 1,
+    "create_time": 1775523361,
+    "update_time": 1775523361,
+    "_id": "Collimator<SEP>Extrinsic Flood Uniformity"
+  },
+  "Phantom<SEP>직선성": {
+    "chunk_ids": [
+      "chunk-34f62ef495ef155167a515f56fca8173",
+      "chunk-833544a0af4106771fa805c95df67753"
+    ],
+    "count": 2,
+    "update_time": 1775523391,
+    "_id": "Phantom<SEP>직선성"
+  },
+  "Lead Bar<SEP>선성검사": {
+    "chunk_ids": [
+      "chunk-475783fc231bbcff930d8d8bc16de315"
+    ],
+    "count": 1,
+    "create_time": 1775523384,
+    "update_time": 1775523384,
+    "_id": "Lead Bar<SEP>선성검사"
+  },
+  "고유영상왜곡<SEP>납격자상 Phantom": {
+    "chunk_ids": [
+      "chunk-475783fc231bbcff930d8d8bc16de315"
+    ],
+    "count": 1,
+    "create_time": 1775523384,
+    "update_time": 1775523384,
+    "_id": "고유영상왜곡<SEP>납격자상 Phantom"
+  },
+  "Collimator<SEP>종합영상왜곡": {
+    "chunk_ids": [
+      "chunk-475783fc231bbcff930d8d8bc16de315"
+    ],
+    "count": 1,
+    "create_time": 1775523384,
+    "update_time": 1775523384,
+    "_id": "Collimator<SEP>종합영상왜곡"
+  },
+  "Distortion의 종류<SEP>Pin Cushion Distortion": {
+    "chunk_ids": [
+      "chunk-475783fc231bbcff930d8d8bc16de315"
+    ],
+    "count": 1,
+    "create_time": 1775523384,
+    "update_time": 1775523384,
+    "_id": "Distortion의 종류<SEP>Pin Cushion Distortion"
+  },
+  "γ-Camera<SEP>감도(예민도 Sensitivity)": {
+    "chunk_ids": [
+      "chunk-475783fc231bbcff930d8d8bc16de315"
+    ],
+    "count": 1,
+    "create_time": 1775523384,
+    "update_time": 1775523384,
+    "_id": "γ-Camera<SEP>감도(예민도 Sensitivity)"
+  },
+  "Scinticamera<SEP>Scintillator": {
+    "chunk_ids": [
+      "chunk-475783fc231bbcff930d8d8bc16de315"
+    ],
+    "count": 1,
+    "create_time": 1775523384,
+    "update_time": 1775523384,
+    "_id": "Scinticamera<SEP>Scintillator"
+  },
+  "Cold Lesion<SEP>장기 Phantom": {
+    "chunk_ids": [
+      "chunk-475783fc231bbcff930d8d8bc16de315"
+    ],
+    "count": 1,
+    "create_time": 1775523385,
+    "update_time": 1775523385,
+    "_id": "Cold Lesion<SEP>장기 Phantom"
+  },
+  "Flood Phantom<SEP>감도(예민도 Sensitivity)": {
+    "chunk_ids": [
+      "chunk-475783fc231bbcff930d8d8bc16de315"
+    ],
+    "count": 1,
+    "create_time": 1775523385,
+    "update_time": 1775523385,
+    "_id": "Flood Phantom<SEP>감도(예민도 Sensitivity)"
+  },
+  "Collimator<SEP>Scinticamera": {
+    "chunk_ids": [
+      "chunk-475783fc231bbcff930d8d8bc16de315"
+    ],
+    "count": 1,
+    "create_time": 1775523385,
+    "update_time": 1775523385,
+    "_id": "Collimator<SEP>Scinticamera"
+  },
+  "Hot Spot<SEP>장기 Phantom": {
+    "chunk_ids": [
+      "chunk-475783fc231bbcff930d8d8bc16de315"
+    ],
+    "count": 1,
+    "create_time": 1775523385,
+    "update_time": 1775523385,
+    "_id": "Hot Spot<SEP>장기 Phantom"
+  },
+  "Barrel Cushion Distortion<SEP>Distortion의 종류": {
+    "chunk_ids": [
+      "chunk-475783fc231bbcff930d8d8bc16de315"
+    ],
+    "count": 1,
+    "create_time": 1775523385,
+    "update_time": 1775523385,
+    "_id": "Barrel Cushion Distortion<SEP>Distortion의 종류"
+  },
+  "검출기<SEP>점선원": {
+    "chunk_ids": [
+      "chunk-475783fc231bbcff930d8d8bc16de315"
+    ],
+    "count": 1,
+    "create_time": 1775523385,
+    "update_time": 1775523385,
+    "_id": "검출기<SEP>점선원"
+  },
+  "Flood Phantom<SEP>Scinticamera": {
+    "chunk_ids": [
+      "chunk-475783fc231bbcff930d8d8bc16de315"
+    ],
+    "count": 1,
+    "create_time": 1775523385,
+    "update_time": 1775523385,
+    "_id": "Flood Phantom<SEP>Scinticamera"
+  },
+  "Hine-Duley Phantom<SEP>장기 Phantom": {
+    "chunk_ids": [
+      "chunk-475783fc231bbcff930d8d8bc16de315"
+    ],
+    "count": 1,
+    "create_time": 1775523386,
+    "update_time": 1775523386,
+    "_id": "Hine-Duley Phantom<SEP>장기 Phantom"
+  },
+  "PLES(Parallel -Line Equal Space) Phantom<SEP>장기 Phantom": {
+    "chunk_ids": [
+      "chunk-475783fc231bbcff930d8d8bc16de315"
+    ],
+    "count": 1,
+    "create_time": 1775523386,
+    "update_time": 1775523386,
+    "_id": "PLES(Parallel -Line Equal Space) Phantom<SEP>장기 Phantom"
+  },
+  "Hine-Duley Phantom<SEP>공간분해능": {
+    "chunk_ids": [
+      "chunk-475783fc231bbcff930d8d8bc16de315"
+    ],
+    "count": 1,
+    "create_time": 1775523386,
+    "update_time": 1775523386,
+    "_id": "Hine-Duley Phantom<SEP>공간분해능"
+  },
+  "Four Quadrant Bar Phantom<SEP>장기 Phantom": {
+    "chunk_ids": [
+      "chunk-475783fc231bbcff930d8d8bc16de315"
+    ],
+    "count": 1,
+    "create_time": 1775523387,
+    "update_time": 1775523387,
+    "_id": "Four Quadrant Bar Phantom<SEP>장기 Phantom"
+  },
+  "Flood Phantom<SEP>균일도": {
+    "chunk_ids": [
+      "chunk-475783fc231bbcff930d8d8bc16de315"
+    ],
+    "count": 1,
+    "create_time": 1775523387,
+    "update_time": 1775523387,
+    "_id": "Flood Phantom<SEP>균일도"
+  },
+  "PLES(Parallel -Line Equal Space) Phantom<SEP>공간분해능": {
+    "chunk_ids": [
+      "chunk-475783fc231bbcff930d8d8bc16de315"
+    ],
+    "count": 1,
+    "create_time": 1775523387,
+    "update_time": 1775523387,
+    "_id": "PLES(Parallel -Line Equal Space) Phantom<SEP>공간분해능"
+  },
+  "Hine-Duley Phantom<SEP>직선성": {
+    "chunk_ids": [
+      "chunk-475783fc231bbcff930d8d8bc16de315"
+    ],
+    "count": 1,
+    "create_time": 1775523387,
+    "update_time": 1775523387,
+    "_id": "Hine-Duley Phantom<SEP>직선성"
+  },
+  "Smith Orthogonal Hole Phantom<SEP>장기 Phantom": {
+    "chunk_ids": [
+      "chunk-475783fc231bbcff930d8d8bc16de315"
+    ],
+    "count": 1,
+    "create_time": 1775523387,
+    "update_time": 1775523387,
+    "_id": "Smith Orthogonal Hole Phantom<SEP>장기 Phantom"
+  },
+  "Intrinsic Resolution<SEP>Spatial Resolution": {
+    "chunk_ids": [
+      "chunk-435f46f7df27683a6f082e9ae451704b"
+    ],
+    "count": 1,
+    "create_time": 1775523387,
+    "update_time": 1775523387,
+    "_id": "Intrinsic Resolution<SEP>Spatial Resolution"
+  },
+  "Digital Imaging Method<SEP>LSF": {
+    "chunk_ids": [
+      "chunk-435f46f7df27683a6f082e9ae451704b"
+    ],
+    "count": 1,
+    "create_time": 1775523388,
+    "update_time": 1775523388,
+    "_id": "Digital Imaging Method<SEP>LSF"
+  },
+  "Extrinsic Resolution<SEP>Spatial Resolution": {
+    "chunk_ids": [
+      "chunk-435f46f7df27683a6f082e9ae451704b"
+    ],
+    "count": 1,
+    "create_time": 1775523388,
+    "update_time": 1775523388,
+    "_id": "Extrinsic Resolution<SEP>Spatial Resolution"
+  },
+  "Four Quadrant Bar Phantom<SEP>균일도": {
+    "chunk_ids": [
+      "chunk-475783fc231bbcff930d8d8bc16de315"
+    ],
+    "count": 1,
+    "create_time": 1775523388,
+    "update_time": 1775523388,
+    "_id": "Four Quadrant Bar Phantom<SEP>균일도"
+  },
+  "Smith Orthogonal Hole Phantom<SEP>직선성": {
+    "chunk_ids": [
+      "chunk-475783fc231bbcff930d8d8bc16de315"
+    ],
+    "count": 1,
+    "create_time": 1775523388,
+    "update_time": 1775523388,
+    "_id": "Smith Orthogonal Hole Phantom<SEP>직선성"
+  },
+  "Digital Imaging Method<SEP>MTF": {
+    "chunk_ids": [
+      "chunk-435f46f7df27683a6f082e9ae451704b"
+    ],
+    "count": 1,
+    "create_time": 1775523388,
+    "update_time": 1775523388,
+    "_id": "Digital Imaging Method<SEP>MTF"
+  },
+  "Energy Resolution<SEP>Gamma Ray Spectrum": {
+    "chunk_ids": [
+      "chunk-435f46f7df27683a6f082e9ae451704b"
+    ],
+    "count": 1,
+    "create_time": 1775523388,
+    "update_time": 1775523388,
+    "_id": "Energy Resolution<SEP>Gamma Ray Spectrum"
+  },
+  "Four Quadrant Bar Phantom<SEP>System Resolution": {
+    "chunk_ids": [
+      "chunk-435f46f7df27683a6f082e9ae451704b"
+    ],
+    "count": 1,
+    "create_time": 1775523388,
+    "update_time": 1775523388,
+    "_id": "Four Quadrant Bar Phantom<SEP>System Resolution"
+  },
+  "Flood Phantom<SEP>직선성": {
+    "chunk_ids": [
+      "chunk-475783fc231bbcff930d8d8bc16de315"
+    ],
+    "count": 1,
+    "create_time": 1775523389,
+    "update_time": 1775523389,
+    "_id": "Flood Phantom<SEP>직선성"
+  },
+  "Lead Bar<SEP>Linearity & Distortion": {
+    "chunk_ids": [
+      "chunk-435f46f7df27683a6f082e9ae451704b"
+    ],
+    "count": 1,
+    "create_time": 1775523389,
+    "update_time": 1775523389,
+    "_id": "Lead Bar<SEP>Linearity & Distortion"
+  },
+  "99mTc 점선원<SEP>Energy Resolution": {
+    "chunk_ids": [
+      "chunk-435f46f7df27683a6f082e9ae451704b"
+    ],
+    "count": 1,
+    "create_time": 1775523389,
+    "update_time": 1775523389,
+    "_id": "99mTc 점선원<SEP>Energy Resolution"
+  },
+  "Four Quadrant Bar Phantom<SEP>Tc-99m": {
+    "chunk_ids": [
+      "chunk-435f46f7df27683a6f082e9ae451704b"
+    ],
+    "count": 1,
+    "create_time": 1775523389,
+    "update_time": 1775523389,
+    "_id": "Four Quadrant Bar Phantom<SEP>Tc-99m"
+  },
+  "Scinticamera<SEP>Spatial Resolution": {
+    "chunk_ids": [
+      "chunk-435f46f7df27683a6f082e9ae451704b"
+    ],
+    "count": 1,
+    "create_time": 1775523389,
+    "update_time": 1775523389,
+    "_id": "Scinticamera<SEP>Spatial Resolution"
+  },
+  "Lead Grid Phantom<SEP>Linearity & Distortion": {
+    "chunk_ids": [
+      "chunk-435f46f7df27683a6f082e9ae451704b"
+    ],
+    "count": 1,
+    "create_time": 1775523389,
+    "update_time": 1775523389,
+    "_id": "Lead Grid Phantom<SEP>Linearity & Distortion"
+  },
+  "Detector 1<SEP>Detector 2": {
+    "chunk_ids": [
+      "chunk-833544a0af4106771fa805c95df67753"
+    ],
+    "count": 1,
+    "create_time": 1775523389,
+    "update_time": 1775523389,
+    "_id": "Detector 1<SEP>Detector 2"
+  },
+  "57Co 점선원<SEP>Energy Resolution": {
+    "chunk_ids": [
+      "chunk-435f46f7df27683a6f082e9ae451704b"
+    ],
+    "count": 1,
+    "create_time": 1775523389,
+    "update_time": 1775523389,
+    "_id": "57Co 점선원<SEP>Energy Resolution"
+  },
+  "Phantom<SEP>Spatial Resolution": {
+    "chunk_ids": [
+      "chunk-833544a0af4106771fa805c95df67753"
+    ],
+    "count": 1,
+    "create_time": 1775523389,
+    "update_time": 1775523389,
+    "_id": "Phantom<SEP>Spatial Resolution"
+  },
+  "99mTc Point Source<SEP>COR Phantom": {
+    "chunk_ids": [
+      "chunk-833544a0af4106771fa805c95df67753"
+    ],
+    "count": 1,
+    "create_time": 1775523389,
+    "update_time": 1775523389,
+    "_id": "99mTc Point Source<SEP>COR Phantom"
+  },
+  "Co-57<SEP>Four Quadrant Bar Phantom": {
+    "chunk_ids": [
+      "chunk-435f46f7df27683a6f082e9ae451704b"
+    ],
+    "count": 1,
+    "create_time": 1775523389,
+    "update_time": 1775523389,
+    "_id": "Co-57<SEP>Four Quadrant Bar Phantom"
+  },
+  "Phantom<SEP>단면 Slice Phantom 영상": {
+    "chunk_ids": [
+      "chunk-833544a0af4106771fa805c95df67753"
+    ],
+    "count": 1,
+    "create_time": 1775523390,
+    "update_time": 1775523390,
+    "_id": "Phantom<SEP>단면 Slice Phantom 영상"
+  },
+  "COR Calibration<SEP>COR Phantom": {
+    "chunk_ids": [
+      "chunk-833544a0af4106771fa805c95df67753"
+    ],
+    "count": 1,
+    "create_time": 1775523390,
+    "update_time": 1775523390,
+    "_id": "COR Calibration<SEP>COR Phantom"
+  },
+  "Phantom<SEP>간": {
+    "chunk_ids": [
+      "chunk-833544a0af4106771fa805c95df67753"
+    ],
+    "count": 1,
+    "create_time": 1775523391,
+    "update_time": 1775523391,
+    "_id": "Phantom<SEP>간"
+  },
+  "Phantom<SEP>갑상선": {
+    "chunk_ids": [
+      "chunk-833544a0af4106771fa805c95df67753"
+    ],
+    "count": 1,
+    "create_time": 1775523391,
+    "update_time": 1775523391,
+    "_id": "Phantom<SEP>갑상선"
+  }
+}

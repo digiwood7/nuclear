@@ -1,0 +1,286 @@
+{
+  "doc-0d3a1215c59e5da49b2f93925ba501a5": {
+    "status": "processed",
+    "chunks_count": 4,
+    "chunks_list": [
+      "chunk-f4f41fc508019dd2e3e10e21d1a50fac",
+      "chunk-b06ed9f5e0dd9cd85ffaf0fc38757627",
+      "chunk-1f7b7855d5cca22ae703580be0fcfc7f",
+      "chunk-72590c67e60a69d417d259ef71baaf90"
+    ],
+    "content_summary": "[페이지 1-9]\nNuclear Medicine Ⅰ\n핵의학검사기술학학습목표(2022년부터적용~)\n이론\n핵의학검사기술학학습목표(2022년부터적용~)\n실기\nContrast\nkVp + sec →mAs\nX-ray\nNuclear Medicine\n점\nCount →time →투여량\n▪\n진단(Diagnosis)\n▪\n치료(Therapy)\nDepartment of Radiation\nDepartment of Nuclear Medicine\n▪\n진단(Diagnosis...",
+    "content_length": 3998,
+    "created_at": "2026-04-07T00:48:08.795197+00:00",
+    "updated_at": "2026-04-07T00:48:38.489814+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260407_094808_ef07b4f1",
+    "metadata": {
+      "processing_start_time": 1775522888,
+      "processing_end_time": 1775522918
+    }
+  },
+  "doc-47cbf99b6049ac27a32f0b758569482d": {
+    "status": "processed",
+    "chunks_count": 5,
+    "chunks_list": [
+      "chunk-428583e70d87d887ad563511e218180d",
+      "chunk-aba8bf30078b2233792d56a3c43c08ac",
+      "chunk-ad2bbaf70d414921fce8a89c3f0030d8",
+      "chunk-734454390e5e52b722069b53101aa55e",
+      "chunk-16be9377fc737f76ca60084b1220e8de"
+    ],
+    "content_summary": "Camera\n2. PET Scanner\n①방사성의약품에서방출하는감마선을빛으로변환하여영상을만듦\n②양전자가소멸되어방출되는감마선을검출하는검출기와신호처리시스템, 동시계수회로등으로구성\n③Scanner의제어, 영상의재구성, 그리고영상을분석하고표현할수있는고성능컴퓨터사용\n4. In vitro 검사장비\n5. 원자로\n연구용하나로원자로\n하나로원자로내부\n▪\n핵의학검사용핵종생산: 131I, 99Mo 등의핵종\n6. 사이크로트론(Cyclotron)\n▪\nPET/CT 용방사...",
+    "content_length": 4000,
+    "created_at": "2026-04-07T00:48:38.522050+00:00",
+    "updated_at": "2026-04-07T00:49:12.709565+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260407_094838_f6fc7c7e",
+    "metadata": {
+      "processing_start_time": 1775522918,
+      "processing_end_time": 1775522952
+    }
+  },
+  "doc-80d8144e216d22525a067fc4d9e7d5e3": {
+    "status": "processed",
+    "chunks_count": 5,
+    "chunks_list": [
+      "chunk-753835320b6c915866df2a673bba93bb",
+      "chunk-c6c70af745f8587837b4afa84c640794",
+      "chunk-1361a0035ac4f0205b268905baaa03f2",
+      "chunk-9d83407b553bdad56b98cf8fd5be64bc",
+      "chunk-5cc4f3cae46ab52d7568311ee83cce87"
+    ],
+    "content_summary": "방출한\n다.\n▪\n결과적으로물질에는전혀흡수가일어나지않으므로\n에너지는변함이없다. 즉에너지전이계수는0이다.\n이현상에서는전리가일어나지않으며, 단지방향만\n변한다. 톰슨산란은콤프턴산란의저에너지(장파장)\n극한에해당한다.\n2) 광전효과(Photoelectric effect)\n①개념\n▪\n1905년아인슈타인은플랑크가제안한양자론을도입하여광전효과를설명\n▪\n진단분야에서의개념: 물질에입사하는광자는주로내각의궤도전자에부딪혀그에너지를\n모두전자에게주고입사된광자는소멸하는현상이다...",
+    "content_length": 4000,
+    "created_at": "2026-04-07T00:49:12.747513+00:00",
+    "updated_at": "2026-04-07T00:49:45.759695+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260407_094912_2c3bd832",
+    "metadata": {
+      "processing_start_time": 1775522952,
+      "processing_end_time": 1775522985
+    }
+  },
+  "doc-77ab67b1accce7a57ce5edc88c0796d9": {
+    "status": "processed",
+    "chunks_count": 5,
+    "chunks_list": [
+      "chunk-01aeb670194fbaa7323582a61264ce3a",
+      "chunk-06409f405ed68573d707ceaadba57801",
+      "chunk-2a8d3df39b55d27db11892fbbfe761c8",
+      "chunk-924d4e084e2a6643308b6bc76af06895",
+      "chunk-d2560261ba3aefb8f27a0ce13326a00d"
+    ],
+    "content_summary": "해주는물질\n▪\ncarrier free(무담체)\n➢방사성원소가그안정동위원소를포함하지않고존재하는상태\n\n[페이지 78-80]\n3. In-vitro 방사성의약품특징\n1) 비교적낮은에너지의γ선이나β-선을방출하며반감기가긴편이다.\n①125I\n▪\n반감기60일,  γ선만방출하며,  에너지는35 KeV로낮은편이다.\n▪\n124Xe에열중성자조사로125Xe 이것이붕괴해생산된125I를분리하여무담체생성\n▪\n반감기가60일로In vitro 측정에적당하고옥소는티로신(tyros...",
+    "content_length": 4000,
+    "created_at": "2026-04-07T00:49:45.797695+00:00",
+    "updated_at": "2026-04-07T00:50:23.428152+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260407_094945_ceacbc2b",
+    "metadata": {
+      "processing_start_time": 1775522985,
+      "processing_end_time": 1775523023
+    }
+  },
+  "doc-396fd6f3e774f288a4396327ba46aba7": {
+    "status": "processed",
+    "chunks_count": 5,
+    "chunks_list": [
+      "chunk-fd28894fc7b2a8aeb26f735075d67fb8",
+      "chunk-9e10d247e7c97528d1ea50ec0eb927f2",
+      "chunk-07321f301db639ed7357619e9557e638",
+      "chunk-fda9da9d7fcaa192c940b687cf738dd0",
+      "chunk-0fd3b634121b073e3e05f1ec562accd6"
+    ],
+    "content_summary": "적혈구량\n59Fe\n59FeCl3\n44.6일\n0.466\n1.099\n철대사, 빈혈등혈액질환검사\n59Fe-citrate\n0.273\n1.292\n67Ga\n67Ga-citrate\n78.3시간\n0.093, 0.185\n종양영상, 염증영상\n0.300\n81Rb\n4.6시간\n1.05\n0.511(β +)\n81Rb-81mKr generator\n81mKr\n식염수에용해\n13초\n0.190\n폐환기능, 폐환기영상\n99Mo\n99Mo42\n-\n66시간\n1.21\n0.740\n99Mo-9...",
+    "content_length": 4000,
+    "created_at": "2026-04-07T00:50:23.476151+00:00",
+    "updated_at": "2026-04-07T00:51:52.027136+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260407_095023_30df9625",
+    "metadata": {
+      "processing_start_time": 1775523023,
+      "processing_end_time": 1775523112
+    }
+  },
+  "doc-6278258ec5e93ebca76e71f39612821d": {
+    "status": "processed",
+    "chunks_count": 4,
+    "chunks_list": [
+      "chunk-dadb2dd7986d02d7bbf1f38dea49af99",
+      "chunk-ae44ccfebfa3151a87d3796eb87d286e",
+      "chunk-dfe1a1928a0c8fd37b6094e61031eb3b",
+      "chunk-35a6e76b25728f999d21671d0895170a"
+    ],
+    "content_summary": "소뇌혈액량\nCO\n폐경색진단, 국소뇌산소대사율, 국소뇌혈류량\nHO\n국소뇌혈류량\n18F\nF-FDG\n110분\n종양영상, 심근․ 뇌당대사\nF-fluoro DOPA\n뇌기능검사(dopamine 대사)\n\n[페이지 110-112]\n•\n발생기(Generator, Cow-milking system, parent daughter system)\n- 1957년Strang에의해발명되어핵의학발전에결정적기여\n- 반감기가상대적으로큰어미핵종을입수하여방사평형원리에의해생성되는딸핵...",
+    "content_length": 4000,
+    "created_at": "2026-04-07T00:51:52.094135+00:00",
+    "updated_at": "2026-04-07T00:52:15.181648+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260407_095152_23662283",
+    "metadata": {
+      "processing_start_time": 1775523112,
+      "processing_end_time": 1775523135
+    }
+  },
+  "doc-abb2ab304886de5a7bcb175d74a87165": {
+    "status": "processed",
+    "chunks_count": 5,
+    "chunks_list": [
+      "chunk-78dbaba6777799b28327851a2d931cc2",
+      "chunk-6259ff245a0935f93363f0b914c89df9",
+      "chunk-e6950680210b027776828c422863fe88",
+      "chunk-d099e6145645b6e4bf2bca40e46eece2",
+      "chunk-2d69adcec116d52c682eb46b43c5af2f"
+    ],
+    "content_summary": "낮은곳으로\n⑥교환확산(exchange diffusion) : 이온교환\n⑦구획구분(compartmental localization) : 방사성가스, 표지적혈구등이용\n⑧화학적흡착또는물리화학적흡착(chemisorption or physicochemical adsorption) : 인산염결합\n⑨항원/항체반응(antigen/antibody Reaction) : 종양의진단이나치료\n⑩\n수용체결합(receptor binding) : 높은친화성\n⑪\n대사포획(m...",
+    "content_length": 4000,
+    "created_at": "2026-04-07T00:52:15.256648+00:00",
+    "updated_at": "2026-04-07T00:53:04.432610+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260407_095215_56e564e6",
+    "metadata": {
+      "processing_start_time": 1775523135,
+      "processing_end_time": 1775523184
+    }
+  },
+  "doc-fa0f17812e5408a9d901101b9398379a": {
+    "status": "processed",
+    "chunks_count": 4,
+    "chunks_list": [
+      "chunk-bc0ff97fcbf2499d0f352a78d92492f1",
+      "chunk-08708d5929cf7059523d87243b280f2c",
+      "chunk-73fd9633bf193d21c88e0cf35c08d9fa",
+      "chunk-42806c588e259e4d29cfb6bbb655c4b0"
+    ],
+    "content_summary": "마선의에너지\n▪\n100~500 keV 의범위(140keV에서약9% 에너지분해능유지)\n4. 측정\n▪\n갑상샘섭취율검사, 신장의레노그램, 기타방사능계수측정\n▪\n최근에는카메라에의한컴퓨터영상으로장기나조직의방사능치구하는방법을선호한다\n▪\nCf)  Flat field collimator 섭취율측정콜리메이터\n→넓은부위를검출기시야에포함하여갑상선섭취율측정\n섭취율측정시스템(Uptake Rate Measurement System)\n- 환자에게섭취된방사능을계수\n- 감마...",
+    "content_length": 4000,
+    "created_at": "2026-04-07T00:53:04.520609+00:00",
+    "updated_at": "2026-04-07T00:53:31.864646+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260407_095304_1f86c981",
+    "metadata": {
+      "processing_start_time": 1775523184,
+      "processing_end_time": 1775523211
+    }
+  },
+  "doc-95a52be2d176a455db41b51dbd17da3e": {
+    "status": "processed",
+    "chunks_count": 4,
+    "chunks_list": [
+      "chunk-abfdeda3e4621d85e0f953a3a7cee2a6",
+      "chunk-97bd5e81d74ceb332b6540d68a9844dd",
+      "chunk-6275b489d31d3ddb70252ffd8be243b7",
+      "chunk-03574e2708590c1fbd812aab77b1c581"
+    ],
+    "content_summary": "사용에너지에따라두께가달라진\n다.(0.2 ~ 수mm)\n▪\n격자의두께는방사선투과량이5 %를\n초과하지않도록한다.\n▪\n격벽의두께감소\n➢검출효율증가\n➢분해능저하\n(2) 홀(hole)\n▪홀의길이, 크기에따라분해능, 감도가\n달라진다.\n▪고해상도의콜리메이터\n➢홀의길이를길게혹은홀의크기를\n작게\n- 기하학적성분(Geometric) : 홀을통과하여섬광체에도달하는성분\n- 투과성분(Penetrate) : 격자를투과하여섬광체를도달하는성분\n- 산란성분(Scatter) : ...",
+    "content_length": 3999,
+    "created_at": "2026-04-07T00:53:31.959646+00:00",
+    "updated_at": "2026-04-07T00:53:55.704644+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260407_095331_8308d383",
+    "metadata": {
+      "processing_start_time": 1775523211,
+      "processing_end_time": 1775523235
+    }
+  },
+  "doc-b73aed1eb0cb3ed1eceefa8d59b49e2b": {
+    "status": "processed",
+    "chunks_count": 4,
+    "chunks_list": [
+      "chunk-ccbfd4804326f5caeaab817a2e208b7c",
+      "chunk-83b2ddf22a61c92feb5b93c9cf9b98eb",
+      "chunk-a1e99e5d45d87bc110fb72539f81b91d",
+      "chunk-47cbfe584ecc302692a5f14daa4b7ee6"
+    ],
+    "content_summary": "배율:\n▪M은4∼6의값을갖는다.\n▪10개정도의다이노드를가지면M=5이고증폭된총전자수는Mn = 510\n➢광전자를증폭시킴(일반적으로106~108개로증폭)\n(3) 양극(anode)\n▪증폭된전자를수집하여전기펄스로내보내는역할\n(4) 광전증배관의사용시주의사항\n▪\n규정전압만사용(1,000∼2,000V)\n▪\n고전압안정회로전원사용\n▪\n동작이안정될때까지충분한예열\n▪\n자기장차폐\n▪\n전압인가상태에서외부광선노출금지\n▪\n온도의존성있음(과열예방)\n- 섬광체(Crystal)...",
+    "content_length": 4000,
+    "created_at": "2026-04-07T00:53:55.805644+00:00",
+    "updated_at": "2026-04-07T00:54:26.857669+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260407_095355_563048ec",
+    "metadata": {
+      "processing_start_time": 1775523235,
+      "processing_end_time": 1775523266
+    }
+  },
+  "doc-f38522287bf4d46f65b80b9c8f9470c1": {
+    "status": "processed",
+    "chunks_count": 4,
+    "chunks_list": [
+      "chunk-b90292f9431fa43f118e063f626e7413",
+      "chunk-a8d83cceadb557de5590c9a00dcc986e",
+      "chunk-5c780a124da5a0a162247f1f1afa55b8",
+      "chunk-130264f031a5f67121c20eb9f791ffb6"
+    ],
+    "content_summary": "된다.\n②따라서360°를100 등분하면3.6° 간격으로회전시켜야한다.\n③실용상5~6 step이최적이며72~60 방향의자료를수집한다.\n\n[페이지 207-213]\n3) 회전범위\n①정량적인SPECT 상을얻기위해서는360°를원칙으로한다.\n②심근SPECT에서는LPO(좌후사위) 45°, RAO(우전사위) 45°로180° 회전으로자료를수집한다.\n4) Collimator의선택\n▪\n각Energy에맞는Collimator를사용\n▪\n저E 콜리메이터사용時거리에따른분해...",
+    "content_length": 4000,
+    "created_at": "2026-04-07T00:54:26.979214+00:00",
+    "updated_at": "2026-04-07T00:54:52.351154+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260407_095426_6eb741f0",
+    "metadata": {
+      "processing_start_time": 1775523266,
+      "processing_end_time": 1775523292
+    }
+  },
+  "doc-f95cbcfe1391f2709e283e3000b332d7": {
+    "status": "processed",
+    "chunks_count": 4,
+    "chunks_list": [
+      "chunk-04bcfb8da445fd49f5c837b6179c61bb",
+      "chunk-50349fd89c39a44e7081da426038f848",
+      "chunk-0782c64fcf3afb545cd9c3f803922e58",
+      "chunk-40baa4661c23d2fbeffe4480b2d4ce8e"
+    ],
+    "content_summary": "부터소멸방사선검출값을구함\n②검출한방사선이소멸방사선인가아닌가를판정하기위하여일정한에너지레벨이하의방사선을\n산란선으로서제거한다.\n③PET로부터펄스신호에의해그발생한시각을측정하고시간신호를동시계수회로로보낸다.\n5) 동시계수회로\n▪\n시간정보를근거로이것이1개의양전자소멸에의해방출된소멸방사선인가아닌가를판정하여양\n쪽의검출기로부터의펄스가동시에입력되었을때만출력신호를발생\n\n[페이지 235-238]\n▪\n장치는Ring type detector (=고리형검출소자) 사용\n1. ...",
+    "content_length": 4000,
+    "created_at": "2026-04-07T00:54:52.475154+00:00",
+    "updated_at": "2026-04-07T00:55:27.056273+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260407_095452_843c6c27",
+    "metadata": {
+      "processing_start_time": 1775523292,
+      "processing_end_time": 1775523327
+    }
+  },
+  "doc-f263232e15787da6d57f7dc264d3b178": {
+    "status": "processed",
+    "chunks_count": 4,
+    "chunks_list": [
+      "chunk-eb74ec9701cca8844ee19c555b60135b",
+      "chunk-bd9b2058fcee8557f56b570183925ebd",
+      "chunk-34f62ef495ef155167a515f56fca8173",
+      "chunk-7388f7ee8e7e66b19833edd200caba00"
+    ],
+    "content_summary": "방사성의약품을정맥주사하고40분후에몸전체를CT촬영\n2) 이어서PET검사를시행\n➢PET/CT 장비는암진단에효과적으로사용\n➢특히종양을CT, 감마카메라등에비해월등히앞선시기에진단할수있게되어암의조기진\n단을가능\n➢사용약품에따라당대사, 단백질대사, 핵산대사, 혈류등의다양한체내변화를영상으로얻\n을수있으며, 이중포도당대사를관찰하는검사가가장흔히쓰인다.\n➢PET만시행했을때생길수있는정상조직에의한진단오류를최소화하고진단성능을향상\nCT\nPET\nIntegrated Operat...",
+    "content_length": 3999,
+    "created_at": "2026-04-07T00:55:27.189272+00:00",
+    "updated_at": "2026-04-07T00:56:02.502834+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260407_095527_171d7c27",
+    "metadata": {
+      "processing_start_time": 1775523327,
+      "processing_end_time": 1775523362
+    }
+  },
+  "doc-b2cd791b36a86f5cd02abadce51a1cf7": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-435f46f7df27683a6f082e9ae451704b",
+      "chunk-475783fc231bbcff930d8d8bc16de315",
+      "chunk-833544a0af4106771fa805c95df67753"
+    ],
+    "content_summary": "ial Resolution)\nSpatial resolution = 해상력\n▪\nscinticamera의공간분해능\n①고유분해능(Intrinsic Resolution)\n②collimator 분해능(extrinsic Resolution)\n③종합분해능\n▪\n공간분해능평가하는방법\n①디지털영상법\n(1) LSF(line spread function) - 반치폭(FWHM)\n(2) MTF(modulation transfer function)\n②아날로그영상법\n(1)...",
+    "content_length": 3578,
+    "created_at": "2026-04-07T00:56:02.649832+00:00",
+    "updated_at": "2026-04-07T00:56:32.459422+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260407_095602_f3a8c477",
+    "metadata": {
+      "processing_start_time": 1775523362,
+      "processing_end_time": 1775523392
+    }
+  }
+}
