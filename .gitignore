@@ -1,0 +1,37 @@
+# Python
+.venv/
+.venv312/
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+node_modules/
+.next/
+out/
+
+# RAG 저장소 (대용량 벡터 DB)
+rag_storage/
+
+# 추출 결과 (대용량 이미지/청크)
+output/
+
+# 원본 PDF 교재 (저작권)
+reference/
+
+# 환경변수
+.env
+.env.local
+.env.production
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Vercel
+.vercel/
